@@ -1,0 +1,26 @@
+<article>
+	<h2 class="center-text">
+		{{ item.name }}
+	</h2>
+	<div>
+		<span class="center-img">
+			<img ng-src="{{ item.preview }}" alt="{{ item.name }} preview">
+		</span>
+		<div>
+			<p>{{ item.desc }}</p>
+			<div class="asset-footer">
+				<small ng-if="item.designer_info">Created by:
+					<span ng-repeat="designer in item.designer_info">
+						<a href="{{ designer.url }}">{{ designer.name }}</a>
+					</span>
+				</small>
+				<small ng-if="item.formats">Download:
+					<span ng-repeat="format in item.formats">
+						<a href="{{ format.link }}">{{ format.format }}</a>
+					</span>
+				</small>
+			</div>
+			<small class="center-text display-block" ng-if="item.fanmade">This asset is fanmade</small>
+		</div>
+	</div>
+</article>

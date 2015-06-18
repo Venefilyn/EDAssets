@@ -1,0 +1,4 @@
+<div class="content-header"><h2 class="center-text">{{ category }}</h2></div>
+<div class="types" ng-repeat="typeAsset in typeAssets | orderBy:'name'" >
+    <type-asset item="typeAsset"></types>
+</div>

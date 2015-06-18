@@ -1,0 +1,241 @@
+[
+  {
+    "name":"Pilots Federation ranks",
+    "types":[
+      {
+        "name": "Rank 1",
+        "preview": "img/preview/rank-1.png",
+        "desc": "The 1st rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Michael Hue",
+            "url":"https://www.reddit.com/user/michaelhue"
+          }
+        ],
+        "formats": [
+          {
+            "format":"EPS",
+            "link":"img/pilotsfederation/rank-1.eps"
+          },
+          {
+            "format":"PNG",
+            "link":"img/pilotsfederation/rank-1.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/pilotsfederation/rank-1.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 2",
+        "preview": "img/preview/rank-2.png",
+        "desc": "The 2nd rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Michael Hue",
+            "url":"https://www.reddit.com/user/michaelhue"
+          }
+        ],
+        "formats": [
+          {
+            "format":"EPS",
+            "link":"img/pilotsfederation/rank-1.eps"
+          },
+          {
+            "format":"PNG",
+            "link":"img/pilotsfederation/rank-2.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/pilotsfederation/rank-2.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 3",
+        "preview": "img/preview/rank-3.png",
+        "desc": "The 3rd rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Michael Hue",
+            "url":"https://www.reddit.com/user/michaelhue"
+          }
+        ],
+        "formats": [
+          {
+            "format":"EPS",
+            "link":"img/pilotsfederation/rank-3.eps"
+          },
+          {
+            "format":"PNG",
+            "link":"img/pilotsfederation/rank-3.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/pilotsfederation/rank-3.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 4",
+        "preview": "img/preview/rank-4.png",
+        "desc": "The 4th rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Michael Hue",
+            "url":"https://www.reddit.com/user/michaelhue"
+          }
+        ],
+        "formats": [
+          {
+            "format":"EPS",
+            "link":"img/pilotsfederation/rank-4.eps"
+          },
+          {
+            "format":"PNG",
+            "link":"img/pilotsfederation/rank-4.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/pilotsfederation/rank-4.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 5",
+        "preview": "img/preview/rank-5.png",
+        "desc": "The 5th rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Michael Hue",
+            "url":"https://www.reddit.com/user/michaelhue"
+          }
+        ],
+        "formats": [
+          {
+            "format":"EPS",
+            "link":"img/pilotsfederation/rank-5.eps"
+          },
+          {
+            "format":"PNG",
+            "link":"img/pilotsfederation/rank-5.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/pilotsfederation/rank-5.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 6",
+        "preview": "img/preview/rank-6.png",
+        "desc": "The 6th rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Michael Hue",
+            "url":"https://www.reddit.com/user/michaelhue"
+          }
+        ],
+        "formats": [
+          {
+            "format":"EPS",
+            "link":"img/pilotsfederation/rank-6.eps"
+          },
+          {
+            "format":"PNG",
+            "link":"img/pilotsfederation/rank-6.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/pilotsfederation/rank-6.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 7",
+        "preview": "img/preview/rank-7.png",
+        "desc": "The 7th rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Michael Hue",
+            "url":"https://www.reddit.com/user/michaelhue"
+          }
+        ],
+        "formats": [
+          {
+            "format":"EPS",
+            "link":"img/pilotsfederation/rank-7.eps"
+          },
+          {
+            "format":"PNG",
+            "link":"img/pilotsfederation/rank-7.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/pilotsfederation/rank-7.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 8",
+        "preview": "img/preview/rank-8.png",
+        "desc": "The 8th rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Michael Hue",
+            "url":"https://www.reddit.com/user/michaelhue"
+          }
+        ],
+        "formats": [
+          {
+            "format":"EPS",
+            "link":"img/pilotsfederation/rank-8.eps"
+          },
+          {
+            "format":"PNG",
+            "link":"img/pilotsfederation/rank-8.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/pilotsfederation/rank-8.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 9",
+        "preview": "img/preview/rank-9.png",
+        "desc": "The 9th rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Michael Hue",
+            "url":"https://www.reddit.com/user/michaelhue"
+          }
+        ],
+        "formats": [
+          {
+            "format":"EPS",
+            "link":"img/pilotsfederation/rank-9.eps"
+          },
+          {
+            "format":"PNG",
+            "link":"img/pilotsfederation/rank-9.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/pilotsfederation/rank-9.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

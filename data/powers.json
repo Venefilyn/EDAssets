@@ -1,0 +1,227 @@
+[
+  {
+    "name":"Powers",
+    "types":[
+      {
+        "name": "Aisling Duval",
+        "preview": "img/preview/Aisling-Duval.png",
+        "desc": "Arissa Duval icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/Aisling-Duval.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/Aisling-Duval.svg"
+          }
+        ]
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "preview": "img/preview/A-Lavigny-Duval.png",
+        "desc": "Arissa Lavigny-Duval icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/A-Lavigny-Duval.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/A-Lavigny-Duval.svg"
+          }
+        ]
+      },
+      {
+        "name": "Archon Delaine",
+        "preview": "img/preview/Archon-Delaine.png",
+        "desc": "Archon Delaine icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/Archon-Delaine.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/Archon-Delaine.svg"
+          }
+        ]
+      },
+      {
+        "name": "Denton Patreus",
+        "preview": "img/preview/Denton-Patreus.png",
+        "desc": "Denton Patreus icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/Denton-Patreus.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/Denton-Patreus.svg"
+          }
+        ]
+      },
+      {
+        "name": "Edmund Mahon",
+        "preview": "img/preview/Edmund-Mahon.png",
+        "desc": "Edmund Mahon icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/Edmund-Mahon.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/Edmund-Mahon.svg"
+          }
+        ]
+      },
+      {
+        "name": "Felicia Winters",
+        "preview": "img/preview/Felicia-Winters.png",
+        "desc": "Felicia Winters icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/Felicia-Winters.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/Felicia-Winters.svg"
+          }
+        ]
+      },
+      {
+        "name": "Li Yong Rui",
+        "preview": "img/preview/Li-Yong-Rui.png",
+        "desc": "Li Yong Rui icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/Li-Yong-Rui.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/Li-Yong-Rui.svg"
+          }
+        ]
+      },
+      {
+        "name": "Simguru Pranav Antal",
+        "preview": "img/preview/Pranav-Antal.png",
+        "desc": "Simguru Pranav Antal icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/Pranav-Antal.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/Pranav-Antal.svg"
+          }
+        ]
+      },
+      {
+        "name": "Zachary Hudson",
+        "preview": "img/preview/Zachary-Hudson.png",
+        "desc": "Zachary Hudson icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/Zachary-Hudson.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/Zachary-Hudson.svg"
+          }
+        ]
+      },
+      {
+        "name": "Zemina Torval",
+        "preview": "img/preview/Zemina-Torval.png",
+        "desc": "Zemina Torval icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/Zemina-Torval.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/Zemina-Torval.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

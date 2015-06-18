@@ -1,0 +1,209 @@
+@font-face{
+    font-family: "Euro Caps";
+    src: url("fonts/EUROCAPS.TTF");
+}
+@font-face{
+    font-family: "Eurostile";
+    src: url("fonts/eurostile.ttf");
+}
+@font-face{
+    font-family: "Sintony";
+    src: url("fonts/sintony.ttf");
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    margin:0;
+    font-family:'Sintony','Amble','Open Sans',Helvetica,Arial,sans-serif;
+    background-color:#cacacb;
+    //background: #cacacb url('../img/bg.png');
+}
+h1,h2,h3,h4,h5,h6{
+    font-family:'Eurostile','Amble','Open Sans',Helvetica,Arial,sans-serif;
+    margin:0;
+}
+h1{
+    font-family: "Eurostile", "Euro Caps", "Open Sans", "Amble", sans-serif;
+    letter-spacing: 0.07em;
+    font-size: 32pt;
+}
+h2{
+    font-family: "Eurostile", "Euro Caps", "Open Sans", "Amble", sans-serif;
+    letter-spacing: 0.07em;
+    font-size: 18pt;
+}
+h3{
+    font-size: 14pt;
+}
+a{
+    color:rgb(70, 163, 211);
+    text-decoration: none;
+    transition:color 150ms;
+    &:hover{
+        transition:color 150ms;
+        color:rgb(70, 163, 211)+#222;
+    }
+}
+//Start-classes
+.uppercase{
+    text-transform: uppercase;
+}
+.center-img{
+    display: block;
+    text-align: center;
+}
+.center-text{
+    text-align: center;
+}
+.display-block{
+    display: block;
+}
+//End-classes
+// Start-header
+header{
+    background-color:#FAFAFA;
+    padding:10px 20px;
+    width:100%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.31);
+    position: relative;
+    h1{
+        display:inline;
+        text-align: center;
+        margin-left:10px;
+        padding:0;
+        vertical-align: middle;
+    }
+    img{
+        //temporary
+        height:40px;
+        vertical-align: middle;
+    }
+}
+// End-header
+// Start-content
+p{
+    font-size:11pt;
+}
+.content{
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -webkit-align-content: flex-start;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    h2{
+        text-align: center;
+    }
+    .types{
+        margin:25px;
+        padding:25px;
+        border:1px solid #BBB;
+        background-color:white;
+        transition:all 75ms;
+        &:hover{
+            transition:all 75ms;
+            box-shadow: 0 2px 30px rgba(0,0,0,0.2);
+        }
+    }
+}
+.content-header{
+    width: 100%;
+    -webkit-flex: 0 1 100%;
+    -ms-flex: 0 1 100%;
+    flex: 0 1 100%;
+    padding: 10px 25px;
+    background-color: rgb(120, 174, 226);
+    color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.31);
+}
+.asset-footer{
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-align-content: flex-start;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+// End-content
+// Start-footer
+footer{
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -webkit-align-content: flex-start;
+    -ms-flex-line-pack: start;
+    align-content: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    //background-color:#444;
+    background: #13222A url('../img/bg.png');
+    color:#C0C9D2;
+    padding:20px;
+    font-size:smaller;
+    letter-spacing:0.2pt;
+    position:relative;
+    min-height:150px;
+    img{
+        position: absolute;
+        top:0;
+        left:0;
+        z-index: 99;
+    }
+    div{
+        padding:5px;
+        z-index: 100;
+    }
+    .credit{
+        min-width: 210px;
+    }
+    .copyright{
+        text-align:center;
+    }
+}
+// End-footer
+// Start-noscript
+noscript{
+    background-color:red;
+    display:block;
+    width:100%;
+    margin:0;
+    padding:10px;
+    text-align: center;
+    color:white;
+}
+// End-noscript

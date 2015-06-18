@@ -1,0 +1,95 @@
+[
+  {
+    "name":"Factions",
+    "types":[
+      {
+        "name": "Alliance",
+        "preview": "img/preview/Alliance.png",
+        "desc": "The Alliance logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/factions/Alliance.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/factions/Alliance.svg"
+          }
+        ]
+      },
+      {
+        "name": "Alliance",
+        "preview": "img/preview/Alliance_no_ring.png",
+        "desc": "The Alliance logo without the ring.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/factions/Alliance_no_ring.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/factions/Alliance_no_ring.svg"
+          }
+        ]
+      },
+      {
+        "name": "Empire",
+        "preview": "img/preview/Empire.png",
+        "desc": "The Empire logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/factions/Empire.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/factions/Empire.svg"
+          }
+        ]
+      },
+      {
+        "name": "Federation",
+        "preview": "img/preview/Federation.png",
+        "desc": "The Federation logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/factions/Federation.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/factions/Federation.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "name":"Pilots Federation ranks",
+        "desc":"The ranks given out by Pilots Federation",
+        "preview":"img/preview/rank-9.png",
+        "file":"data/pilots-federation.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/pilotsfederation/all.zip"
+            },
+            {
+              "format":"EPS",
+              "link":"img/pilotsfederation/eps.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/pilotsfederation/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/pilotsfederation/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Stations",
+        "desc":"Station icons",
+        "preview":"img/preview/Ocellus.png",
+        "file":"data/stations.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/stations/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/stations/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/stations/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Powers",
+        "desc":"Power icons",
+        "preview":"img/preview/Denton-Patreus.png",
+        "file":"data/powers.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/powers/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/powers/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/powers/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Factions",
+        "desc":"Faction logotypes",
+        "preview":"img/preview/Federation.png",
+        "file":"data/factions.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/factions/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/factions/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/factions/svgs.zip"
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "name":"Stations",
+    "types":[
+      {
+        "name": "Coriolis",
+        "preview": "img/preview/Coriolis.png",
+        "desc": "The Coriolis station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Coriolis.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Coriolis.svg"
+          }
+        ]
+      },
+      {
+        "name": "Ocellus",
+        "preview": "img/preview/Ocellus.png",
+        "desc": "The Ocellus station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Ocellus.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Ocellus.svg"
+          }
+        ]
+      },
+      {
+        "name": "Orbis",
+        "preview": "img/preview/Orbis.png",
+        "desc": "The Orbis station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Orbis.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Orbis.svg"
+          }
+        ]
+      },
+      {
+        "name": "Outpost",
+        "preview": "img/preview/Outpost.png",
+        "desc": "The Outpost station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Outpost.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Outpost.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

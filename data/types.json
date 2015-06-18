@@ -82,5 +82,25 @@
               "link":"img/factions/svgs.zip"
             }
         ]
+    },
+    {
+        "name":"Power Ethos",
+        "desc":"The Ethos icons for each Power",
+        "preview":"img/preview/Social.png",
+        "file":"data/power-ethos.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/power-ethos/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/power-ethos/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/power-ethos/svgs.zip"
+            }
+        ]
     }
 ]

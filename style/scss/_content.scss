@@ -1,6 +1,6 @@
 @font-face{
     font-family: "Euro Caps";
-    src: url("fonts/EUROCAPS.TTF");
+    src: url("fonts/eurocaps.TTF");
 }
 @font-face{
     font-family: "Eurostile";
@@ -75,8 +75,6 @@ header{
         vertical-align: middle;
     }
     img{
-        //temporary
-        height:40px;
         vertical-align: middle;
     }
 }
@@ -170,11 +168,10 @@ footer{
     -webkit-align-items: flex-start;
     -ms-flex-align: start;
     align-items: flex-start;
-    //background-color:#444;
     background: #13222A url('../img/bg.png');
     color:#C0C9D2;
     padding:20px;
-    font-size:smaller;
+    font-size:75%;
     letter-spacing:0.2pt;
     position:relative;
     min-height:150px;

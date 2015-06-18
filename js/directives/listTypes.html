@@ -6,7 +6,7 @@
 	</h2>
 	<div>
 		<span class="center-img">
-			<img ng-src="{{ item.preview }}" alt="{{ item.name }} preview">
+			<a ui-sref="type({file:item.file})"><img ng-src="{{ item.preview }}" alt="{{ item.name }} preview"></a>
 		</span>
 		<div>
 			<p>{{ item.desc }}</p>

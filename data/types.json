@@ -122,5 +122,25 @@
               "link":"img/power-related/svgs.zip"
             }
         ]
+    },
+    {
+        "name":"Misc. icons",
+        "desc":"Miscellaneous icons including Galnet and (combat) bonds",
+        "preview":"img/preview/Bank-of-Zaonce.png",
+        "file":"data/misc.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/misc/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/misc/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/misc/svgs.zip"
+            }
+        ]
     }
 ]

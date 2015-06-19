@@ -11,7 +11,12 @@
 			<div class="asset-footer">
 				<small ng-if="item.designer_info">Created by:
 					<span ng-repeat="designer in item.designer_info">
-						<a href="{{ designer.url }}">{{ designer.name }}</a>
+						<span ng-if="designer.url">
+							<a href="{{ designer.url }}">{{ designer.name }}</a>
+						</span>
+						<span ng-if="!designer.url">
+							{{ designer.name }}
+						</span>
 					</span>
 				</small>
 				<small ng-if="item.formats">Download:

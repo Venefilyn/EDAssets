@@ -152,6 +152,10 @@
             {
               "format":"JPG",
               "link":"img/portraits/jpgs.zip"
+            },
+            {
+              "format":"LQ-PNG",
+              "link":"img/portraits/lqpngs.zip"
             }
         ]
     },

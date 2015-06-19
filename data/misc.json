@@ -67,6 +67,24 @@
             "link":"img/stations/Galnet.svg"
           }
         ]
+      },
+      {
+        "name": "Onionhead",
+        "preview": "img/preview/Onionhead.png",
+        "desc": "The Onionhead icon taken from the Onionhead t-shirt.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR RadLock",
+            "url":"https://www.reddit.com/user/RadLock"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Onionhead.png"
+          }
+        ]
       }
     ]
   }

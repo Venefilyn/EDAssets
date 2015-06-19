@@ -154,5 +154,11 @@
               "link":"img/portraits/jpgs.zip"
             }
         ]
+    },
+    {
+        "name":"Fonts",
+        "desc":"Various fonts used in-game and on the official website.",
+        "preview":"img/preview/Eurostile.png",
+        "file":"data/fonts.json"
     }
 ]

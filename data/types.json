@@ -102,5 +102,25 @@
               "link":"img/power-ethos/svgs.zip"
             }
         ]
+    },
+    {
+        "name":"Power related",
+        "desc":"Power related icons, such as Expanding and Fortifying",
+        "preview":"img/preview/Fortifying.png",
+        "file":"data/power-related.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/power-related/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/power-related/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/power-related/svgs.zip"
+            }
+        ]
     }
 ]

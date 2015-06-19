@@ -142,5 +142,17 @@
               "link":"img/misc/svgs.zip"
             }
         ]
+    },
+    {
+        "name":"Character portraits",
+        "desc":"Various images containing character portraits.",
+        "preview":"img/preview/Denton-Patreus-portrait.png",
+        "file":"data/portraits.json",
+        "zipurl": [
+            {
+              "format":"JPG",
+              "link":"img/portraits/jpgs.zip"
+            }
+        ]
     }
 ]

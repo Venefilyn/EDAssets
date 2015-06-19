@@ -1,0 +1,43 @@
+[
+  {
+    "name":"Power related icons",
+    "types":[
+      {
+        "name": "Aisling Duval",
+        "preview": "img/preview/Aisling-Duval-portrait.png",
+        "desc": "The Aisling Duval portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"http://us2.campaign-archive1.com/?u=dcbf6b86b4b0c7d1c21b73b1e&id=347cbf826e"
+          }
+        ],
+        "formats": [
+          {
+            "format":"JPG",
+            "link":"img/power-related/Aisling-Duval-portrait.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Denton Patreus",
+        "preview": "img/preview/Denton-Patreus-portrait.png",
+        "desc": "The Denton Patreus portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"http://us2.campaign-archive2.com/?u=dcbf6b86b4b0c7d1c21b73b1e&id=b0a8ebba0b"
+          }
+        ],
+        "formats": [
+          {
+            "format":"JPG",
+            "link":"img/power-related/Denton-Patreus-portrait.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]

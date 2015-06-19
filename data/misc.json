@@ -16,11 +16,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/stations/Bank-of-Zaonce.png"
+            "link":"img/misc/Bank-of-Zaonce.png"
           },
           {
             "format":"SVG",
-            "link":"img/stations/Bank of Zaonce.svg"
+            "link":"img/misc/Bank of Zaonce.svg"
           }
         ]
       },
@@ -38,11 +38,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/stations/Combat-Bonds.png"
+            "link":"img/misc/Combat-Bonds.png"
           },
           {
             "format":"SVG",
-            "link":"img/stations/Combat Bonds.svg"
+            "link":"img/misc/Combat Bonds.svg"
           }
         ]
       },
@@ -60,11 +60,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/stations/Galnet.png"
+            "link":"img/misc/Galnet.png"
           },
           {
             "format":"SVG",
-            "link":"img/stations/Galnet.svg"
+            "link":"img/misc/Galnet.svg"
           }
         ]
       },
@@ -82,7 +82,7 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/stations/Onionhead.png"
+            "link":"img/misc/Onionhead.png"
           }
         ]
       }

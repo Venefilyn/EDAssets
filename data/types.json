@@ -104,7 +104,7 @@
         ]
     },
     {
-        "name":"Power related",
+        "name":"Power related icons",
         "desc":"Power related icons, such as Expanding and Fortifying",
         "preview":"img/preview/Fortifying.png",
         "file":"data/power-related.json",

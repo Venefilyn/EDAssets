@@ -25,6 +25,28 @@
         ]
       },
       {
+        "name": "Coriolis",
+        "preview": "img/preview/Coriolis_sm.png",
+        "desc": "The Coriolis station as seen in system map.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Coriolis_sm.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Coriolis_sm.svg"
+          }
+        ]
+      },
+      {
         "name": "Ocellus",
         "preview": "img/preview/Ocellus.png",
         "desc": "The Ocellus station.",

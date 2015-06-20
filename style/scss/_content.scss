@@ -62,6 +62,13 @@ small{
 .display-block{
     display: block;
 }
+.clearlink{
+    color:white;
+    &:hover{
+        text-decoration: underline;
+        color:white;
+    }
+}
 //End-classes
 // Start-header
 header{

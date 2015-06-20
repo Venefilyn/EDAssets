@@ -1,6 +1,28 @@
 [
   {
     "name":"Pilots Federation ranks",
+    "subcats":[
+      {
+        "name":"Explorer",
+        "desc":"Explorer ranks.",
+        "preview":"img/preview/rank-9-explorer.png",
+        "file":"data/pilots-federation-explorer.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/pilotsfederation/explorer/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/pilotsfederation/explorer/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/pilotsfederation/explorer/svgs.zip"
+            }
+        ]
+      }
+    ],
     "types":[
       {
         "name": "Rank 1",
@@ -42,7 +64,7 @@
         "formats": [
           {
             "format":"EPS",
-            "link":"img/pilotsfederation/rank-1.eps"
+            "link":"img/pilotsfederation/rank-2.eps"
           },
           {
             "format":"PNG",

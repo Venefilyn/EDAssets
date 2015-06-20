@@ -176,5 +176,17 @@
               "link":"img/ship-schematics/imgs.zip"
             }
         ]
+    },
+    {
+        "name":"Elite: Dangerous logos",
+        "desc":"The official Elite: Dangerous logos.",
+        "preview":"img/preview/elite-dangerous-logo.png",
+        "file":"data/ed-logos.json",
+        "zipurl": [
+            {
+              "format":"PNGs",
+              "link":"img/ed-logos/pngs.zip"
+            }
+        ]
     }
 ]

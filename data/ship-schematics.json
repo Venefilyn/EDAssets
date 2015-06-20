@@ -1,0 +1,349 @@
+[
+  {
+    "name":"Ship schematics",
+    "types":[
+      {
+        "name": "Adder",
+        "preview": "img/preview/Adder_schematic.png",
+        "desc": "Schematic of the Adder. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Adder_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Anaconda",
+        "preview": "img/preview/Anaconda_schematic.png",
+        "desc": "Schematic of the Anaconda. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Anaconda_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Cobra Mk III",
+        "preview": "img/preview/Diamondbackxl_schematic.png",
+        "desc": "Schematic of the Cobra Mk III. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/CobraMkIII_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Diamondback Explorer",
+        "preview": "img/preview/Diamondbackxl_schematic.png",
+        "desc": "Schematic of the Diamondback Explorer. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"JPG",
+            "link":"img/ship-schematics/Diamondbackxl_schematic.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Diamondback Scout",
+        "preview": "img/preview/Diamondbacks_schematic.png",
+        "desc": "Schematic of the Diamondback Scout. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"JPG",
+            "link":"img/ship-schematics/Diamondbacks_schematic.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Eagle Mk II",
+        "preview": "img/preview/EagleMkII_schematic.png",
+        "desc": "Schematic of the Eagle Mk II. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/EagleMkII_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Federal Dropship",
+        "preview": "img/preview/Federal_Dropship_schematic.png",
+        "desc": "Schematic of the Federal Dropship. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Federal_Dropship_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Fer-de-Lance",
+        "preview": "img/preview/Fer-de-Lance_schematic.png",
+        "desc": "Schematic of the Fer-de-Lance. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Fer-de-Lance_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Hauler",
+        "preview": "img/preview/Hauler_schematic.png",
+        "desc": "Schematic of the Hauler. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Hauler_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Imperial Clipper",
+        "preview": "img/preview/Imperial_Clipper_schematic.png",
+        "desc": "Schematic of the Imperial Clipper. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Imperial_Clipper_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Imperial Courier",
+        "preview": "img/preview/Imperial_Courier_schematic.png",
+        "desc": "Schematic of the Imperial Courier. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Imperial_Courier_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Orca",
+        "preview": "img/preview/Orca_schematic.png",
+        "desc": "Schematic of the Orca. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Orca_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Python",
+        "preview": "img/preview/Python_schematic.png",
+        "desc": "Schematic of the Python. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Python_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Sidewinder Mk I",
+        "preview": "img/preview/SidewinderMkI_schematic.png",
+        "desc": "Schematic of the Sidewinder Mk I. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/SidewinderMkI_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Type-6",
+        "preview": "img/preview/Type-6_schematic.png",
+        "desc": "Schematic of the Type-6. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Type-6_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Type-7",
+        "preview": "img/preview/Type-7_schematic.png",
+        "desc": "Schematic of the Type-7. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Type-7_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Type-9",
+        "preview": "img/preview/Type-9_schematic.png",
+        "desc": "Schematic of the Type-9. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Type-9_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Viper Mk III",
+        "preview": "img/preview/ViperMkIII_schematic.png",
+        "desc": "Schematic of the Viper Mk III. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/ViperMkIII_schematic.png"
+          }
+        ]
+      },
+      {
+        "name": "Vulture",
+        "preview": "img/preview/Vulture_schematic.png",
+        "desc": "Schematic of the Vulture. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Vulture_schematic.png"
+          }
+        ]
+      }
+    ]
+  }
+]

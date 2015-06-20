@@ -7,19 +7,19 @@
         "zipurl": [
             {
               "format":"All formats",
-              "link":"img/pilotsfederation/all.zip"
+              "link":"img/pilots-federation/all.zip"
             },
             {
               "format":"EPS",
-              "link":"img/pilotsfederation/eps.zip"
+              "link":"img/pilots-federation/eps.zip"
             },
             {
               "format":"PNG",
-              "link":"img/pilotsfederation/pngs.zip"
+              "link":"img/pilots-federation/pngs.zip"
             },
             {
               "format":"SVG",
-              "link":"img/pilotsfederation/svgs.zip"
+              "link":"img/pilots-federation/svgs.zip"
             }
         ]
     },

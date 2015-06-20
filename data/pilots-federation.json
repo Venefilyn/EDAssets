@@ -10,15 +10,15 @@
         "zipurl": [
             {
               "format":"All formats",
-              "link":"img/pilotsfederation/explorer/all.zip"
+              "link":"img/pilots-federation/explorer/all.zip"
             },
             {
               "format":"PNG",
-              "link":"img/pilotsfederation/explorer/pngs.zip"
+              "link":"img/pilots-federation/explorer/pngs.zip"
             },
             {
               "format":"SVG",
-              "link":"img/pilotsfederation/explorer/svgs.zip"
+              "link":"img/pilots-federation/explorer/svgs.zip"
             }
         ]
       }
@@ -38,15 +38,15 @@
         "formats": [
           {
             "format":"EPS",
-            "link":"img/pilotsfederation/rank-1.eps"
+            "link":"img/pilots-federation/rank-1.eps"
           },
           {
             "format":"PNG",
-            "link":"img/pilotsfederation/rank-1.png"
+            "link":"img/pilots-federation/rank-1.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilotsfederation/rank-1.svg"
+            "link":"img/pilots-federation/rank-1.svg"
           }
         ]
       },
@@ -64,15 +64,15 @@
         "formats": [
           {
             "format":"EPS",
-            "link":"img/pilotsfederation/rank-2.eps"
+            "link":"img/pilots-federation/rank-2.eps"
           },
           {
             "format":"PNG",
-            "link":"img/pilotsfederation/rank-2.png"
+            "link":"img/pilots-federation/rank-2.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilotsfederation/rank-2.svg"
+            "link":"img/pilots-federation/rank-2.svg"
           }
         ]
       },
@@ -90,15 +90,15 @@
         "formats": [
           {
             "format":"EPS",
-            "link":"img/pilotsfederation/rank-3.eps"
+            "link":"img/pilots-federation/rank-3.eps"
           },
           {
             "format":"PNG",
-            "link":"img/pilotsfederation/rank-3.png"
+            "link":"img/pilots-federation/rank-3.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilotsfederation/rank-3.svg"
+            "link":"img/pilots-federation/rank-3.svg"
           }
         ]
       },
@@ -116,15 +116,15 @@
         "formats": [
           {
             "format":"EPS",
-            "link":"img/pilotsfederation/rank-4.eps"
+            "link":"img/pilots-federation/rank-4.eps"
           },
           {
             "format":"PNG",
-            "link":"img/pilotsfederation/rank-4.png"
+            "link":"img/pilots-federation/rank-4.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilotsfederation/rank-4.svg"
+            "link":"img/pilots-federation/rank-4.svg"
           }
         ]
       },
@@ -142,15 +142,15 @@
         "formats": [
           {
             "format":"EPS",
-            "link":"img/pilotsfederation/rank-5.eps"
+            "link":"img/pilots-federation/rank-5.eps"
           },
           {
             "format":"PNG",
-            "link":"img/pilotsfederation/rank-5.png"
+            "link":"img/pilots-federation/rank-5.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilotsfederation/rank-5.svg"
+            "link":"img/pilots-federation/rank-5.svg"
           }
         ]
       },
@@ -168,15 +168,15 @@
         "formats": [
           {
             "format":"EPS",
-            "link":"img/pilotsfederation/rank-6.eps"
+            "link":"img/pilots-federation/rank-6.eps"
           },
           {
             "format":"PNG",
-            "link":"img/pilotsfederation/rank-6.png"
+            "link":"img/pilots-federation/rank-6.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilotsfederation/rank-6.svg"
+            "link":"img/pilots-federation/rank-6.svg"
           }
         ]
       },
@@ -194,15 +194,15 @@
         "formats": [
           {
             "format":"EPS",
-            "link":"img/pilotsfederation/rank-7.eps"
+            "link":"img/pilots-federation/rank-7.eps"
           },
           {
             "format":"PNG",
-            "link":"img/pilotsfederation/rank-7.png"
+            "link":"img/pilots-federation/rank-7.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilotsfederation/rank-7.svg"
+            "link":"img/pilots-federation/rank-7.svg"
           }
         ]
       },
@@ -220,15 +220,15 @@
         "formats": [
           {
             "format":"EPS",
-            "link":"img/pilotsfederation/rank-8.eps"
+            "link":"img/pilots-federation/rank-8.eps"
           },
           {
             "format":"PNG",
-            "link":"img/pilotsfederation/rank-8.png"
+            "link":"img/pilots-federation/rank-8.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilotsfederation/rank-8.svg"
+            "link":"img/pilots-federation/rank-8.svg"
           }
         ]
       },
@@ -246,15 +246,15 @@
         "formats": [
           {
             "format":"EPS",
-            "link":"img/pilotsfederation/rank-9.eps"
+            "link":"img/pilots-federation/rank-9.eps"
           },
           {
             "format":"PNG",
-            "link":"img/pilotsfederation/rank-9.png"
+            "link":"img/pilots-federation/rank-9.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilotsfederation/rank-9.svg"
+            "link":"img/pilots-federation/rank-9.svg"
           }
         ]
       }

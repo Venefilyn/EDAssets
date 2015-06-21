@@ -5,7 +5,7 @@ app.controller('AssetTypes', ['$scope', 'types', function($scope, types) {
 }]);
 app.controller('AssetType', ['$http','$stateParams', '$scope', 'type', function($http, $stateParams, $scope, type) {
     // Need to look into how to call a service multiple times instead of initializing it once
-    $http.get(unescape($stateParams.file)) 
+    $http.get("data/" + unescape($stateParams.file)) 
             .success(function(data) { 
                 $scope.category = data[0]['name'];
                 $scope.issubcat = data[0]['issubcat'];

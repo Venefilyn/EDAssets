@@ -3,7 +3,7 @@
         "name":"Pilots Federation ranks",
         "desc":"The ranks given out by Pilots Federation",
         "preview":"img/preview/rank-9.png",
-        "file":"data/pilots-federation.json",
+        "file":"pilots-federation.json",
         "zipurl": [
             {
               "format":"All formats",
@@ -27,7 +27,7 @@
         "name":"Stations",
         "desc":"Station icons",
         "preview":"img/preview/Ocellus.png",
-        "file":"data/stations.json",
+        "file":"stations.json",
         "zipurl": [
             {
               "format":"All formats",
@@ -47,7 +47,7 @@
         "name":"Powers",
         "desc":"Power icons",
         "preview":"img/preview/Denton-Patreus.png",
-        "file":"data/powers.json",
+        "file":"powers.json",
         "zipurl": [
             {
               "format":"All formats",
@@ -67,7 +67,7 @@
         "name":"Factions",
         "desc":"Faction logotypes",
         "preview":"img/preview/Federation.png",
-        "file":"data/factions.json",
+        "file":"factions.json",
         "zipurl": [
             {
               "format":"All formats",
@@ -87,7 +87,7 @@
         "name":"Power Ethos",
         "desc":"The Ethos icons for each Power",
         "preview":"img/preview/Social.png",
-        "file":"data/power-ethos.json",
+        "file":"power-ethos.json",
         "zipurl": [
             {
               "format":"All formats",
@@ -107,7 +107,7 @@
         "name":"Power related icons",
         "desc":"Power related icons, such as Expanding and Fortifying",
         "preview":"img/preview/Fortifying.png",
-        "file":"data/power-related.json",
+        "file":"power-related.json",
         "zipurl": [
             {
               "format":"All formats",
@@ -127,7 +127,7 @@
         "name":"Misc. icons",
         "desc":"Miscellaneous icons including Galnet and (combat) bonds",
         "preview":"img/preview/Bank-of-Zaonce.png",
-        "file":"data/misc.json",
+        "file":"misc.json",
         "zipurl": [
             {
               "format":"All formats",
@@ -147,7 +147,7 @@
         "name":"Character portraits",
         "desc":"Various images containing character portraits.",
         "preview":"img/preview/Denton-Patreus-portrait.png",
-        "file":"data/portraits.json",
+        "file":"portraits.json",
         "zipurl": [
             {
               "format":"JPG",
@@ -163,13 +163,13 @@
         "name":"Fonts",
         "desc":"Various fonts used in-game and on the official website.",
         "preview":"img/preview/Eurostile.png",
-        "file":"data/fonts.json"
+        "file":"fonts.json"
     },
     {
         "name":"Ship schematics",
         "desc":"Various ship schematics.",
         "preview":"img/preview/Fer-de-Lance_schematic.png",
-        "file":"data/ship-schematics.json",
+        "file":"ship-schematics.json",
         "zipurl": [
             {
               "format":"IMGs",
@@ -181,7 +181,7 @@
         "name":"Elite: Dangerous logos",
         "desc":"The official Elite: Dangerous logos.",
         "preview":"img/preview/elite-dangerous-logo.png",
-        "file":"data/ed-logos.json",
+        "file":"ed-logos.json",
         "zipurl": [
             {
               "format":"PNGs",

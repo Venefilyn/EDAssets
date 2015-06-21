@@ -3,10 +3,30 @@
     "name":"Pilots Federation ranks",
     "subcats":[
       {
+        "name":"Combat",
+        "desc":"Combat ranks.",
+        "preview":"img/preview/rank-9-combat.png",
+        "file":"pilots-federation-combat.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/pilots-federation/combat/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/pilots-federation/combat/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/pilots-federation/combat/svgs.zip"
+            }
+        ]
+      },
+      {
         "name":"Explorer",
         "desc":"Explorer ranks.",
         "preview":"img/preview/rank-9-explorer.png",
-        "file":"data/pilots-federation-explorer.json",
+        "file":"pilots-federation-explorer.json",
         "zipurl": [
             {
               "format":"All formats",

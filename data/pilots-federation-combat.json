@@ -1,15 +1,15 @@
 [
   {
-    "name":"Explorer",
+    "name":"Combat",
     "issubcat":{
       "name":"Pilots Federation ranks",
       "file":"pilots-federation.json"
     },
     "types":[
       {
-        "name": "1: Aimless",
-        "preview": "img/preview/rank-1-explorer.png",
-        "desc": "The 1st explorer rank handed out by Pilots Federation. This decal is not available in-game",
+        "name": "1: Harmless",
+        "preview": "img/preview/rank-1-combat.png",
+        "desc": "The 1st combat rank handed out by Pilots Federation. This decal is not available in-game",
         "fanmade": true,
         "designer_info": [
           {
@@ -20,18 +20,18 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-1.png"
+            "link":"img/pilots-federation/combat/rank-1-combat.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-1.svg"
+            "link":"img/pilots-federation/combat/rank-1-combat.svg"
           }
         ]
       },
       {
-        "name": "2: Mostly Aimless",
-        "preview": "img/preview/rank-2-explorer.png",
-        "desc": "The 2nd explorer rank handed out by Pilots Federation.",
+        "name": "2: Mostly Harmless",
+        "preview": "img/preview/rank-2-combat.png",
+        "desc": "The 2nd combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
           {
@@ -42,18 +42,18 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-2.png"
+            "link":"img/pilots-federation/combat/rank-2-combat.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-2.svg"
+            "link":"img/pilots-federation/combat/rank-2-combat.svg"
           }
         ]
       },
       {
-        "name": "3: Scout",
-        "preview": "img/preview/rank-3-explorer.png",
-        "desc": "The 3rd explorer rank handed out by Pilots Federation.",
+        "name": "3: Novice",
+        "preview": "img/preview/rank-3-combat.png",
+        "desc": "The 3rd combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
           {
@@ -64,18 +64,18 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-3.png"
+            "link":"img/pilots-federation/combat/rank-3-combat.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-3.svg"
+            "link":"img/pilots-federation/combat/rank-3-combat.svg"
           }
         ]
       },
       {
-        "name": "4: Surveyor",
-        "preview": "img/preview/rank-4-explorer.png",
-        "desc": "The 4th explorer rank handed out by Pilots Federation.",
+        "name": "4: Competent",
+        "preview": "img/preview/rank-4-combat.png",
+        "desc": "The 4th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
           {
@@ -86,18 +86,18 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-4.png"
+            "link":"img/pilots-federation/combat/rank-4-combat.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-4.svg"
+            "link":"img/pilots-federation/combat/rank-4-combat.svg"
           }
         ]
       },
       {
-        "name": "5: Trailblazer",
-        "preview": "img/preview/rank-5-explorer.png",
-        "desc": "The 5th explorer rank handed out by Pilots Federation.",
+        "name": "5: Expert",
+        "preview": "img/preview/rank-5-combat.png",
+        "desc": "The 5th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
           {
@@ -108,18 +108,18 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-5.png"
+            "link":"img/pilots-federation/combat/rank-5-combat.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-5.svg"
+            "link":"img/pilots-federation/combat/rank-5-combat.svg"
           }
         ]
       },
       {
-        "name": "6: Pathfinder",
-        "preview": "img/preview/rank-6-explorer.png",
-        "desc": "The 6th explorer rank handed out by Pilots Federation.",
+        "name": "6: Master",
+        "preview": "img/preview/rank-6-combat.png",
+        "desc": "The 6th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
           {
@@ -130,18 +130,18 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-6.png"
+            "link":"img/pilots-federation/combat/rank-6-combat.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-6.svg"
+            "link":"img/pilots-federation/combat/rank-6-combat.svg"
           }
         ]
       },
       {
-        "name": "7: Ranger",
-        "preview": "img/preview/rank-7-explorer.png",
-        "desc": "The 7th explorer rank handed out by Pilots Federation.",
+        "name": "7: Dangerous",
+        "preview": "img/preview/rank-7-combat.png",
+        "desc": "The 7th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
           {
@@ -152,18 +152,18 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-7.png"
+            "link":"img/pilots-federation/combat/rank-7-combat.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-7.svg"
+            "link":"img/pilots-federation/combat/rank-7-combat.svg"
           }
         ]
       },
       {
-        "name": "8: Pioneer",
-        "preview": "img/preview/rank-8-explorer.png",
-        "desc": "The 8th explorer rank handed out by Pilots Federation.",
+        "name": "8: Deadly",
+        "preview": "img/preview/rank-8-combat.png",
+        "desc": "The 8th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
           {
@@ -174,18 +174,18 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-8.png"
+            "link":"img/pilots-federation/combat/rank-8-combat.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-8.svg"
+            "link":"img/pilots-federation/combat/rank-8-combat.svg"
           }
         ]
       },
       {
         "name": "9: Elite",
-        "preview": "img/preview/rank-9-explorer.png",
-        "desc": "The 9th explorer rank handed out by Pilots Federation.",
+        "preview": "img/preview/rank-9-combat.png",
+        "desc": "The 9th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
           {
@@ -196,11 +196,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-9.png"
+            "link":"img/pilots-federation/combat/rank-9-combat.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-9.svg"
+            "link":"img/pilots-federation/combat/rank-9-combat.svg"
           }
         ]
       }

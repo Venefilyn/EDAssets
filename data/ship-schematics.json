@@ -39,6 +39,24 @@
         ]
       },
       {
+        "name": "Asp Explorer",
+        "preview": "img/preview/Asp_Explorer_schematic.png",
+        "desc": "Schematic of the Asp Explorer. Dark blue = 1m",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/prefim",
+            "url":"https://www.reddit.com/user/prefim"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ship-schematics/Asp_Explorer_schematic.png"
+          }
+        ]
+      },
+      {
         "name": "Cobra Mk III",
         "preview": "img/preview/Diamondbackxl_schematic.png",
         "desc": "Schematic of the Cobra Mk III. Dark blue = 1m",

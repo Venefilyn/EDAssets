@@ -3,6 +3,24 @@
     "name":"Fonts",
     "types":[
       {
+        "name": "Century Gothic",
+        "preview": "img/preview/Century-Gothic.png",
+        "desc": "The Galnet font.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Monotype",
+            "url":"http://www.fonts.com/browse/designers/monotype"
+          }
+        ],
+        "formats": [
+          {
+            "format":"link",
+            "link":"http://www.fonts.com/font/monotype/century-gothic/regular"
+          }
+        ]
+      },
+      {
         "name": "Euro Caps",
         "preview": "img/preview/Euro-Caps.png",
         "desc": "The heading font.",

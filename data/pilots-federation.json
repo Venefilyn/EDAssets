@@ -41,6 +41,26 @@
               "link":"img/pilots-federation/explorer/svgs.zip"
             }
         ]
+      },
+      {
+        "name":"Trading",
+        "desc":"Trading ranks.",
+        "preview":"img/preview/rank-9-trading.png",
+        "file":"pilots-federation-trading.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/pilots-federation/trading/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/pilots-federation/trading/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/pilots-federation/trading/svgs.zip"
+            }
+        ]
       }
     ],
     "types":[

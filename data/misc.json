@@ -3,28 +3,6 @@
     "name":"Misc. icons",
     "types":[
       {
-        "name": "Bank of Zaonce",
-        "preview": "img/preview/Bank-of-Zaonce.png",
-        "desc": "The Bank-of-Zaonce icon.",
-        "fanmade": true,
-        "designer_info": [
-          {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
-          }
-        ],
-        "formats": [
-          {
-            "format":"PNG",
-            "link":"img/misc/Bank-of-Zaonce.png"
-          },
-          {
-            "format":"SVG",
-            "link":"img/misc/Bank of Zaonce.svg"
-          }
-        ]
-      },
-      {
         "name": "Combat Bonds",
         "preview": "img/preview/Combat-Bonds.png",
         "desc": "The (combat) bonds icon.",
@@ -43,28 +21,6 @@
           {
             "format":"SVG",
             "link":"img/misc/Combat Bonds.svg"
-          }
-        ]
-      },
-      {
-        "name": "Galnet",
-        "preview": "img/preview/Galnet.png",
-        "desc": "The Galnet icon. Font used is Century Gothic.",
-        "fanmade": true,
-        "designer_info": [
-          {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
-          }
-        ],
-        "formats": [
-          {
-            "format":"PNG",
-            "link":"img/misc/Galnet.png"
-          },
-          {
-            "format":"SVG",
-            "link":"img/misc/Galnet.svg"
           }
         ]
       },

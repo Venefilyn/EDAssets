@@ -125,8 +125,8 @@
     },
     {
         "name":"Misc. icons",
-        "desc":"Miscellaneous icons including Galnet and (combat) bonds",
-        "preview":"img/preview/Bank-of-Zaonce.png",
+        "desc":"Miscellaneous icons.",
+        "preview":"img/preview/Combat-Bonds.png",
         "file":"misc.json",
         "zipurl": [
             {

@@ -1,0 +1,73 @@
+[
+  {
+    "name":"Companies",
+    "types":[
+      {
+        "name": "Bank of Zaonce",
+        "preview": "img/preview/Bank-of-Zaonce.png",
+        "desc": "The Bank-of-Zaonce icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/companies/Bank-of-Zaonce.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/companies/Bank of Zaonce.svg"
+          }
+        ]
+      },
+      {
+        "name": "Galnet",
+        "preview": "img/preview/Galnet.png",
+        "desc": "The Galnet icon. Font used is Century Gothic.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/companies/Galnet.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/companies/Galnet.svg"
+          }
+        ]
+      },
+      {
+        "name": "Universal Cartographics",
+        "preview": "img/preview/Universal-Cartographics.png",
+        "desc": "The Universal Cartographics icon. Font used is probably Wilma Base/Farcit A.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/companies/Universal-Cartographics.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/companies/Universal-Cartographics.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

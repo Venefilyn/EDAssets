@@ -188,5 +188,25 @@
               "link":"img/ed-logos/pngs.zip"
             }
         ]
+    },
+    {
+        "name":"Companies",
+        "desc":"In-game companies.",
+        "preview":"img/preview/Universal-Cartographics.png",
+        "file":"companies.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/companies/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/companies/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/companies/svgs.zip"
+            }
+        ]
     }
 ]

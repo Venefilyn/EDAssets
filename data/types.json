@@ -208,5 +208,11 @@
               "link":"img/companies/svgs.zip"
             }
         ]
+    },
+    {
+        "name":"Colours",
+        "desc":"In-game colours.",
+        "preview":"img/preview/green.png",
+        "file":"colours.json"
     }
 ]

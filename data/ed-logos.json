@@ -21,6 +21,28 @@
         ]
       },
       {
+        "name": "Elite: Dangerous clean",
+        "preview": "img/preview/elite-dangerous-clean.png",
+        "desc": "The Elite: Dangerous logo in clean vector form.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ed-logos/elite-dangerous-clean.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/ed-logos/elite-dangerous-clean.svg"
+          }
+        ]
+      },
+      {
         "name": "Old Elite: Dangerous logo",
         "preview": "img/preview/elite-dangerous-old-logo.png",
         "desc": "The old Elite: Dangerous logo.",

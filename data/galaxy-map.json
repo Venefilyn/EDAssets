@@ -27,7 +27,7 @@
       {
         "name": "Map",
         "preview": "img/preview/Map-galaxy-map.png",
-        "desc": "The Map icon.",
+        "desc": "The Map galaxy view icon. Also the route-to icon",
         "fanmade": true,
         "designer_info": [
           {

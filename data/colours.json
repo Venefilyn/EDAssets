@@ -23,13 +23,13 @@
       {
         "name": "#ff7100",
         "preview": "img/preview/orange.png",
-        "desc": "The orange colour. Also the colour of independent factions and powers.",
+        "desc": "The orange colour. Also the colour of independent factions.",
         "fanmade": false
       },
       {
         "name": "#ffb000",
         "preview": "img/preview/yellow.png",
-        "desc": "The colour of pledged allegiance to a power.",
+        "desc": "The colour of pledged allegiance to a power. Also the colour of independent powers.",
         "fanmade": false
       }
     ]

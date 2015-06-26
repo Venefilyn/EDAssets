@@ -214,5 +214,25 @@
         "desc":"In-game colours.",
         "preview":"img/preview/green.png",
         "file":"colours.json"
+    },
+    {
+        "name":"Galaxy Map",
+        "desc":"Galaxy Map icons.",
+        "preview":"img/preview/Friends-galaxy-map.png",
+        "file":"galaxy-map.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/galaxy-map/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/galaxy-map/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/galaxy-map/svgs.zip"
+            }
+        ]
     }
 ]

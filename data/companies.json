@@ -25,9 +25,9 @@
         ]
       },
       {
-        "name": "Galnet",
-        "preview": "img/preview/Galnet.png",
-        "desc": "The Galnet icon. Font used is Century Gothic.",
+        "name": "GalNet",
+        "preview": "img/preview/GalNet.png",
+        "desc": "The GalNet icon. Font used is Century Gothic.",
         "fanmade": true,
         "designer_info": [
           {
@@ -38,11 +38,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/companies/Galnet.png"
+            "link":"img/companies/GalNet.png"
           },
           {
             "format":"SVG",
-            "link":"img/companies/Galnet.svg"
+            "link":"img/companies/GalNet.svg"
           }
         ]
       },

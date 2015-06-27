@@ -7,9 +7,11 @@
 	<div>
 		<span class="center-img">
 			<span ng-if="item.webm">
-				<video loop autoplay>
-				  <source ng-src="{{ item.preview }}" type="video/webm">
-				</video>
+				<a ui-sref="type({file:item.file})">
+					<video loop autoplay>
+				  		<source ng-src="{{ item.preview }}" type="video/webm">
+					</video>
+				</a>
 			</span>
 			<span ng-if="!item.webm">
 				<a ui-sref="type({file:item.file})"><img ng-src="{{ item.preview }}" alt="{{ item.name }} preview"></a>

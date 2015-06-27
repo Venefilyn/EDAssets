@@ -234,5 +234,12 @@
               "link":"img/galaxy-map/svgs.zip"
             }
         ]
+    },
+    {
+        "name":"Animated logos",
+        "desc":"Animated logotypes from in-game.",
+        "webm":true,
+        "preview":"img/preview/Federation-animated.webm",
+        "file":"animated.json"
     }
 ]

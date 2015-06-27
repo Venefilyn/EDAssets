@@ -26,6 +26,16 @@
 						</span>
 					</span>
 				</small>
+				<small ng-if="item.odesigner_info">Originally by:
+					<span ng-repeat="designer in item.odesigner_info">
+						<span ng-if="designer.url">
+							<a href="{{ designer.url }}">{{ designer.name }}</a>
+						</span>
+						<span ng-if="!designer.url">
+							{{ designer.name }}
+						</span>
+					</span>
+				</small>
 				<small ng-if="item.formats">Download:
 					<span ng-repeat="format in item.formats">
 						<a href="{{ format.link }}">{{ format.format }}</a>

@@ -6,7 +6,14 @@
 	</h2>
 	<div>
 		<span class="center-img">
-			<a ui-sref="type({file:item.file})"><img ng-src="{{ item.preview }}" alt="{{ item.name }} preview"></a>
+			<span ng-if="item.webm">
+				<video loop autoplay>
+				  <source ng-src="{{ item.preview }}" type="video/webm">
+				</video>
+			</span>
+			<span ng-if="!item.webm">
+				<a ui-sref="type({file:item.file})"><img ng-src="{{ item.preview }}" alt="{{ item.name }} preview"></a>
+			</span>
 		</span>
 		<div>
 			<p>{{ item.desc }}</p>

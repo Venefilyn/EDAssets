@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Animated logos",
+    "types":[
+      {
+        "name": "Federation",
+        "webm": true,
+        "preview": "img/preview/Federation-animated.webm",
+        "desc": "Animated Federation logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"Lossless AVI",
+            "link":"https://mega.nz/#!Mt53CZqA!G2fk6_CSxAN2g21mWym7mG8_SagduJ--f4yOQCZKldc"
+          }
+        ]
+      }
+    ]
+  }
+]

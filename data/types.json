@@ -241,5 +241,11 @@
         "webm":true,
         "preview":"img/preview/Federation-animated.webm",
         "file":"animated.json"
+    },
+    {
+        "name":"Manufacturers",
+        "desc":"Manufacturer icons.",
+        "preview":"img/preview/remlok.png",
+        "file":"manufacturers.json"
     }
 ]

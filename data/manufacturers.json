@@ -1,0 +1,51 @@
+[
+  {
+    "name":"Manufacturers",
+    "types":[
+      {
+        "name": "remlok",
+        "preview": "img/preview/remlok.png",
+        "desc": "The remlok logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR MackTheHunter",
+            "url":"https://www.reddit.com/user/MackTheHunter"
+          }
+        ],
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/manufacturers/remlok.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/manufacturers/remlok.svg"
+          }
+        ]
+      },
+      {
+        "name": "Faulcon Delacy",
+        "preview": "img/preview/FaulconDelacy.png",
+        "desc": "Faulcon Delacy logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Unknown"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/manufacturers/FaulconDelacy.png"
+          }
+        ]
+      }
+    ]
+  }
+]

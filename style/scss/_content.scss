@@ -17,7 +17,6 @@ body {
     margin:0;
     font-family:'Sintony','Amble','Open Sans',Helvetica,Arial,sans-serif;
     background-color:#cacacb;
-    //background: #cacacb url('../img/bg.png');
 }
 h1,h2,h3,h4,h5,h6{
     font-family:'Eurostile','Amble','Open Sans',Helvetica,Arial,sans-serif;
@@ -117,15 +116,22 @@ p{
         text-align: center;
     }
     .types{
-        max-width: 350px;
-        margin:25px;
-        padding:25px;
-        border:1px solid #BBB;
-        background-color:white;
-        transition:all 75ms;
+        margin: 10px 0;
+        padding: 25px;
+        border: 1px solid #BBB;
+        background-color: white;
+        transition: all 75ms ease 0s;
+        width: 300px;
+        height: 430px;
         &:hover{
             transition:all 75ms;
             box-shadow: 0 2px 30px rgba(0,0,0,0.2);
+        }
+        h2{
+            height:60px;
+        }
+        img{
+            max-height: 170px;
         }
     }
 }

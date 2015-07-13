@@ -246,6 +246,20 @@
         "name":"Manufacturers",
         "desc":"Manufacturer icons.",
         "preview":"img/preview/remlok.png",
-        "file":"manufacturers.json"
+        "file":"manufacturers.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/manufacturers/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/manufacturers/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/manufacturers/svgs.zip"
+            }
+        ]
     }
 ]

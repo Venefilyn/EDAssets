@@ -45,6 +45,33 @@
             "link":"img/manufacturers/FaulconDelacy.png"
           }
         ]
+      },
+      {
+        "name": "Manticore",
+        "preview": "img/preview/Manticore.png",
+        "desc": "The Manticore logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR MackTheHunter",
+            "url":"https://www.reddit.com/user/MackTheHunter"
+          }
+        ],
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/manufacturers/Manticore.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/manufacturers/Manticore.svg"
+          }
+        ]
       }
     ]
   }

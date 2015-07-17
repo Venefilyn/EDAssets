@@ -1,0 +1,161 @@
+[
+  {
+    "name":"Close Quarters Combat Championship",
+    "types":[
+      {
+        "name": "CQC Championship",
+        "preview": "img/preview/CQC-Championship.png",
+        "desc": "The CQC Championship logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/cqc/CQC-Championship.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/cqc/CQC-Championship.svg"
+          }
+        ]
+      },
+      {
+        "name": "Enemy flag",
+        "preview": "img/preview/Enemy-flag.png",
+        "desc": "Icon for the opponent's flag on sensors.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/cqc/Enemy-flag.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/cqc/Enemy-flag.svg"
+          }
+        ]
+      },
+      {
+        "name": "Objective",
+        "preview": "img/preview/Objective.png",
+        "desc": "Icon for objectives visible on hologram.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/cqc/Objective.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/cqc/Objective.svg"
+          }
+        ]
+      },
+      {
+        "name": "Shield booster",
+        "preview": "img/preview/Shield.png",
+        "desc": "Shield booster powerup.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/cqc/Shield.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/cqc/Shield.svg"
+          }
+        ]
+      },
+      {
+        "name": "Speed",
+        "preview": "img/preview/Speed.png",
+        "desc": "Speed powerup.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/cqc/Speed.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/cqc/Speed.svg"
+          }
+        ]
+      },
+      {
+        "name": "Stealth mode",
+        "preview": "img/preview/Stealth.png",
+        "desc": "Stealth mode powerup.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/cqc/Stealth.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/cqc/Stealth.svg"
+          }
+        ]
+      },
+      {
+        "name": "Weapon damage",
+        "preview": "img/preview/Weapons.png",
+        "desc": "Weapon damage powerup.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/cqc/Weapons.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/cqc/Weapons.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

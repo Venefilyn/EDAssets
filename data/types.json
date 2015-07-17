@@ -261,5 +261,25 @@
               "link":"img/manufacturers/svgs.zip"
             }
         ]
+    },
+    {
+        "name":"CQC",
+        "desc":"Close Quarter Combat icons.",
+        "preview":"img/preview/CQC-Championship.png",
+        "file":"cqc.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/manufacturers/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/manufacturers/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/manufacturers/svgs.zip"
+            }
+        ]
     }
 ]

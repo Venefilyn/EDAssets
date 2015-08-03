@@ -10,7 +10,7 @@
         "designer_info": [
           {
             "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "url":"https://www.reddit.com/user/SpyTec13"
           }
         ],
         "formats": [
@@ -32,7 +32,7 @@
         "designer_info": [
           {
             "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "url":"https://www.reddit.com/user/SpyTec13"
           }
         ],
         "formats": [
@@ -47,6 +47,72 @@
         ]
       },
       {
+        "name": "Flag hologram",
+        "preview": "img/preview/Flag-hologram.png",
+        "desc": "Flag ring icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/cqc/Flag-hologram.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/cqc/Flag-hologram.svg"
+          }
+        ]
+      },
+      {
+        "name": "Friendly base",
+        "preview": "img/preview/Friendly-base.png",
+        "desc": "Icon on scanner for friendly flag ring.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/cqc/Friendly-base.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/cqc/Friendly-base.svg"
+          }
+        ]
+      },
+      {
+        "name": "Friendly escort",
+        "preview": "img/preview/Friendly-escort.png",
+        "desc": "Icon on scanner for friendly pilot who has the flag.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/cqc/Friendly-escort.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/cqc/Friendly-escort.svg"
+          }
+        ]
+      },
+      {
         "name": "Objective",
         "preview": "img/preview/Objective.png",
         "desc": "Icon for objectives visible on hologram.",
@@ -54,7 +120,7 @@
         "designer_info": [
           {
             "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "url":"https://www.reddit.com/user/SpyTec13"
           }
         ],
         "formats": [
@@ -76,7 +142,7 @@
         "designer_info": [
           {
             "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "url":"https://www.reddit.com/user/SpyTec13"
           }
         ],
         "formats": [
@@ -98,7 +164,7 @@
         "designer_info": [
           {
             "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "url":"https://www.reddit.com/user/SpyTec13"
           }
         ],
         "formats": [
@@ -120,7 +186,7 @@
         "designer_info": [
           {
             "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "url":"https://www.reddit.com/user/SpyTec13"
           }
         ],
         "formats": [
@@ -142,7 +208,7 @@
         "designer_info": [
           {
             "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "url":"https://www.reddit.com/user/SpyTec13"
           }
         ],
         "formats": [

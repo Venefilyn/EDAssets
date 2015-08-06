@@ -57,9 +57,9 @@
         ]
       },
       {
-        "name": "Cobra Mk III",
-        "preview": "img/preview/Diamondbackxl_schematic.png",
-        "desc": "Schematic of the Cobra Mk III. Dark blue = 1m",
+        "name": "Cobra Mk. III",
+        "preview": "img/preview/CobraMkIII_schematic.png",
+        "desc": "Schematic of the Cobra Mk. III. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
           {
@@ -111,9 +111,9 @@
         ]
       },
       {
-        "name": "Eagle Mk II",
+        "name": "Eagle Mk. II",
         "preview": "img/preview/EagleMkII_schematic.png",
-        "desc": "Schematic of the Eagle Mk II. Dark blue = 1m",
+        "desc": "Schematic of the Eagle Mk. II. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
           {
@@ -255,9 +255,9 @@
         ]
       },
       {
-        "name": "Sidewinder Mk I",
+        "name": "Sidewinder Mk. I",
         "preview": "img/preview/SidewinderMkI_schematic.png",
-        "desc": "Schematic of the Sidewinder Mk I. Dark blue = 1m",
+        "desc": "Schematic of the Sidewinder Mk. I. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
           {
@@ -327,9 +327,9 @@
         ]
       },
       {
-        "name": "Viper Mk III",
+        "name": "Viper Mk. III",
         "preview": "img/preview/ViperMkIII_schematic.png",
-        "desc": "Schematic of the Viper Mk III. Dark blue = 1m",
+        "desc": "Schematic of the Viper Mk. III. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
           {

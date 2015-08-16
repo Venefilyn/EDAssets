@@ -270,15 +270,35 @@
         "zipurl": [
             {
               "format":"All formats",
-              "link":"img/manufacturers/all.zip"
+              "link":"img/cqc/all.zip"
             },
             {
               "format":"PNGs",
-              "link":"img/manufacturers/pngs.zip"
+              "link":"img/cqc/pngs.zip"
             },
             {
               "format":"SVGs",
-              "link":"img/manufacturers/svgs.zip"
+              "link":"img/cqc/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Decals",
+        "desc":"Ship decals.",
+        "preview":"img/preview/Planet2.png",
+        "file":"decals.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/decals/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/decals/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/decals/svgs.zip"
             }
         ]
     }

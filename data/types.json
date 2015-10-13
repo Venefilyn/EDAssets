@@ -178,8 +178,8 @@
         ]
     },
     {
-        "name":"Elite: Dangerous logos",
-        "desc":"The official Elite: Dangerous logos.",
+        "name":"Elite Dangerous logos",
+        "desc":"The official Elite Dangerous logos.",
         "preview":"img/preview/elite-dangerous-logo.png",
         "file":"ed-logos.json",
         "zipurl": [

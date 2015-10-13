@@ -1,11 +1,11 @@
 [
   {
-    "name":"Elite: Dangerous logotypes",
+    "name":"Elite Dangerous logotypes",
     "types":[
       {
-        "name": "Elite: Dangerous logo",
+        "name": "Elite Dangerous logo",
         "preview": "img/preview/elite-dangerous-logo.png",
-        "desc": "The Elite: Dangerous logo.",
+        "desc": "The Elite Dangerous logo.",
         "fanmade": false,
         "designer_info": [
           {
@@ -21,9 +21,9 @@
         ]
       },
       {
-        "name": "Elite: Dangerous clean",
+        "name": "Elite Dangerous clean",
         "preview": "img/preview/elite-dangerous-clean.png",
-        "desc": "The Elite: Dangerous logo in clean vector form.",
+        "desc": "The Elite Dangerous logo in clean vector form.",
         "fanmade": true,
         "designer_info": [
           {
@@ -43,9 +43,9 @@
         ]
       },
       {
-        "name": "Old Elite: Dangerous logo",
+        "name": "Old Elite Dangerous logo",
         "preview": "img/preview/elite-dangerous-old-logo.png",
-        "desc": "The old Elite: Dangerous logo.",
+        "desc": "The old Elite Dangerous logo.",
         "fanmade": false,
         "designer_info": [
           {

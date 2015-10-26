@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Elite Dangerous v3",
-        "preview": "img/preview/elite-dangerous-logo_grey.png.png",
+        "preview": "img/preview/elite-dangerous-logo_grey.png",
         "desc": "The Elite Dangerous logo.",
         "fanmade": false,
         "designer_info": [
@@ -16,7 +16,7 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/ed-logos/elite-dangerous-logo_grey.png.png"
+            "link":"img/ed-logos/elite-dangerous-logo_grey.png"
           }
         ]
       },

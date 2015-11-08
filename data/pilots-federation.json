@@ -23,6 +23,26 @@
         ]
       },
       {
+        "name":"CQC",
+        "desc":"CQC ranks.",
+        "preview":"img/preview/rank-9-cqc.png",
+        "file":"pilots-federation-cqc.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/pilots-federation/cqc/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/pilots-federation/cqc/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/pilots-federation/cqc/svgs.zip"
+            }
+        ]
+      },
+      {
         "name":"Explorer",
         "desc":"Explorer ranks.",
         "preview":"img/preview/rank-9-explorer.png",

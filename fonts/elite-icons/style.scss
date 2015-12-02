@@ -1,0 +1,1769 @@
+@import "variables"
+
+@font-face {
+	font-family: 'elite-icons';
+	src:url('fonts/elite-icons.eot?5rgn3z');
+	src:url('fonts/elite-icons.eot?5rgn3z#iefix') format('embedded-opentype'),
+		url('fonts/elite-icons.ttf?5rgn3z') format('truetype'),
+		url('fonts/elite-icons.woff?5rgn3z') format('woff'),
+		url('fonts/elite-icons.svg?5rgn3z#elite-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'elite-icons' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-rank-1-trading .path1 {
+    &:before {
+        content: $icon-rank-1-trading-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path2 {
+    &:before {
+        content: $icon-rank-1-trading-path2;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path3 {
+    &:before {
+        content: $icon-rank-1-trading-path3;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path4 {
+    &:before {
+        content: $icon-rank-1-trading-path4;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path5 {
+    &:before {
+        content: $icon-rank-1-trading-path5;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path6 {
+    &:before {
+        content: $icon-rank-1-trading-path6;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path7 {
+    &:before {
+        content: $icon-rank-1-trading-path7;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path8 {
+    &:before {
+        content: $icon-rank-1-trading-path8;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path9 {
+    &:before {
+        content: $icon-rank-1-trading-path9;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path10 {
+    &:before {
+        content: $icon-rank-1-trading-path10;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path11 {
+    &:before {
+        content: $icon-rank-1-trading-path11;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path12 {
+    &:before {
+        content: $icon-rank-1-trading-path12;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path13 {
+    &:before {
+        content: $icon-rank-1-trading-path13;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path14 {
+    &:before {
+        content: $icon-rank-1-trading-path14;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path15 {
+    &:before {
+        content: $icon-rank-1-trading-path15;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path16 {
+    &:before {
+        content: $icon-rank-1-trading-path16;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-trading .path17 {
+    &:before {
+        content: $icon-rank-1-trading-path17;    
+        margin-left: -1.1728515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path1 {
+    &:before {
+        content: $icon-rank-2-trading-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path2 {
+    &:before {
+        content: $icon-rank-2-trading-path2;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path3 {
+    &:before {
+        content: $icon-rank-2-trading-path3;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path4 {
+    &:before {
+        content: $icon-rank-2-trading-path4;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path5 {
+    &:before {
+        content: $icon-rank-2-trading-path5;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path6 {
+    &:before {
+        content: $icon-rank-2-trading-path6;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path7 {
+    &:before {
+        content: $icon-rank-2-trading-path7;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path8 {
+    &:before {
+        content: $icon-rank-2-trading-path8;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path9 {
+    &:before {
+        content: $icon-rank-2-trading-path9;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path10 {
+    &:before {
+        content: $icon-rank-2-trading-path10;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path11 {
+    &:before {
+        content: $icon-rank-2-trading-path11;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path12 {
+    &:before {
+        content: $icon-rank-2-trading-path12;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path13 {
+    &:before {
+        content: $icon-rank-2-trading-path13;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path14 {
+    &:before {
+        content: $icon-rank-2-trading-path14;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path15 {
+    &:before {
+        content: $icon-rank-2-trading-path15;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path16 {
+    &:before {
+        content: $icon-rank-2-trading-path16;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-trading .path17 {
+    &:before {
+        content: $icon-rank-2-trading-path17;    
+        margin-left: -1.17578125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path1 {
+    &:before {
+        content: $icon-rank-3-trading-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path2 {
+    &:before {
+        content: $icon-rank-3-trading-path2;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path3 {
+    &:before {
+        content: $icon-rank-3-trading-path3;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path4 {
+    &:before {
+        content: $icon-rank-3-trading-path4;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path5 {
+    &:before {
+        content: $icon-rank-3-trading-path5;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path6 {
+    &:before {
+        content: $icon-rank-3-trading-path6;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path7 {
+    &:before {
+        content: $icon-rank-3-trading-path7;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path8 {
+    &:before {
+        content: $icon-rank-3-trading-path8;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path9 {
+    &:before {
+        content: $icon-rank-3-trading-path9;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path10 {
+    &:before {
+        content: $icon-rank-3-trading-path10;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path11 {
+    &:before {
+        content: $icon-rank-3-trading-path11;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path12 {
+    &:before {
+        content: $icon-rank-3-trading-path12;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path13 {
+    &:before {
+        content: $icon-rank-3-trading-path13;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path14 {
+    &:before {
+        content: $icon-rank-3-trading-path14;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path15 {
+    &:before {
+        content: $icon-rank-3-trading-path15;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path16 {
+    &:before {
+        content: $icon-rank-3-trading-path16;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-trading .path17 {
+    &:before {
+        content: $icon-rank-3-trading-path17;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path1 {
+    &:before {
+        content: $icon-rank-4-trading-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path2 {
+    &:before {
+        content: $icon-rank-4-trading-path2;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path3 {
+    &:before {
+        content: $icon-rank-4-trading-path3;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path4 {
+    &:before {
+        content: $icon-rank-4-trading-path4;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path5 {
+    &:before {
+        content: $icon-rank-4-trading-path5;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path6 {
+    &:before {
+        content: $icon-rank-4-trading-path6;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path7 {
+    &:before {
+        content: $icon-rank-4-trading-path7;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path8 {
+    &:before {
+        content: $icon-rank-4-trading-path8;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path9 {
+    &:before {
+        content: $icon-rank-4-trading-path9;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path10 {
+    &:before {
+        content: $icon-rank-4-trading-path10;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path11 {
+    &:before {
+        content: $icon-rank-4-trading-path11;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path12 {
+    &:before {
+        content: $icon-rank-4-trading-path12;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path13 {
+    &:before {
+        content: $icon-rank-4-trading-path13;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path14 {
+    &:before {
+        content: $icon-rank-4-trading-path14;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path15 {
+    &:before {
+        content: $icon-rank-4-trading-path15;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path16 {
+    &:before {
+        content: $icon-rank-4-trading-path16;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-trading .path17 {
+    &:before {
+        content: $icon-rank-4-trading-path17;    
+        margin-left: -1.0361328125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path1 {
+    &:before {
+        content: $icon-rank-5-trading-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path2 {
+    &:before {
+        content: $icon-rank-5-trading-path2;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path3 {
+    &:before {
+        content: $icon-rank-5-trading-path3;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path4 {
+    &:before {
+        content: $icon-rank-5-trading-path4;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path5 {
+    &:before {
+        content: $icon-rank-5-trading-path5;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path6 {
+    &:before {
+        content: $icon-rank-5-trading-path6;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path7 {
+    &:before {
+        content: $icon-rank-5-trading-path7;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path8 {
+    &:before {
+        content: $icon-rank-5-trading-path8;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path9 {
+    &:before {
+        content: $icon-rank-5-trading-path9;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path10 {
+    &:before {
+        content: $icon-rank-5-trading-path10;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path11 {
+    &:before {
+        content: $icon-rank-5-trading-path11;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path12 {
+    &:before {
+        content: $icon-rank-5-trading-path12;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path13 {
+    &:before {
+        content: $icon-rank-5-trading-path13;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path14 {
+    &:before {
+        content: $icon-rank-5-trading-path14;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path15 {
+    &:before {
+        content: $icon-rank-5-trading-path15;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path16 {
+    &:before {
+        content: $icon-rank-5-trading-path16;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-trading .path17 {
+    &:before {
+        content: $icon-rank-5-trading-path17;    
+        margin-left: -1.1103515625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path1 {
+    &:before {
+        content: $icon-rank-6-trading-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path2 {
+    &:before {
+        content: $icon-rank-6-trading-path2;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path3 {
+    &:before {
+        content: $icon-rank-6-trading-path3;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path4 {
+    &:before {
+        content: $icon-rank-6-trading-path4;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path5 {
+    &:before {
+        content: $icon-rank-6-trading-path5;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path6 {
+    &:before {
+        content: $icon-rank-6-trading-path6;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path7 {
+    &:before {
+        content: $icon-rank-6-trading-path7;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path8 {
+    &:before {
+        content: $icon-rank-6-trading-path8;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path9 {
+    &:before {
+        content: $icon-rank-6-trading-path9;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path10 {
+    &:before {
+        content: $icon-rank-6-trading-path10;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path11 {
+    &:before {
+        content: $icon-rank-6-trading-path11;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path12 {
+    &:before {
+        content: $icon-rank-6-trading-path12;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path13 {
+    &:before {
+        content: $icon-rank-6-trading-path13;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path14 {
+    &:before {
+        content: $icon-rank-6-trading-path14;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path15 {
+    &:before {
+        content: $icon-rank-6-trading-path15;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path16 {
+    &:before {
+        content: $icon-rank-6-trading-path16;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-trading .path17 {
+    &:before {
+        content: $icon-rank-6-trading-path17;    
+        margin-left: -1.2041015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path1 {
+    &:before {
+        content: $icon-rank-7-trading-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path2 {
+    &:before {
+        content: $icon-rank-7-trading-path2;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path3 {
+    &:before {
+        content: $icon-rank-7-trading-path3;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path4 {
+    &:before {
+        content: $icon-rank-7-trading-path4;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path5 {
+    &:before {
+        content: $icon-rank-7-trading-path5;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path6 {
+    &:before {
+        content: $icon-rank-7-trading-path6;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path7 {
+    &:before {
+        content: $icon-rank-7-trading-path7;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path8 {
+    &:before {
+        content: $icon-rank-7-trading-path8;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path9 {
+    &:before {
+        content: $icon-rank-7-trading-path9;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path10 {
+    &:before {
+        content: $icon-rank-7-trading-path10;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path11 {
+    &:before {
+        content: $icon-rank-7-trading-path11;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path12 {
+    &:before {
+        content: $icon-rank-7-trading-path12;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path13 {
+    &:before {
+        content: $icon-rank-7-trading-path13;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path14 {
+    &:before {
+        content: $icon-rank-7-trading-path14;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path15 {
+    &:before {
+        content: $icon-rank-7-trading-path15;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path16 {
+    &:before {
+        content: $icon-rank-7-trading-path16;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-trading .path17 {
+    &:before {
+        content: $icon-rank-7-trading-path17;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path1 {
+    &:before {
+        content: $icon-rank-8-trading-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path2 {
+    &:before {
+        content: $icon-rank-8-trading-path2;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path3 {
+    &:before {
+        content: $icon-rank-8-trading-path3;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path4 {
+    &:before {
+        content: $icon-rank-8-trading-path4;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path5 {
+    &:before {
+        content: $icon-rank-8-trading-path5;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path6 {
+    &:before {
+        content: $icon-rank-8-trading-path6;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path7 {
+    &:before {
+        content: $icon-rank-8-trading-path7;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path8 {
+    &:before {
+        content: $icon-rank-8-trading-path8;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path9 {
+    &:before {
+        content: $icon-rank-8-trading-path9;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path10 {
+    &:before {
+        content: $icon-rank-8-trading-path10;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path11 {
+    &:before {
+        content: $icon-rank-8-trading-path11;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path12 {
+    &:before {
+        content: $icon-rank-8-trading-path12;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path13 {
+    &:before {
+        content: $icon-rank-8-trading-path13;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path14 {
+    &:before {
+        content: $icon-rank-8-trading-path14;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path15 {
+    &:before {
+        content: $icon-rank-8-trading-path15;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path16 {
+    &:before {
+        content: $icon-rank-8-trading-path16;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-trading .path17 {
+    &:before {
+        content: $icon-rank-8-trading-path17;    
+        margin-left: -1.1796875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path1 {
+    &:before {
+        content: $icon-rank-9-trading-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path2 {
+    &:before {
+        content: $icon-rank-9-trading-path2;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path3 {
+    &:before {
+        content: $icon-rank-9-trading-path3;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path4 {
+    &:before {
+        content: $icon-rank-9-trading-path4;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path5 {
+    &:before {
+        content: $icon-rank-9-trading-path5;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path6 {
+    &:before {
+        content: $icon-rank-9-trading-path6;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path7 {
+    &:before {
+        content: $icon-rank-9-trading-path7;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path8 {
+    &:before {
+        content: $icon-rank-9-trading-path8;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path9 {
+    &:before {
+        content: $icon-rank-9-trading-path9;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path10 {
+    &:before {
+        content: $icon-rank-9-trading-path10;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path11 {
+    &:before {
+        content: $icon-rank-9-trading-path11;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path12 {
+    &:before {
+        content: $icon-rank-9-trading-path12;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path13 {
+    &:before {
+        content: $icon-rank-9-trading-path13;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path14 {
+    &:before {
+        content: $icon-rank-9-trading-path14;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path15 {
+    &:before {
+        content: $icon-rank-9-trading-path15;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path16 {
+    &:before {
+        content: $icon-rank-9-trading-path16;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-trading .path17 {
+    &:before {
+        content: $icon-rank-9-trading-path17;    
+        margin-left: -1.1416015625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-explorer .path1 {
+    &:before {
+        content: $icon-rank-1-explorer-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-explorer .path2 {
+    &:before {
+        content: $icon-rank-1-explorer-path2;    
+        margin-left: -1em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-explorer .path1 {
+    &:before {
+        content: $icon-rank-2-explorer-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-explorer .path2 {
+    &:before {
+        content: $icon-rank-2-explorer-path2;    
+        margin-left: -1em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-explorer .path1 {
+    &:before {
+        content: $icon-rank-3-explorer-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-explorer .path2 {
+    &:before {
+        content: $icon-rank-3-explorer-path2;    
+        margin-left: -1em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-explorer .path3 {
+    &:before {
+        content: $icon-rank-3-explorer-path3;    
+        margin-left: -1em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-explorer .path1 {
+    &:before {
+        content: $icon-rank-4-explorer-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-explorer .path2 {
+    &:before {
+        content: $icon-rank-4-explorer-path2;    
+        margin-left: -1.0224609375em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-explorer .path3 {
+    &:before {
+        content: $icon-rank-4-explorer-path3;    
+        margin-left: -1.0224609375em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-explorer .path1 {
+    &:before {
+        content: $icon-rank-5-explorer-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-explorer .path2 {
+    &:before {
+        content: $icon-rank-5-explorer-path2;    
+        margin-left: -1.134765625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-explorer .path3 {
+    &:before {
+        content: $icon-rank-5-explorer-path3;    
+        margin-left: -1.134765625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-explorer .path4 {
+    &:before {
+        content: $icon-rank-5-explorer-path4;    
+        margin-left: -1.134765625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-explorer .path1 {
+    &:before {
+        content: $icon-rank-6-explorer-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-explorer .path2 {
+    &:before {
+        content: $icon-rank-6-explorer-path2;    
+        margin-left: -1.2314453125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-explorer .path3 {
+    &:before {
+        content: $icon-rank-6-explorer-path3;    
+        margin-left: -1.2314453125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-explorer .path4 {
+    &:before {
+        content: $icon-rank-6-explorer-path4;    
+        margin-left: -1.2314453125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-explorer .path1 {
+    &:before {
+        content: $icon-rank-7-explorer-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-explorer .path2 {
+    &:before {
+        content: $icon-rank-7-explorer-path2;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-explorer .path3 {
+    &:before {
+        content: $icon-rank-7-explorer-path3;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-explorer .path4 {
+    &:before {
+        content: $icon-rank-7-explorer-path4;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-explorer .path1 {
+    &:before {
+        content: $icon-rank-8-explorer-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-explorer .path2 {
+    &:before {
+        content: $icon-rank-8-explorer-path2;    
+        margin-left: -1.171875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-explorer .path3 {
+    &:before {
+        content: $icon-rank-8-explorer-path3;    
+        margin-left: -1.171875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-explorer .path4 {
+    &:before {
+        content: $icon-rank-8-explorer-path4;    
+        margin-left: -1.171875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-explorer .path1 {
+    &:before {
+        content: $icon-rank-9-explorer-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-explorer .path2 {
+    &:before {
+        content: $icon-rank-9-explorer-path2;    
+        margin-left: -1.140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-explorer .path3 {
+    &:before {
+        content: $icon-rank-9-explorer-path3;    
+        margin-left: -1.140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-explorer .path4 {
+    &:before {
+        content: $icon-rank-9-explorer-path4;    
+        margin-left: -1.140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-combat .path1 {
+    &:before {
+        content: $icon-rank-1-combat-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-combat .path2 {
+    &:before {
+        content: $icon-rank-1-combat-path2;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-combat .path3 {
+    &:before {
+        content: $icon-rank-1-combat-path3;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-combat .path4 {
+    &:before {
+        content: $icon-rank-1-combat-path4;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-combat .path5 {
+    &:before {
+        content: $icon-rank-1-combat-path5;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-combat .path6 {
+    &:before {
+        content: $icon-rank-1-combat-path6;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1-combat .path7 {
+    &:before {
+        content: $icon-rank-1-combat-path7;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-combat .path1 {
+    &:before {
+        content: $icon-rank-2-combat-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-combat .path2 {
+    &:before {
+        content: $icon-rank-2-combat-path2;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-combat .path3 {
+    &:before {
+        content: $icon-rank-2-combat-path3;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-combat .path4 {
+    &:before {
+        content: $icon-rank-2-combat-path4;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-combat .path5 {
+    &:before {
+        content: $icon-rank-2-combat-path5;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-combat .path6 {
+    &:before {
+        content: $icon-rank-2-combat-path6;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-2-combat .path7 {
+    &:before {
+        content: $icon-rank-2-combat-path7;    
+        margin-left: -1.744140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-combat .path1 {
+    &:before {
+        content: $icon-rank-3-combat-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-combat .path2 {
+    &:before {
+        content: $icon-rank-3-combat-path2;    
+        margin-left: -1.5185546875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-combat .path3 {
+    &:before {
+        content: $icon-rank-3-combat-path3;    
+        margin-left: -1.5185546875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-combat .path4 {
+    &:before {
+        content: $icon-rank-3-combat-path4;    
+        margin-left: -1.5185546875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-combat .path5 {
+    &:before {
+        content: $icon-rank-3-combat-path5;    
+        margin-left: -1.5185546875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-combat .path6 {
+    &:before {
+        content: $icon-rank-3-combat-path6;    
+        margin-left: -1.5185546875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-3-combat .path7 {
+    &:before {
+        content: $icon-rank-3-combat-path7;    
+        margin-left: -1.5185546875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-combat .path1 {
+    &:before {
+        content: $icon-rank-4-combat-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-combat .path2 {
+    &:before {
+        content: $icon-rank-4-combat-path2;    
+        margin-left: -1.306640625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-combat .path3 {
+    &:before {
+        content: $icon-rank-4-combat-path3;    
+        margin-left: -1.306640625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-combat .path4 {
+    &:before {
+        content: $icon-rank-4-combat-path4;    
+        margin-left: -1.306640625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-combat .path5 {
+    &:before {
+        content: $icon-rank-4-combat-path5;    
+        margin-left: -1.306640625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-combat .path6 {
+    &:before {
+        content: $icon-rank-4-combat-path6;    
+        margin-left: -1.306640625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-4-combat .path7 {
+    &:before {
+        content: $icon-rank-4-combat-path7;    
+        margin-left: -1.306640625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-combat .path1 {
+    &:before {
+        content: $icon-rank-5-combat-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-combat .path2 {
+    &:before {
+        content: $icon-rank-5-combat-path2;    
+        margin-left: -1.1982421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-combat .path3 {
+    &:before {
+        content: $icon-rank-5-combat-path3;    
+        margin-left: -1.1982421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-combat .path4 {
+    &:before {
+        content: $icon-rank-5-combat-path4;    
+        margin-left: -1.1982421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-combat .path5 {
+    &:before {
+        content: $icon-rank-5-combat-path5;    
+        margin-left: -1.1982421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-combat .path6 {
+    &:before {
+        content: $icon-rank-5-combat-path6;    
+        margin-left: -1.1982421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-5-combat .path7 {
+    &:before {
+        content: $icon-rank-5-combat-path7;    
+        margin-left: -1.1982421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-combat .path1 {
+    &:before {
+        content: $icon-rank-6-combat-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-combat .path2 {
+    &:before {
+        content: $icon-rank-6-combat-path2;    
+        margin-left: -1.2314453125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-combat .path3 {
+    &:before {
+        content: $icon-rank-6-combat-path3;    
+        margin-left: -1.2314453125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-combat .path4 {
+    &:before {
+        content: $icon-rank-6-combat-path4;    
+        margin-left: -1.2314453125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-combat .path5 {
+    &:before {
+        content: $icon-rank-6-combat-path5;    
+        margin-left: -1.2314453125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-combat .path6 {
+    &:before {
+        content: $icon-rank-6-combat-path6;    
+        margin-left: -1.2314453125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-6-combat .path7 {
+    &:before {
+        content: $icon-rank-6-combat-path7;    
+        margin-left: -1.2314453125em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-combat .path1 {
+    &:before {
+        content: $icon-rank-7-combat-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-combat .path2 {
+    &:before {
+        content: $icon-rank-7-combat-path2;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-combat .path3 {
+    &:before {
+        content: $icon-rank-7-combat-path3;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-combat .path4 {
+    &:before {
+        content: $icon-rank-7-combat-path4;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-combat .path5 {
+    &:before {
+        content: $icon-rank-7-combat-path5;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-combat .path6 {
+    &:before {
+        content: $icon-rank-7-combat-path6;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-7-combat .path7 {
+    &:before {
+        content: $icon-rank-7-combat-path7;    
+        margin-left: -1.232421875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-combat .path1 {
+    &:before {
+        content: $icon-rank-8-combat-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-combat .path2 {
+    &:before {
+        content: $icon-rank-8-combat-path2;    
+        margin-left: -1.1748046875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-combat .path3 {
+    &:before {
+        content: $icon-rank-8-combat-path3;    
+        margin-left: -1.1748046875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-combat .path4 {
+    &:before {
+        content: $icon-rank-8-combat-path4;    
+        margin-left: -1.1748046875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-combat .path5 {
+    &:before {
+        content: $icon-rank-8-combat-path5;    
+        margin-left: -1.1748046875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-combat .path6 {
+    &:before {
+        content: $icon-rank-8-combat-path6;    
+        margin-left: -1.1748046875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-8-combat .path7 {
+    &:before {
+        content: $icon-rank-8-combat-path7;    
+        margin-left: -1.1748046875em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-combat .path1 {
+    &:before {
+        content: $icon-rank-9-combat-path1;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-combat .path2 {
+    &:before {
+        content: $icon-rank-9-combat-path2;    
+        margin-left: -1.140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-combat .path3 {
+    &:before {
+        content: $icon-rank-9-combat-path3;    
+        margin-left: -1.140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-combat .path4 {
+    &:before {
+        content: $icon-rank-9-combat-path4;    
+        margin-left: -1.140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-combat .path5 {
+    &:before {
+        content: $icon-rank-9-combat-path5;    
+        margin-left: -1.140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-combat .path6 {
+    &:before {
+        content: $icon-rank-9-combat-path6;    
+        margin-left: -1.140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-9-combat .path7 {
+    &:before {
+        content: $icon-rank-9-combat-path7;    
+        margin-left: -1.140625em;    
+        color: rgb(0, 0, 0);
+    }
+}
+.icon-rank-1 {
+	&:before {
+		content: $icon-rank-1;
+	}
+}
+.icon-rank-2 {
+	&:before {
+		content: $icon-rank-2;
+	}
+}
+.icon-rank-3 {
+	&:before {
+		content: $icon-rank-3;
+	}
+}
+.icon-rank-4 {
+	&:before {
+		content: $icon-rank-4;
+	}
+}
+.icon-rank-5 {
+	&:before {
+		content: $icon-rank-5;
+	}
+}
+.icon-rank-6 {
+	&:before {
+		content: $icon-rank-6;
+	}
+}
+.icon-rank-7 {
+	&:before {
+		content: $icon-rank-7;
+	}
+}
+.icon-rank-8 {
+	&:before {
+		content: $icon-rank-8;
+	}
+}
+.icon-rank-9 {
+	&:before {
+		content: $icon-rank-9;
+	}
+}
+

@@ -20,6 +20,25 @@
             "link":"https://mega.nz/#!Mt53CZqA!G2fk6_CSxAN2g21mWym7mG8_SagduJ--f4yOQCZKldc"
           }
         ]
+      },
+      {
+        "name": "Loading 1",
+        "svg": true,
+        "preview": "img/svg/EDLoader1.svg",
+        "desc": "Animated SVG from loading station services.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"cmmcleod",
+            "url":"https://github.com/cmmcleod"
+          }
+        ],
+        "formats": [
+          {
+            "format":"Animated SVG",
+            "link":"img/svg/EDLoader1.svg"
+          }
+        ]
       }
     ]
   }

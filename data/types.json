@@ -301,5 +301,25 @@
               "link":"img/decals/svgs.zip"
             }
         ]
+    },
+    {
+        "name":"Materials",
+        "desc":"Craft and loot materials.",
+        "preview":"img/preview/Very-rare.png",
+        "file":"materials.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/materials/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/materials/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/materials/svgs.zip"
+            }
+        ]
     }
 ]

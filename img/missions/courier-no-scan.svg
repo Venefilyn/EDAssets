@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="856.636px" height="805.825px" viewBox="0 0 856.636 805.825" enable-background="new 0 0 856.636 805.825"
+	 xml:space="preserve">
+<g id="Layer_2" opacity="0.5">
+	<g>
+		<path fill="#FFFFFF" d="M662.304,60.355l158.979,158.979L662.304,378.311v-54.453v-25h-25H327.486l165.71-161.7h144.105h25v-25
+			V60.355 M637.304,0v112.157H483.019l-216.949,211.7h371.232v114.811l219.334-219.334L637.304,0L637.304,0z"/>
+	</g>
+	<path fill="none" stroke="#FFFFFF" stroke-width="35" d="M499.132,112.157"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="35" d="M282.182,323.857"/>
+	<polygon opacity="0.75" fill="#FFFFFF" enable-background="new    " points="213.57,323.875 196.165,305.865 395.149,112.128 
+		412.554,130.138 	"/>
+	<polygon opacity="0.5" fill="#FFFFFF" enable-background="new    " points="125.07,323.875 107.665,305.865 306.649,112.128 
+		324.054,130.138 	"/>
+	<polygon opacity="0.25" fill="#FFFFFF" enable-background="new    " points="36.57,323.875 19.165,305.865 218.149,112.128 
+		235.554,130.138 	"/>
+	<path fill="#FFFFFF" d="M556.786,117.388"/>
+	<path fill="#FFFFFF" d="M364.928,303.998"/>
+</g>
+<g id="Layer_3">
+	<g>
+		<rect x="206.667" y="465.49" fill="#FFFFFF" width="24" height="173"/>
+		<rect x="206.667" y="666.49" fill="#FFFFFF" width="24" height="24"/>
+	</g>
+	<g id="Layer_4">
+		<g>
+			<path fill="#FFFFFF" d="M218.667,423.824c43.628,0,84.645,16.989,115.494,47.839S382,543.529,382,587.157
+				s-16.99,84.645-47.839,115.494s-71.866,47.839-115.494,47.839s-84.645-16.989-115.494-47.839s-47.839-71.866-47.839-115.494
+				s16.99-84.645,47.839-115.494S175.039,423.824,218.667,423.824 M218.667,403.824c-101.252,0-183.333,82.081-183.333,183.333
+				S117.415,770.49,218.667,770.49S402,688.409,402,587.157S319.919,403.824,218.667,403.824L218.667,403.824z"/>
+		</g>
+		<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-miterlimit="10" x1="0" y1="587.157" x2="43.334" y2="587.157"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-miterlimit="10" x1="218.667" y1="759.823" x2="218.667" y2="805.825"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-miterlimit="10" x1="390.667" y1="587.157" x2="437.334" y2="587.157"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="20" stroke-miterlimit="10" x1="218.667" y1="368.491" x2="218.667" y2="414.491"/>
+	</g>
+</g>
+</svg>

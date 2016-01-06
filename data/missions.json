@@ -1,0 +1,491 @@
+[
+  {
+    "name":"Missions",
+    "types":[
+      {
+        "name": "Assassination",
+        "preview": "img/preview/assassin.png",
+        "desc": "Where you hunt a single target for a huge bounty.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/assassin.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/assassin.svg"
+          }
+        ]
+      },
+      {
+        "name": "Base assault",
+        "preview": "img/preview/base-assault.png",
+        "desc": "Destroy a planetary base and scan data links.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/base-assault.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/base-assault.svg"
+          }
+        ]
+      },
+      {
+        "name": "Charity",
+        "preview": "img/preview/charity.png",
+        "desc": "Accept mission and give huge amounts of credits.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/charity.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/charity.svg"
+          }
+        ]
+      },
+      {
+        "name": "Courier",
+        "preview": "img/preview/courier.png",
+        "desc": "Deliver small amounts of cargo to nearby star.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/courier.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/courier.svg"
+          }
+        ]
+      },
+      {
+        "name": "Courier no scan",
+        "preview": "img/preview/courier-no-scan.png",
+        "desc": "Getting scanned results in mission failure.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/courier-no-scan.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/courier-no-scan.svg"
+          }
+        ]
+      },
+      {
+        "name": "Courier to planet",
+        "preview": "img/preview/courier-planet.png",
+        "desc": "Deliver cargo to a planetary surface port.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/courier-planet.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/courier-planet.svg"
+          }
+        ]
+      },
+      {
+        "name": "Courier timed",
+        "preview": "img/preview/courier-timed.png",
+        "desc": "Deliver within a short time period.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/courier-timed.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/courier-timed.svg"
+          }
+        ]
+      },
+      {
+        "name": "Data delivery",
+        "preview": "img/preview/data-delivery.png",
+        "desc": "Deliver data to nearby system.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/data-delivery.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/data-delivery.svg"
+          }
+        ]
+      },
+      {
+        "name": "Delivery",
+        "preview": "img/preview/delivery.png",
+        "desc": "Deliver commodities to nearby system.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/delivery.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/delivery.svg"
+          }
+        ]
+      },
+      {
+        "name": "Aquire illegal cargo",
+        "preview": "img/preview/delivery-pirate.png",
+        "desc": "Aquire illegal cargo to complete mission.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/delivery-pirate.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/delivery-pirate.svg"
+          }
+        ]
+      },
+      {
+        "name": "Delivery to planet",
+        "preview": "img/preview/delivery-planet.png",
+        "desc": "Deliver commodities to planetary surface port.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/delivery-planet.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/delivery-planet.svg"
+          }
+        ]
+      },
+      {
+        "name": "Smuggling",
+        "preview": "img/preview/delivery-smuggle.png",
+        "desc": "Take illegal commodities from point A to B.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/delivery-smuggle.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/delivery-smuggle.svg"
+          }
+        ]
+      },
+      {
+        "name": "Multi-stage hauling",
+        "preview": "img/preview/hauling.png",
+        "desc": "Multiple delivery missions one after another.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/hauling.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/hauling.svg"
+          }
+        ]
+      },
+      {
+        "name": "Mercenary",
+        "preview": "img/preview/mercenary.png",
+        "desc": "Kill a set amount of targets",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/mercenary.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/mercenary.svg"
+          }
+        ]
+      },
+      {
+        "name": "Mining",
+        "preview": "img/preview/mining.png",
+        "desc": "Mine metals or minerals.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/mining.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/mining.svg"
+          }
+        ]
+      },
+      {
+        "name": "Illegal activity",
+        "preview": "img/preview/pirate.png",
+        "desc": "Kill clean targets.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/pirate.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/pirate.svg"
+          }
+        ]
+      },
+      {
+        "name": "Illegal activity timed",
+        "preview": "img/preview/pirate-timed.png",
+        "desc": "Kill clean targets within a short time period.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/pirate-timed.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/pirate-timed.svg"
+          }
+        ]
+      },
+      {
+        "name": "Illegal activity timed",
+        "preview": "img/preview/planetary-data-unknown-mission.png",
+        "desc": "Kill clean targets within a short time period.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/planetary-data-unknown-mission.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/planetary-data-unknown-mission.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rescue mission",
+        "preview": "img/preview/rescue-mission.png",
+        "desc": "Help a hostage or deliver fuel to stranded ship.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/rescue-mission.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/rescue-mission.svg"
+          }
+        ]
+      },
+      {
+        "name": "Skimmer hunt",
+        "preview": "img/preview/skimmer-hunt.png",
+        "desc": "Kill a set amount of skimmer targets.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/skimmer-hunt.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/skimmer-hunt.svg"
+          }
+        ]
+      },
+      {
+        "name": "Timed assassin",
+        "preview": "img/preview/timed-assassin.png",
+        "desc": "Kill a target within a set period.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/timed-assassin.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/timed-assassin.svg"
+          }
+        ]
+      },
+      {
+        "name": "Unknown mission",
+        "preview": "img/preview/unknown-mission.png",
+        "desc": "Mysterious mission that shows blank.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/missions/unknown-mission.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/missions/unknown-mission.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

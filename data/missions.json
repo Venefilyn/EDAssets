@@ -49,7 +49,7 @@
       {
         "name": "Charity",
         "preview": "img/preview/charity.png",
-        "desc": "Accept mission and give huge amounts of credits.",
+        "desc": "Donate credits or certain goods.",
         "fanmade": true,
         "designer_info": [
           {
@@ -115,7 +115,7 @@
       {
         "name": "Courier to planet",
         "preview": "img/preview/courier-planet.png",
-        "desc": "Deliver cargo to a planetary surface port.",
+        "desc": "Deliver data to a planetary surface port.",
         "fanmade": true,
         "designer_info": [
           {
@@ -267,7 +267,7 @@
         ]
       },
       {
-        "name": "Multi-stage hauling",
+        "name": "Multi-stage courier",
         "preview": "img/preview/hauling.png",
         "desc": "Multiple delivery missions one after another.",
         "fanmade": true,

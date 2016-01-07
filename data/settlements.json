@@ -16,11 +16,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/decals/settlement_pm.png"
+            "link":"img/settlements/settlement_pm.png"
           },
           {
             "format":"SVG",
-            "link":"img/decals/settlement_pm.svg"
+            "link":"img/settlements/settlement_pm.svg"
           }
         ]
       },
@@ -38,11 +38,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/decals/settlement_sm.png"
+            "link":"img/settlements/settlement_sm.png"
           },
           {
             "format":"SVG",
-            "link":"img/decals/settlement_sm.svg"
+            "link":"img/settlements/settlement_sm.svg"
           }
         ]
       },
@@ -60,11 +60,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/decals/surface_port_pm.png"
+            "link":"img/settlements/surface_port_pm.png"
           },
           {
             "format":"SVG",
-            "link":"img/decals/surface_port_pm.svg"
+            "link":"img/settlements/surface_port_pm.svg"
           }
         ]
       },
@@ -82,11 +82,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/decals/surface_port_sm.png"
+            "link":"img/settlements/surface_port_sm.png"
           },
           {
             "format":"SVG",
-            "link":"img/decals/surface_port_sm.svg"
+            "link":"img/settlements/surface_port_sm.svg"
           }
         ]
       }

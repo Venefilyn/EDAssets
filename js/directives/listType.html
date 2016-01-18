@@ -5,12 +5,15 @@
 	<div>
 		<span class="center-img">
 			<span ng-if="item.webm">
-				<video loop controls>
-				  <source ng-src="{{ item.preview }}" type="video/webm">
+				<video loop autoplay>
+					<source ng-src="{{ item.preview }}" type="video/webm">
 				</video>
 			</span>
 			<span ng-if="!item.webm">
-				<img ng-src="{{ item.preview }}" alt="{{ item.name }} preview">
+				<span ng-if="item.svg" ng-include src="item.preview"></span>
+				<span ng-if="!item.svg">
+					<img ng-src="{{ item.preview }}" alt="{{ item.name }} preview">
+				</span>
 			</span>
 		</span>
 		<div>

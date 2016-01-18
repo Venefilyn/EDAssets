@@ -3,16 +3,10 @@
     "name":"Manufacturers",
     "types":[
       {
-        "name": "remlok",
-        "preview": "img/preview/remlok.png",
-        "desc": "The remlok logo.",
-        "fanmade": true,
-        "designer_info": [
-          {
-            "name":"CMDR MackTheHunter",
-            "url":"https://www.reddit.com/user/MackTheHunter"
-          }
-        ],
+        "name": "Core Dynamics",
+        "preview": "img/preview/coredynamics.png",
+        "desc": "The Core Dynamics logo.",
+        "fanmade": false,
         "odesigner_info": [
           {
             "name":"Xavier Henry"
@@ -21,11 +15,7 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/manufacturers/remlok.png"
-          },
-          {
-            "format":"SVG",
-            "link":"img/manufacturers/remlok.svg"
+            "link":"img/manufacturers/coredynamics.png"
           }
         ]
       },
@@ -43,6 +33,57 @@
           {
             "format":"PNG",
             "link":"img/manufacturers/FaulconDelacy.png"
+          }
+        ]
+      },
+      {
+        "name": "Gutamaya",
+        "preview": "img/preview/gutamaya.png",
+        "desc": "The Gutamaya logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/manufacturers/gutamaya.png"
+          }
+        ]
+      },
+      {
+        "name": "Lakon Spaceways",
+        "preview": "img/preview/lakon.png",
+        "desc": "The Lakon Spaceways logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/manufacturers/lakon.png"
+          }
+        ]
+      },
+      {
+        "name": "Lakon Spaceways Old",
+        "preview": "img/preview/Lakon Spaceways Logo.png",
+        "desc": "The old Lakon Spaceways logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/manufacturers/Lakon Spaceways Logo.png"
           }
         ]
       },
@@ -70,6 +111,67 @@
           {
             "format":"SVG",
             "link":"img/manufacturers/Manticore.svg"
+          }
+        ]
+      },
+      {
+        "name": "Remlok",
+        "preview": "img/preview/remlok.png",
+        "desc": "The Remlok logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR MackTheHunter",
+            "url":"https://www.reddit.com/user/MackTheHunter"
+          }
+        ],
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/manufacturers/remlok.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/manufacturers/remlok.svg"
+          }
+        ]
+      },
+      {
+        "name": "Saud Kruger",
+        "preview": "img/preview/saudkruger.png",
+        "desc": "The Saud Kruger logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/manufacturers/saudkruger.png"
+          }
+        ]
+      },
+      {
+        "name": "Zorgon Peterson",
+        "preview": "img/preview/zorgonpeterson.png",
+        "desc": "The Zorgon Peterson logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/manufacturers/zorgonpeterson.png"
           }
         ]
       }

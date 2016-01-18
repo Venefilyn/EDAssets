@@ -14,7 +14,12 @@
 				</a>
 			</span>
 			<span ng-if="!item.webm">
-				<a ui-sref="type({file:item.file})"><img ng-src="{{ item.preview }}" alt="{{ item.name }} preview"></a>
+				<a ui-sref="type({file:item.file})">
+					<span ng-if="item.svg" ng-include="{{ item.preview }}"></span>
+					<span ng-if="!item.svg">
+						<img ng-src="{{ item.preview }}" alt="{{ item.name }} preview">
+					</span>
+				</a>
 			</span>
 		</span>
 		<div>

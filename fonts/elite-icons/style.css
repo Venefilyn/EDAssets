@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'elite-icons';
-    src:    url('fonts/elite-icons.eot?dvcf1e');
-    src:    url('fonts/elite-icons.eot?dvcf1e#iefix') format('embedded-opentype'),
-        url('fonts/elite-icons.ttf?dvcf1e') format('truetype'),
-        url('fonts/elite-icons.woff?dvcf1e') format('woff'),
-        url('fonts/elite-icons.svg?dvcf1e#elite-icons') format('svg');
+    src:    url('fonts/elite-icons.eot?bj033l');
+    src:    url('fonts/elite-icons.eot?bj033l#iefix') format('embedded-opentype'),
+        url('fonts/elite-icons.ttf?bj033l') format('truetype'),
+        url('fonts/elite-icons.woff?bj033l') format('woff'),
+        url('fonts/elite-icons.svg?bj033l#elite-icons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,6 +24,932 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.elite-ALavignyDuval2:before {
+    content: "\e96d";
+}
+.elite-AislingDuval2:before {
+    content: "\e96e";
+}
+.elite-ArchonDelaine2:before {
+    content: "\e96f";
+}
+.elite-assassin:before {
+    content: "\e970";
+}
+.elite-BankofZaonce2:before {
+    content: "\e971";
+}
+.elite-base-assault .path1:before {
+    content: "\e972";
+    color: rgb(0, 0, 0);
+}
+.elite-base-assault .path2:before {
+    content: "\e973";
+    margin-left: -1.392578125em;
+    color: rgb(0, 0, 0);
+}
+.elite-base-assault .path3:before {
+    content: "\e974";
+    margin-left: -1.392578125em;
+    color: rgb(0, 0, 0);
+}
+.elite-base-assault .path4:before {
+    content: "\e975";
+    margin-left: -1.392578125em;
+    color: rgb(0, 0, 0);
+}
+.elite-base-assault .path5:before {
+    content: "\e976";
+    margin-left: -1.392578125em;
+    color: rgb(0, 0, 0);
+}
+.elite-base-assault .path6:before {
+    content: "\e977";
+    margin-left: -1.392578125em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-base-assault .path7:before {
+    content: "\e978";
+    margin-left: -1.392578125em;
+    color: rgb(0, 0, 0);
+}
+.elite-Basic:before {
+    content: "\e979";
+}
+.elite-charity:before {
+    content: "\e97a";
+}
+.elite-CombatBonds2 .path1:before {
+    content: "\e97b";
+    color: rgb(0, 0, 0);
+}
+.elite-CombatBonds2 .path2:before {
+    content: "\e97c";
+    margin-left: -1.537109375em;
+    color: rgb(0, 0, 0);
+}
+.elite-CombatBonds2 .path3:before {
+    content: "\e97d";
+    margin-left: -1.537109375em;
+    color: rgb(0, 0, 0);
+}
+.elite-CombatBonds2 .path4:before {
+    content: "\e97e";
+    margin-left: -1.537109375em;
+    color: rgb(0, 0, 0);
+}
+.elite-CombatBonds2 .path5:before {
+    content: "\e97f";
+    margin-left: -1.537109375em;
+    color: rgba(0, 0, 0, 0.45);
+}
+.elite-CombatBonds2 .path6:before {
+    content: "\e980";
+    margin-left: -1.537109375em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-Common:before {
+    content: "\e981";
+}
+.elite-courier-no-scan .path1:before {
+    content: "\e982";
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-courier-no-scan .path2:before {
+    content: "\e983";
+    margin-left: -1.0634765625em;
+    color: rgba(0, 0, 0, 0.375);
+}
+.elite-courier-no-scan .path3:before {
+    content: "\e984";
+    margin-left: -1.0634765625em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-courier-no-scan .path4:before {
+    content: "\e985";
+    margin-left: -1.0634765625em;
+    color: rgba(0, 0, 0, 0.125);
+}
+.elite-courier-no-scan .path5:before {
+    content: "\e986";
+    margin-left: -1.0634765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-courier-no-scan .path6:before {
+    content: "\e987";
+    margin-left: -1.0634765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-courier-no-scan .path7:before {
+    content: "\e988";
+    margin-left: -1.0634765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-courier-planet .path1:before {
+    content: "\e989";
+    color: rgb(0, 0, 0);
+}
+.elite-courier-planet .path2:before {
+    content: "\e98a";
+    margin-left: -1.11328125em;
+    color: rgba(0, 0, 0, 0.75);
+}
+.elite-courier-planet .path3:before {
+    content: "\e98b";
+    margin-left: -1.11328125em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-courier-planet .path4:before {
+    content: "\e98c";
+    margin-left: -1.11328125em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-courier-planet .path5:before {
+    content: "\e98d";
+    margin-left: -1.11328125em;
+    color: rgb(0, 0, 0);
+}
+.elite-courier-timed .path1:before {
+    content: "\e98e";
+    color: rgb(0, 0, 0);
+}
+.elite-courier-timed .path2:before {
+    content: "\e98f";
+    margin-left: -1.45703125em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-courier-timed .path3:before {
+    content: "\e990";
+    margin-left: -1.45703125em;
+    color: rgba(0, 0, 0, 0.375);
+}
+.elite-courier-timed .path4:before {
+    content: "\e991";
+    margin-left: -1.45703125em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-courier-timed .path5:before {
+    content: "\e992";
+    margin-left: -1.45703125em;
+    color: rgba(0, 0, 0, 0.125);
+}
+.elite-courier .path1:before {
+    content: "\e993";
+    color: rgb(0, 0, 0);
+}
+.elite-courier .path2:before {
+    content: "\e994";
+    margin-left: -1.9091796875em;
+    color: rgba(0, 0, 0, 0.75);
+}
+.elite-courier .path3:before {
+    content: "\e995";
+    margin-left: -1.9091796875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-courier .path4:before {
+    content: "\e996";
+    margin-left: -1.9091796875em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-data-delivery .path1:before {
+    content: "\e997";
+    color: rgb(0, 0, 0);
+}
+.elite-data-delivery .path2:before {
+    content: "\e998";
+    margin-left: -1.236328125em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-pirate .path1:before {
+    content: "\e999";
+    color: rgb(0, 0, 0);
+}
+.elite-delivery-pirate .path2:before {
+    content: "\e99a";
+    margin-left: -0.833984375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-pirate .path3:before {
+    content: "\e99b";
+    margin-left: -0.833984375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-pirate .path4:before {
+    content: "\e99c";
+    margin-left: -0.833984375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-pirate .path5:before {
+    content: "\e99d";
+    margin-left: -0.833984375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-pirate .path6:before {
+    content: "\e99e";
+    margin-left: -0.833984375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-pirate .path7:before {
+    content: "\e99f";
+    margin-left: -0.833984375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-pirate .path8:before {
+    content: "\e9a0";
+    margin-left: -0.833984375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-pirate .path9:before {
+    content: "\e9a1";
+    margin-left: -0.833984375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-pirate .path10:before {
+    content: "\e9a2";
+    margin-left: -0.833984375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-pirate .path11:before {
+    content: "\e9a3";
+    margin-left: -0.833984375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-planet .path1:before {
+    content: "\e9a4";
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-planet .path2:before {
+    content: "\e9a5";
+    margin-left: -1.1201171875em;
+    color: rgb(0, 0, 0);
+}
+.elite-delivery-planet .path3:before {
+    content: "\e9a6";
+    margin-left: -1.1201171875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-planet .path4:before {
+    content: "\e9a7";
+    margin-left: -1.1201171875em;
+    color: rgb(0, 0, 0);
+}
+.elite-delivery-smuggle .path1:before {
+    content: "\e9a8";
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-smuggle .path2:before {
+    content: "\e9a9";
+    margin-left: -1.04296875em;
+    color: rgb(0, 0, 0);
+}
+.elite-delivery-smuggle .path3:before {
+    content: "\e9aa";
+    margin-left: -1.04296875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-smuggle .path4:before {
+    content: "\e9ab";
+    margin-left: -1.04296875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-smuggle .path5:before {
+    content: "\e9ac";
+    margin-left: -1.04296875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-smuggle .path6:before {
+    content: "\e9ad";
+    margin-left: -1.04296875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-smuggle .path7:before {
+    content: "\e9ae";
+    margin-left: -1.04296875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-smuggle .path8:before {
+    content: "\e9af";
+    margin-left: -1.04296875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-smuggle .path9:before {
+    content: "\e9b0";
+    margin-left: -1.04296875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-smuggle .path10:before {
+    content: "\e9b1";
+    margin-left: -1.04296875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-smuggle .path11:before {
+    content: "\e9b2";
+    margin-left: -1.04296875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery-smuggle .path12:before {
+    content: "\e9b3";
+    margin-left: -1.04296875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery .path1:before {
+    content: "\e9b4";
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-delivery .path2:before {
+    content: "\e9b5";
+    margin-left: -1.2021484375em;
+    color: rgb(0, 0, 0);
+}
+.elite-delivery .path3:before {
+    content: "\e9b6";
+    margin-left: -1.2021484375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-DentonPatreus2:before {
+    content: "\e9b7";
+}
+.elite-EDLoader1 .path1:before {
+    content: "\e9b8";
+    color: rgba(0, 0, 0, 0.0526316);
+}
+.elite-EDLoader1 .path2:before {
+    content: "\e9b9";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.105263);
+}
+.elite-EDLoader1 .path3:before {
+    content: "\e9ba";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.157895);
+}
+.elite-EDLoader1 .path4:before {
+    content: "\e9bb";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.210526);
+}
+.elite-EDLoader1 .path5:before {
+    content: "\e9bc";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.263158);
+}
+.elite-EDLoader1 .path6:before {
+    content: "\e9bd";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.315789);
+}
+.elite-EDLoader1 .path7:before {
+    content: "\e9be";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.368421);
+}
+.elite-EDLoader1 .path8:before {
+    content: "\e9bf";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.421053);
+}
+.elite-EDLoader1 .path9:before {
+    content: "\e9c0";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.473684);
+}
+.elite-EDLoader1 .path10:before {
+    content: "\e9c1";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.526316);
+}
+.elite-EDLoader1 .path11:before {
+    content: "\e9c2";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.578947);
+}
+.elite-EDLoader1 .path12:before {
+    content: "\e9c3";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.684211);
+}
+.elite-EDLoader1 .path13:before {
+    content: "\e9c4";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.736842);
+}
+.elite-EDLoader1 .path14:before {
+    content: "\e9c5";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.789474);
+}
+.elite-EDLoader1 .path15:before {
+    content: "\e9c6";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.842105);
+}
+.elite-EDLoader1 .path16:before {
+    content: "\e9c7";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.894737);
+}
+.elite-EDLoader1 .path17:before {
+    content: "\e9c8";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.947368);
+}
+.elite-EDLoader1 .path18:before {
+    content: "\e9c9";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.3);
+}
+.elite-EDLoader1 .path19:before {
+    content: "\e9ca";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.4);
+}
+.elite-EDLoader1 .path20:before {
+    content: "\e9cb";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.157895);
+}
+.elite-EDLoader1 .path21:before {
+    content: "\e9cc";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.315789);
+}
+.elite-EDLoader1 .path22:before {
+    content: "\e9cd";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.473684);
+}
+.elite-EDLoader1 .path23:before {
+    content: "\e9ce";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.631579);
+}
+.elite-EDLoader1 .path24:before {
+    content: "\e9cf";
+    margin-left: -1em;
+    color: rgba(0, 0, 0, 0.789474);
+}
+.elite-EdmundMahon2:before {
+    content: "\e9d0";
+}
+.elite-FeliciaWinters2:before {
+    content: "\e9d1";
+}
+.elite-hauling .path1:before {
+    content: "\e9d2";
+    color: rgb(0, 0, 0);
+}
+.elite-hauling .path2:before {
+    content: "\e9d3";
+    margin-left: -1.3974609375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-hauling .path3:before {
+    content: "\e9d4";
+    margin-left: -1.3974609375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-hauling .path4:before {
+    content: "\e9d5";
+    margin-left: -1.3974609375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-hauling .path5:before {
+    content: "\e9d6";
+    margin-left: -1.3974609375em;
+    color: rgb(0, 0, 0);
+}
+.elite-hauling .path6:before {
+    content: "\e9d7";
+    margin-left: -1.3974609375em;
+    color: rgba(0, 0, 0, 0.75);
+}
+.elite-hauling .path7:before {
+    content: "\e9d8";
+    margin-left: -1.3974609375em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-hauling .path8:before {
+    content: "\e9d9";
+    margin-left: -1.3974609375em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-LiYongRui2:before {
+    content: "\e9da";
+}
+.elite-material:before {
+    content: "\e9db";
+}
+.elite-mercenary .path1:before {
+    content: "\e9dc";
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-mercenary .path2:before {
+    content: "\e9dd";
+    margin-left: -0.9873046875em;
+    color: rgb(0, 0, 0);
+}
+.elite-mercenary .path3:before {
+    content: "\e9de";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.375);
+}
+.elite-mercenary .path4:before {
+    content: "\e9df";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.75);
+}
+.elite-mercenary .path5:before {
+    content: "\e9e0";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-mercenary .path6:before {
+    content: "\e9e1";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-mercenary .path7:before {
+    content: "\e9e2";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-mercenary .path8:before {
+    content: "\e9e3";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-mercenary .path9:before {
+    content: "\e9e4";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-mercenary .path10:before {
+    content: "\e9e5";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-mercenary .path11:before {
+    content: "\e9e6";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-mercenary .path12:before {
+    content: "\e9e7";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-mercenary .path13:before {
+    content: "\e9e8";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-mercenary .path14:before {
+    content: "\e9e9";
+    margin-left: -0.9873046875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-mining .path1:before {
+    content: "\e9ea";
+    color: rgb(0, 0, 0);
+}
+.elite-mining .path2:before {
+    content: "\e9eb";
+    margin-left: -0.947265625em;
+    color: rgba(0, 0, 0, 0.75);
+}
+.elite-mining .path3:before {
+    content: "\e9ec";
+    margin-left: -0.947265625em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-NewDiscovery:before {
+    content: "\e9ed";
+}
+.elite-NewMaterial:before {
+    content: "\e9ee";
+}
+.elite-pirate-timed .path1:before {
+    content: "\e9ef";
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-pirate-timed .path2:before {
+    content: "\e9f0";
+    margin-left: -1.107421875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-pirate-timed .path3:before {
+    content: "\e9f1";
+    margin-left: -1.107421875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-pirate-timed .path4:before {
+    content: "\e9f2";
+    margin-left: -1.107421875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-pirate-timed .path5:before {
+    content: "\e9f3";
+    margin-left: -1.107421875em;
+    color: rgb(0, 0, 0);
+}
+.elite-pirate:before {
+    content: "\e9f4";
+}
+.elite-planetary-data-unknown-mission .path1:before {
+    content: "\e9f5";
+    color: rgb(0, 0, 0);
+}
+.elite-planetary-data-unknown-mission .path2:before {
+    content: "\e9f6";
+    margin-left: -1.0009765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-planetary-data-unknown-mission .path3:before {
+    content: "\e9f7";
+    margin-left: -1.0009765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-planetary-data-unknown-mission .path4:before {
+    content: "\e9f8";
+    margin-left: -1.0009765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-planetary-data-unknown-mission .path5:before {
+    content: "\e9f9";
+    margin-left: -1.0009765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-planetary-data-unknown-mission .path6:before {
+    content: "\e9fa";
+    margin-left: -1.0009765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-planetary-data-unknown-mission .path7:before {
+    content: "\e9fb";
+    margin-left: -1.0009765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-planetary-data-unknown-mission .path8:before {
+    content: "\e9fc";
+    margin-left: -1.0009765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-planetary-data-unknown-mission .path9:before {
+    content: "\e9fd";
+    margin-left: -1.0009765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-planetary-data-unknown-mission .path10:before {
+    content: "\e9fe";
+    margin-left: -1.0009765625em;
+    color: rgb(0, 0, 0);
+}
+.elite-planetary-data-unknown-mission .path11:before {
+    content: "\e9ff";
+    margin-left: -1.0009765625em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-planetary-data-unknown-mission .path12:before {
+    content: "\ea00";
+    margin-left: -1.0009765625em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-planetary-data-unknown-mission .path13:before {
+    content: "\ea01";
+    margin-left: -1.0009765625em;
+    color: rgba(0, 0, 0, 0.75);
+}
+.elite-planetary-data-unknown-mission .path14:before {
+    content: "\ea02";
+    margin-left: -1.0009765625em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-planetary-data-unknown-mission .path15:before {
+    content: "\ea03";
+    margin-left: -1.0009765625em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-planetary-data-unknown-mission .path16:before {
+    content: "\ea04";
+    margin-left: -1.0009765625em;
+    color: rgba(0, 0, 0, 0.75);
+}
+.elite-PranavAntal2:before {
+    content: "\ea05";
+}
+.elite-Premium:before {
+    content: "\ea06";
+}
+.elite-Rare:before {
+    content: "\ea07";
+}
+.elite-rescue-mission .path1:before {
+    content: "\ea08";
+    color: rgba(0, 0, 0, 0.75);
+}
+.elite-rescue-mission .path2:before {
+    content: "\ea09";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.elite-settlement_pm .path1:before {
+    content: "\ea0a";
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-settlement_pm .path2:before {
+    content: "\ea0b";
+    margin-left: -1.216796875em;
+    color: rgb(0, 0, 0);
+}
+.elite-settlement_pm .path3:before {
+    content: "\ea0c";
+    margin-left: -1.216796875em;
+    color: rgb(0, 0, 0);
+}
+.elite-settlement_pm .path4:before {
+    content: "\ea0d";
+    margin-left: -1.216796875em;
+    color: rgb(0, 0, 0);
+}
+.elite-settlement_sm:before {
+    content: "\ea0e";
+}
+.elite-skimmer-hunt .path1:before {
+    content: "\ea0f";
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-skimmer-hunt .path2:before {
+    content: "\ea10";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-skimmer-hunt .path3:before {
+    content: "\ea11";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-skimmer-hunt .path4:before {
+    content: "\ea12";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-skimmer-hunt .path5:before {
+    content: "\ea13";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-skimmer-hunt .path6:before {
+    content: "\ea14";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-skimmer-hunt .path7:before {
+    content: "\ea15";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-skimmer-hunt .path8:before {
+    content: "\ea16";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-skimmer-hunt .path9:before {
+    content: "\ea17";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-skimmer-hunt .path10:before {
+    content: "\ea18";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-skimmer-hunt .path11:before {
+    content: "\ea19";
+    margin-left: -1.1435546875em;
+    color: rgb(0, 0, 0);
+}
+.elite-skimmer-hunt .path12:before {
+    content: "\ea1a";
+    margin-left: -1.1435546875em;
+    color: rgb(0, 0, 0);
+}
+.elite-skimmer-hunt .path13:before {
+    content: "\ea1b";
+    margin-left: -1.1435546875em;
+    color: rgb(0, 0, 0);
+}
+.elite-skimmer-hunt .path14:before {
+    content: "\ea1c";
+    margin-left: -1.1435546875em;
+    color: rgb(0, 0, 0);
+}
+.elite-skimmer-hunt .path15:before {
+    content: "\ea1d";
+    margin-left: -1.1435546875em;
+    color: rgb(0, 0, 0);
+}
+.elite-skimmer-hunt .path16:before {
+    content: "\ea1e";
+    margin-left: -1.1435546875em;
+    color: rgb(0, 0, 0);
+}
+.elite-skimmer-hunt .path17:before {
+    content: "\ea1f";
+    margin-left: -1.1435546875em;
+    color: rgb(0, 0, 0);
+}
+.elite-skimmer-hunt .path18:before {
+    content: "\ea20";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-skimmer-hunt .path19:before {
+    content: "\ea21";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-skimmer-hunt .path20:before {
+    content: "\ea22";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-skimmer-hunt .path21:before {
+    content: "\ea23";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-skimmer-hunt .path22:before {
+    content: "\ea24";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-skimmer-hunt .path23:before {
+    content: "\ea25";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-skimmer-hunt .path24:before {
+    content: "\ea26";
+    margin-left: -1.1435546875em;
+    color: rgba(0, 0, 0, 0.25);
+}
+.elite-Standard:before {
+    content: "\ea27";
+}
+.elite-surface_port_pm:before {
+    content: "\ea28";
+}
+.elite-surface_port_sm:before {
+    content: "\ea29";
+}
+.elite-timed-assassin .path1:before {
+    content: "\ea2a";
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-timed-assassin .path2:before {
+    content: "\ea2b";
+    margin-left: -0.7666015625em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-timed-assassin .path3:before {
+    content: "\ea2c";
+    margin-left: -0.7666015625em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-timed-assassin .path4:before {
+    content: "\ea2d";
+    margin-left: -0.7666015625em;
+    color: rgba(0, 0, 0, 0.5);
+}
+.elite-timed-assassin .path5:before {
+    content: "\ea2e";
+    margin-left: -0.7666015625em;
+    color: rgb(0, 0, 0);
+}
+.elite-timed-assassin .path6:before {
+    content: "\ea2f";
+    margin-left: -0.7666015625em;
+    color: rgb(0, 0, 0);
+}
+.elite-Underthreat2:before {
+    content: "\ea30";
+}
+.elite-unknown-mission:before {
+    content: "\ea31";
+}
+.elite-Very-common:before {
+    content: "\ea32";
+}
+.elite-Very-rare:before {
+    content: "\ea33";
+}
+.elite-ZacharyHudson2:before {
+    content: "\ea34";
+}
+.elite-ZeminaTorval2:before {
+    content: "\ea35";
+}
 .elite-ALavignyDuval:before {
     content: "\e900";
 }

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 set -e
-cd ${0%/*}/..
+cd ${0%/*}/../..
 rm -rf fonts/elite-icons/source
 mkdir -p fonts/elite-icons/source
 find img -type f -name \*.svg -exec cp -p {} fonts/elite-icons/source \;

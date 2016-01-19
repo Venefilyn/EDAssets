@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'elite-icons';
-    src:    url('fonts/elite-icons.eot?v51u1u');
-    src:    url('fonts/elite-icons.eot?v51u1u#iefix') format('embedded-opentype'),
-        url('fonts/elite-icons.ttf?v51u1u') format('truetype'),
-        url('fonts/elite-icons.woff?v51u1u') format('woff'),
-        url('fonts/elite-icons.svg?v51u1u#elite-icons') format('svg');
+    src:    url('fonts/elite-icons.eot?a1z5rk');
+    src:    url('fonts/elite-icons.eot?a1z5rk#iefix') format('embedded-opentype'),
+        url('fonts/elite-icons.ttf?a1z5rk') format('truetype'),
+        url('fonts/elite-icons.woff?a1z5rk') format('woff'),
+        url('fonts/elite-icons.svg?a1z5rk#elite-icons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,6 +24,33 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.elite-rank-explorer-1:before {
+    content: "\ea24";
+}
+.elite-rank-explorer-2:before {
+    content: "\ea25";
+}
+.elite-rank-explorer-3:before {
+    content: "\ea26";
+}
+.elite-rank-explorer-4:before {
+    content: "\ea27";
+}
+.elite-rank-explorer-5:before {
+    content: "\ea28";
+}
+.elite-rank-explorer-6:before {
+    content: "\ea29";
+}
+.elite-rank-explorer-7:before {
+    content: "\ea2a";
+}
+.elite-rank-explorer-8:before {
+    content: "\ea2b";
+}
+.elite-rank-explorer-9:before {
+    content: "\ea2c";
+}
 .elite-a_lavigny_duval:before {
     content: "\e900";
 }

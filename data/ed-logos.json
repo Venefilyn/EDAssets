@@ -77,6 +77,42 @@
             "link":"img/ed-logos/elite-dangerous-old-logo.png"
           }
         ]
+      },
+      {
+        "name": "Elite Dangerous: Horizons",
+        "preview": "img/preview/elite-dangerous-horizons-main.jpg",
+        "desc": "High-res Elite Dangerous: Horizons logo with black background.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ed-logos/elite-dangerous-horizons-main.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Elite Dangerous: Horizons (text-only)",
+        "preview": "img/preview/elite-dangerous-horizons-text-only.jpg",
+        "desc": "High-res text-only Elite Dangerous: Horizons logo with black background.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ed-logos/elite-dangerous-horizons-text-only.jpg"
+          }
+        ]
       }
     ]
   }

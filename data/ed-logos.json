@@ -3,6 +3,50 @@
     "name":"Elite Dangerous logotypes",
     "types":[
       {
+        "name": "Elite Dangerous minimalistic",
+        "preview": "img/preview/elite-dangerous-minimalistic.png",
+        "desc": "The minimalistic Elite Dangerous logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ed-logos/elite-dangerous-minimalistic.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/ed-logos/elite-dangerous-minimalistic.svg"
+          }
+        ]
+      },
+      {
+        "name": "Elite Dangerous vector",
+        "preview": "img/preview/elite-dangerous-clean.png",
+        "desc": "The Elite Dangerous logo in clean vector form.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/ed-logos/elite-dangerous-clean.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/ed-logos/elite-dangerous-clean.svg"
+          }
+        ]
+      },
+      {
         "name": "Elite Dangerous v3",
         "preview": "img/preview/elite-dangerous-logo_grey.png",
         "desc": "The Elite Dangerous logo.",
@@ -39,29 +83,7 @@
         ]
       },
       {
-        "name": "Elite Dangerous clean",
-        "preview": "img/preview/elite-dangerous-clean.png",
-        "desc": "The Elite Dangerous logo in clean vector form.",
-        "fanmade": true,
-        "designer_info": [
-          {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
-          }
-        ],
-        "formats": [
-          {
-            "format":"PNG",
-            "link":"img/ed-logos/elite-dangerous-clean.png"
-          },
-          {
-            "format":"SVG",
-            "link":"img/ed-logos/elite-dangerous-clean.svg"
-          }
-        ]
-      },
-      {
-        "name": "Elite Dangerous logo v1",
+        "name": "Elite Dangerous v1",
         "preview": "img/preview/elite-dangerous-old-logo.png",
         "desc": "The old Elite Dangerous logo.",
         "fanmade": false,

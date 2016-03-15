@@ -1,7 +1,7 @@
 [
 	{
 		"name":"Surface Recon Vehicle",
-		"types":[
+		"types": [
       {
         "name": "SRV",
         "preview": "img/preview/tn_benandrews_srv.jpg",
@@ -94,4 +94,4 @@
       }
 		]
 	}
-}
+]

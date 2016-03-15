@@ -361,5 +361,11 @@
               "link":"img/settlements/svgs.zip"
             }
         ]
+    },
+    {
+        "name":"Concept Art",
+        "desc":"Elite Dangerous concept art",
+        "preview":"img/preview/tn_benandrews_settlement_modules_1.jpg",
+        "file":"concept-art.json"
     }
 ]

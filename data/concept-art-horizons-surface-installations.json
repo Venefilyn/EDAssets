@@ -1,6 +1,10 @@
 [
 	{
 		"name":"Surface Installations",
+		"issubcat":{
+      "name":"Horizons",
+      "file":"concept-art-horizons.json"
+    },
 		"types":[
       {
         "name": "Base",
@@ -34,7 +38,7 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_base_entrance.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_base_entrance.jpg"
           }
         ]
       },
@@ -52,7 +56,7 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_base_sketch.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_base_sketch.jpg"
           }
         ]
       },
@@ -70,7 +74,7 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_base_sketch_2.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_base_sketch_2.jpg"
           }
         ]
       },
@@ -88,7 +92,7 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_base_sketch_3.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_base_sketch_3.jpg"
           }
         ]
       },
@@ -106,7 +110,7 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_base_sketch_wip.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_base_sketch_wip.jpg"
           }
         ]
       },
@@ -124,7 +128,7 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_lamposts.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_lamposts.jpg"
           }
         ]
       },
@@ -142,7 +146,7 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_settlement.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_settlement.jpg"
           }
         ]
       },
@@ -160,7 +164,7 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_settlement_modules_1.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_settlement_modules_1.jpg"
           }
         ]
       },
@@ -178,13 +182,13 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_settlement_modules_2.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_settlement_modules_2.jpg"
           }
         ]
       },
 			{
         "name": "Starport",
-        "preview": "img/preview/tn_benandrews_settlement_starport.jpg",
+        "preview": "img/preview/tn_benandrews_starport.jpg",
         "desc": "Concept art featuring a large starport type surface installation",
         "fanmade": false,
         "designer_info": [
@@ -196,13 +200,13 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_starport.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_starport.jpg"
           }
         ]
       },
 			{
         "name": "Tanks",
-        "preview": "img/preview/tn_benandrews_settlement_tanks.jpg",
+        "preview": "img/preview/tn_benandrews_tanks.jpg",
         "desc": "Concept art featuring multiple types of storage tanks featured on surface installations",
         "fanmade": false,
         "designer_info": [
@@ -214,13 +218,13 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_tanks.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_tanks.jpg"
           }
         ]
       },
 			{
         "name": "Tower",
-        "preview": "img/preview/tn_benandrews_settlement_tower.jpg",
+        "preview": "img/preview/tn_benandrews_tower.jpg",
         "desc": "Concept art featuring an installation with a tower in it. A transport ship and an SRV are moving nearby",
         "fanmade": false,
         "designer_info": [
@@ -232,13 +236,13 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_tower.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_tower.jpg"
           }
         ]
       },
 			{
         "name": "Wall",
-        "preview": "img/preview/tn_benandrews_settlement_wall.jpg",
+        "preview": "img/preview/tn_benandrews_wall.jpg",
         "desc": "Concept art featuring an installation wall.",
         "fanmade": false,
         "designer_info": [
@@ -250,7 +254,7 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/surface-installation/benandrews_wall.jpg"
+            "link":"img/concept-art/horizons/surface-installations/benandrews_wall.jpg"
           }
         ]
       }

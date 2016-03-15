@@ -1,6 +1,10 @@
 [
 	{
 		"name":"Surface Recon Vehicle",
+		"issubcat":{
+			"name":"Horizons",
+      "file":"concept-art-horizons.json"
+		},
 		"types": [
       {
         "name": "SRV",

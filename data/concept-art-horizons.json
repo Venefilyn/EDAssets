@@ -1,6 +1,10 @@
 [
 	{
 		"name":"Horizons",
+		"issubcat":{
+			"name":"Concept Art",
+      "file":"concept-art.json"
+		},
 		"subcats":[
 			{
 				"name":"Surface Recon Vehicle",

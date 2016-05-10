@@ -123,6 +123,7 @@ p{
         transition: all 75ms ease 0s;
         width: 300px;
         height: 430px;
+        box-shadow:0 0 2px 0 rgba(0,0,0,0.2);
         &:hover{
             transition:all 75ms;
             box-shadow: 0 2px 30px rgba(0,0,0,0.2);
@@ -132,6 +133,25 @@ p{
         }
         img{
             max-height: 170px;
+        }
+        .subcat{
+            margin: 0;
+            padding: 25px;
+            border: 1px solid #BBB;
+            background-color: white;
+            width: 300px;
+            height: 430px;
+            position: absolute;
+            z-index:-1;
+            box-shadow:0 0 2px 0 rgba(0,0,0,0.2);
+            &:nth-of-type(1){
+                left:8px;
+                top:8px;
+            }
+            &:nth-of-type(2){
+                left:4px;
+                top:4px;
+            }
         }
     }
 }

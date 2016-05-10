@@ -3,6 +3,7 @@
     <h2 class="center-text" ng-if="!issubcat">{{ category }}</h2>
 </div>
 <div class="types" ng-repeat="subcat in subcats | orderBy:'name'" >
+    <div class="subcat"></div>
     <list-types item="subcat"></list-types>
 </div>
 <div class="types" ng-repeat="typeAsset in typeAssets | orderBy:'name'" >

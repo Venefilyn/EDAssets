@@ -123,6 +123,7 @@ p{
         transition: all 75ms ease 0s;
         width: 300px;
         height: 430px;
+        position: relative;
         box-shadow:0 0 2px 0 rgba(0,0,0,0.2);
         &:hover{
             transition:all 75ms;

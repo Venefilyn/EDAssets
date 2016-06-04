@@ -13,7 +13,10 @@
 					</video>
 				</a>
 			</span>
-			<span ng-if="!item.webm">
+			<span ng-if="item.colour">
+				<div class="colour-img" style="background-color:{{item.colour}};"></div>
+			</span>
+			<span ng-if="!item.webm && !item.colour">
 				<a ui-sref="type({file:item.file})">
 					<span ng-if="item.svg" ng-include="{{ item.preview }}"></span>
 					<span ng-if="!item.svg">

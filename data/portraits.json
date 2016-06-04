@@ -1,6 +1,14 @@
 [
   {
     "name":"Character portraits",
+    "subcats":[
+      {
+        "name":"Colours of Powers",
+        "desc":"The specific colour of each power",
+        "colour":"#0099ff",
+        "file":"colours-powerplay.json"
+      }
+    ],
     "types":[
       {
         "name": "Aisling Duval",

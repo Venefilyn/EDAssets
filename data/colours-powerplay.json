@@ -1,0 +1,71 @@
+[
+  {
+    "name":"Powerplay colours",
+    "issubcat":{
+      "name":"Colours",
+      "file":"colours.json"
+    },
+    "types":[
+      {
+        "name": "Aisling Duval",
+        "colour": "#0099ff",
+        "desc": "#0099ff",
+        "fanmade": false
+      },
+      {
+        "name": "Archon Delaine",
+        "colour": "#7fff00",
+        "desc": "#7fff00",
+        "fanmade": false
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "colour": "#7f00ff",
+        "desc": "#7f00ff",
+        "fanmade": false
+      },
+      {
+        "name": "Denton Patreus",
+        "colour": "#00ffff",
+        "desc": "#00ffff",
+        "fanmade": false
+      },
+      {
+        "name": "Edmund Mahon",
+        "colour": "#00ff00",
+        "desc": "#00ff00",
+        "fanmade": false
+      },
+      {
+        "name": "Felicia Winters",
+        "colour": "#ff7f00",
+        "desc": "#ff7f00",
+        "fanmade": false
+      },
+      {
+        "name": "Li Yong-Rui",
+        "colour": "#bfff00",
+        "desc": "#bfff00",
+        "fanmade": false
+      },
+      {
+        "name": "Pranav Antal",
+        "colour": "#ffff00",
+        "desc": "#ffff00",
+        "fanmade": false
+      },
+      {
+        "name": "Zachary Hudson",
+        "colour": "#ff0000",
+        "desc": "#ff0000",
+        "fanmade": false
+      },
+      {
+        "name": "Zemina Torval",
+        "colour": "#0040ff",
+        "desc": "#0040ff",
+        "fanmade": false
+      }
+    ]
+  }
+]

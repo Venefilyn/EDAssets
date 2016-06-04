@@ -9,7 +9,10 @@
 					<source ng-src="{{ item.preview }}" type="video/webm">
 				</video>
 			</span>
-			<span ng-if="!item.webm">
+			<span ng-if="item.colour">
+				<div class="colour-img" style="background-color:{{item.colour}};"></div>
+			</span>
+			<span ng-if="!item.webm && !item.colour">
 				<span ng-if="item.svg" ng-include src="item.preview"></span>
 				<span ng-if="!item.svg">
 					<img ng-src="{{ item.preview }}" alt="{{ item.name }} preview">

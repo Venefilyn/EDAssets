@@ -367,5 +367,25 @@
         "desc":"Elite Dangerous concept art",
         "preview":"img/preview/tn_benandrews_settlement_modules_1.jpg",
         "file":"concept-art.json"
+    },
+    {
+        "name":"Wings",
+        "desc":"Wingman icons.",
+        "preview":"img/preview/wings-icon-04.png",
+        "file":"wings.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/wings/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/wings/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/wings/svgs.zip"
+            }
+        ]
     }
 ]

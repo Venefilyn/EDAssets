@@ -41,6 +41,28 @@
             "link":"img/misc/Onionhead.png"
           }
         ]
+      },
+      {
+        "name": "HUD element",
+        "preview": "img/preview/hud.png",
+        "desc": "The hud visible on each side of the cockpit projection (i.e. where weapons are shown).",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR hotdoy",
+            "url":"https://www.facebook.com/hotdoy/"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/misc/hud.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/misc/hud.svg"
+          }
+        ]
       }
     ]
   }

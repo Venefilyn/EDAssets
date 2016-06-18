@@ -1,0 +1,73 @@
+[
+  {
+    "name":"Outfitting",
+    "types":[
+      {
+        "name": "Weapon type: Fixed",
+        "preview": "img/preview/ed-fixed.png",
+        "desc": "Icon for fixed weapons.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Anthony Hunt",
+            "url":"https://twitter.com/achunt"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/outfitting/ed-fixed.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/outfitting/ed-fixed.svg"
+          }
+        ]
+      },
+      {
+        "name": "Weapon type: Gimballed",
+        "preview": "img/preview/ed-gimballed.png",
+        "desc": "Icon for gimballed weapons.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Anthony Hunt",
+            "url":"https://twitter.com/achunt"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/outfitting/ed-gimballed.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/outfitting/ed-gimballed.svg"
+          }
+        ]
+      },
+      {
+        "name": "Weapon type: Turret",
+        "preview": "img/preview/ed-turret.png",
+        "desc": "Icon for turreted weapons.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Anthony Hunt",
+            "url":"https://twitter.com/achunt"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/outfitting/ed-turret.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/outfitting/ed-turret.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

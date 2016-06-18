@@ -407,5 +407,25 @@
               "link":"img/engineer-effects/svgs.zip"
             }
         ]
+    },
+    {
+        "name":"Outfitting",
+        "desc":"Icons that appear in outfitting screen.",
+        "preview":"img/preview/ed-turret.png",
+        "file":"outfitting.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/outfitting/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/outfitting/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/outfitting/svgs.zip"
+            }
+        ]
     }
 ]

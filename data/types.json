@@ -186,6 +186,10 @@
             {
               "format":"PNGs",
               "link":"img/ed-logos/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/ed-logos/svgs.zip"
             }
         ]
     },

@@ -4,221 +4,199 @@
     "types":[
       {
         "name": "Aisling Duval",
-        "preview": "img/preview/Aisling-Duval.png",
-        "desc": "Arissa Duval icon.",
-        "fanmade": true,
+        "preview": "img/preview/aisling-duval.png",
+        "desc": "Aisling Duval icon.",
+        "fanmade": false,
         "designer_info": [
           {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
           }
         ],
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/Aisling-Duval.png"
+            "link":"img/powers/aisling-duval.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/Aisling Duval.svg"
+            "link":"img/powers/aisling-duval.svg"
           }
         ]
       },
       {
-        "name": "Arissa Lavigny-Duval",
-        "preview": "img/preview/A-Lavigny-Duval.png",
-        "desc": "Arissa Lavigny-Duval icon.",
-        "fanmade": true,
+        "name": "Arissa Lavigny Duval",
+        "preview": "img/preview/arissa-lavigny-duval.png",
+        "desc": "Arissa Lavigny Duval icon.",
+        "fanmade": false,
         "designer_info": [
           {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
           }
         ],
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/A-Lavigny-Duval.png"
+            "link":"img/powers/arissa-lavigny-duval.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/A Lavigny Duval.svg"
-          }
-        ]
-      },
-      {
-        "name": "Archon Delaine",
-        "preview": "img/preview/Archon-Delaine.png",
-        "desc": "Archon Delaine icon.",
-        "fanmade": true,
-        "designer_info": [
-          {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
-          }
-        ],
-        "formats": [
-          {
-            "format":"PNG",
-            "link":"img/powers/Archon-Delaine.png"
-          },
-          {
-            "format":"SVG",
-            "link":"img/powers/Archon-Delaine.svg"
+            "link":"img/powers/arissa-lavigny-duval.svg"
           }
         ]
       },
       {
         "name": "Denton Patreus",
-        "preview": "img/preview/Denton-Patreus.png",
+        "preview": "img/preview/denton-patreus.png",
         "desc": "Denton Patreus icon.",
-        "fanmade": true,
+        "fanmade": false,
         "designer_info": [
           {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
           }
         ],
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/Denton-Patreus.png"
+            "link":"img/powers/denton-patreus.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/Denton Patreus.svg"
+            "link":"img/powers/denton-patreus.svg"
           }
         ]
       },
       {
         "name": "Edmund Mahon",
-        "preview": "img/preview/Edmund-Mahon.png",
+        "preview": "img/preview/edmund-mahon.png",
         "desc": "Edmund Mahon icon.",
-        "fanmade": true,
+        "fanmade": false,
         "designer_info": [
           {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
           }
         ],
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/Edmund-Mahon.png"
+            "link":"img/powers/edmund-mahon.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/Edmund Mahon.svg"
+            "link":"img/powers/edmund-mahon.svg"
           }
         ]
       },
       {
         "name": "Felicia Winters",
-        "preview": "img/preview/Felicia-Winters.png",
+        "preview": "img/preview/felicia-winters.png",
         "desc": "Felicia Winters icon.",
-        "fanmade": true,
+        "fanmade": false,
         "designer_info": [
           {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
           }
         ],
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/Felicia-Winters.png"
+            "link":"img/powers/felicia-winters.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/Felicia Winters.svg"
+            "link":"img/powers/felicia-winters.svg"
           }
         ]
       },
       {
         "name": "Li Yong-Rui",
-        "preview": "img/preview/Li-Yong-Rui.png",
+        "preview": "img/preview/li-yong-rui.png",
         "desc": "Li Yong-Rui icon.",
-        "fanmade": true,
+        "fanmade": false,
         "designer_info": [
           {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
           }
         ],
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/Li-Yong-Rui.png"
+            "link":"img/powers/li-yong-rui.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/Li Yong Rui.svg"
+            "link":"img/powers/li-yong-rui.svg"
           }
         ]
       },
       {
-        "name": "Simguru Pranav Antal",
-        "preview": "img/preview/Pranav-Antal.png",
-        "desc": "Simguru Pranav Antal icon.",
-        "fanmade": true,
+        "name": "Pranav Antal",
+        "preview": "img/preview/pranav-antal.png",
+        "desc": "Pranav Antal icon.",
+        "fanmade": false,
         "designer_info": [
           {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
           }
         ],
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/Pranav-Antal.png"
+            "link":"img/powers/pranav-antal.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/Pranav Antal.svg"
+            "link":"img/powers/pranav-antal.svg"
           }
         ]
       },
       {
         "name": "Zachary Hudson",
-        "preview": "img/preview/Zachary-Hudson.png",
+        "preview": "img/preview/zachary-hudson.png",
         "desc": "Zachary Hudson icon.",
-        "fanmade": true,
+        "fanmade": false,
         "designer_info": [
           {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
           }
         ],
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/Zachary-Hudson.png"
+            "link":"img/powers/zachary-hudson.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/Zachary Hudson.svg"
+            "link":"img/powers/zachary-hudson.svg"
           }
         ]
       },
       {
         "name": "Zemina Torval",
-        "preview": "img/preview/Zemina-Torval.png",
+        "preview": "img/preview/zemina-torval.png",
         "desc": "Zemina Torval icon.",
-        "fanmade": true,
+        "fanmade": false,
         "designer_info": [
           {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
           }
         ],
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/Zemina-Torval.png"
+            "link":"img/powers/zemina-torval.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/Zemina Torval.svg"
+            "link":"img/powers/zemina-torval.svg"
           }
         ]
       }

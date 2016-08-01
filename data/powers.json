@@ -25,6 +25,28 @@
         ]
       },
       {
+        "name": "Archon Delaine",
+        "preview": "img/preview/archon-delaine.png",
+        "desc": "Archon Delaine icon.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/archon-delaine.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/archon-delaine.svg"
+          }
+        ]
+      },
+      {
         "name": "Arissa Lavigny Duval",
         "preview": "img/preview/arissa-lavigny-duval.png",
         "desc": "Arissa Lavigny Duval icon.",

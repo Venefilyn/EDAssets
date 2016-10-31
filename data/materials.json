@@ -26,7 +26,7 @@
       },
       {
         "name": "Materials - 1:Very common",
-        "preview": "img/preview/Very-common.png",
+        "preview": "img/preview/grade-1.png",
         "desc": "Very common grade icon listed for each material.",
         "fanmade": true,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/Very-common.png"
+            "link":"img/materials/grade-1.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/Very-common.svg"
+            "link":"img/materials/grade-1.svg"
           }
         ]
       },
       {
         "name": "Materials - 2:Common",
-        "preview": "img/preview/Common.png",
+        "preview": "img/preview/grade-2.png",
         "desc": "Common grade icon listed for each material.",
         "fanmade": true,
         "designer_info": [
@@ -60,17 +60,39 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/Common.png"
+            "link":"img/materials/grade-2.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/Common.svg"
+            "link":"img/materials/grade-2.svg"
           }
         ]
       },
       {
-        "name": "Materials - 3:Rare",
-        "preview": "img/preview/Rare.png",
+        "name": "Materials - 3:Standard",
+        "preview": "img/preview/grade-3.png",
+        "desc": "Standard grade icon listed for each material.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/materials/grade-3.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/materials/grade-3.svg"
+          }
+        ]
+      },
+      {
+        "name": "Materials - 4:Rare",
+        "preview": "img/preview/grade-4.png",
         "desc": "Rare grade icon listed for each material.",
         "fanmade": true,
         "designer_info": [
@@ -82,33 +104,33 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/Rare.png"
+            "link":"img/materials/grade-4.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/Rare.svg"
+            "link":"img/materials/grade-4.svg"
           }
         ]
       },
       {
-        "name": "Materials - 3:Very rare",
-        "preview": "img/preview/Very-rare.png",
+        "name": "Materials - 5:Very rare",
+        "preview": "img/preview/grade-5.png",
         "desc": "Very rare grade icon listed for each material.",
         "fanmade": true,
         "designer_info": [
           {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "name":"CMDR Artie",
+            "url":"http://inara.cz"
           }
         ],
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/Very-rare.png"
+            "link":"img/materials/grade-5.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/Very-rare.svg"
+            "link":"img/materials/grade-5.svg"
           }
         ]
       },

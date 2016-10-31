@@ -309,7 +309,7 @@
     {
         "name":"Materials",
         "desc":"Craft and loot materials.",
-        "preview":"img/preview/Very-rare.png",
+        "preview":"img/preview/grade-5.png",
         "file":"materials.json",
         "zipurl": [
             {

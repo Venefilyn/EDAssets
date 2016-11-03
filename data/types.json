@@ -431,5 +431,25 @@
               "link":"img/outfitting/svgs.zip"
             }
         ]
+    },
+    {
+        "name":"NPC Commands",
+        "desc":"As shown in NPC screen between legs.",
+        "preview":"img/preview/recall_fighter.png",
+        "file":"npc-commands.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/npc-commands/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/npc-commands/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/npc-commands/svgs.zip"
+            }
+        ]
     }
 ]

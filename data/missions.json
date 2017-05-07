@@ -377,9 +377,9 @@
         ]
       },
       {
-        "name": "Illegal activity timed",
+        "name": "Planetary data mission",
         "preview": "img/preview/planetary-data-unknown-mission.png",
-        "desc": "Kill clean targets within a short time period.",
+        "desc": "Retrieve information from a planetary data link.",
         "fanmade": true,
         "designer_info": [
           {

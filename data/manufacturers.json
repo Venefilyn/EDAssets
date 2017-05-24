@@ -4,9 +4,15 @@
     "types":[
       {
         "name": "Core Dynamics",
-        "preview": "img/preview/coredynamics.png",
+        "preview": "img/preview/Core_Dynamics_logo.png",
         "desc": "The Core Dynamics logo.",
-        "fanmade": false,
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Nuse",
+            "url":"https://www.reddit.com/user/XCNuse"
+          }
+        ],
         "odesigner_info": [
           {
             "name":"Xavier Henry"
@@ -15,7 +21,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/manufacturers/coredynamics.png"
+            "link":"img/manufacturers/Core_Dynamics_logo.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/manufacturers/Core_Dynamics_logo.svg"
           }
         ]
       },
@@ -54,9 +64,9 @@
         ]
       },
       {
-        "name": "Lakon Spaceways",
+        "name": "Lakon",
         "preview": "img/preview/lakon.png",
-        "desc": "The Lakon Spaceways logo.",
+        "desc": "The Lakon logo.",
         "fanmade": false,
         "odesigner_info": [
           {
@@ -71,10 +81,16 @@
         ]
       },
       {
-        "name": "Lakon Spaceways Old",
-        "preview": "img/preview/Lakon Spaceways Logo.png",
-        "desc": "The old Lakon Spaceways logo.",
-        "fanmade": false,
+        "name": "Lakon Spaceways",
+        "preview": "img/preview/Lakon_Spaceways_logo.png",
+        "desc": "The Lakon Spaceways logo",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Nuse",
+            "url":"https://www.reddit.com/user/XCNuse"
+          }
+        ],
         "odesigner_info": [
           {
             "name":"Xavier Henry"
@@ -83,7 +99,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/manufacturers/Lakon Spaceways Logo.png"
+            "link":"img/manufacturers/Lakon_Spaceways_logo.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/manufacturers/Lakon_Spaceways_logo.svg"
           }
         ]
       },
@@ -155,6 +175,33 @@
           {
             "format":"PNG",
             "link":"img/manufacturers/saudkruger.png"
+          }
+        ]
+      },
+      {
+        "name": "Saud Kruger BW",
+        "preview": "img/preview/Saud_Kruger_bw.png",
+        "desc": "The Saud Kruger logo in black and white.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Nuse",
+            "url":"https://www.reddit.com/user/XCNuse"
+          }
+        ],
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/manufacturers/Saud_Kruger_bw.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/manufacturers/Saud_Kruger_bw.svg"
           }
         ]
       },

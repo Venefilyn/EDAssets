@@ -216,7 +216,7 @@
     {
         "name":"Colours",
         "desc":"In-game colours.",
-        "preview":"img/preview/green.png",
+        "colour": "#00b3f7",
         "file":"colours.json"
     },
     {
@@ -449,6 +449,26 @@
             {
               "format":"SVGs",
               "link":"img/npc-commands/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Fighters",
+        "desc":"Top down views of fighters.",
+        "preview":"img/preview/Taipan_fighter_topdown.png",
+        "file":"fighters.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/fighters/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/fighters/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/fighters/svgs.zip"
             }
         ]
     }

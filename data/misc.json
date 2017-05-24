@@ -3,6 +3,28 @@
     "name":"Misc. icons",
     "types":[
       {
+        "name": "Barnacles",
+        "preview": "img/preview/barnacles_logo.png",
+        "desc": "The alien barnacles logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Nuse",
+            "url":"https://www.reddit.com/user/XCNuse"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/misc/barnacles_logo.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/misc/barnacles_logo.svg"
+          }
+        ]
+      },
+      {
         "name": "Combat Bonds",
         "preview": "img/preview/Combat-Bonds.png",
         "desc": "The (combat) bonds icon.",

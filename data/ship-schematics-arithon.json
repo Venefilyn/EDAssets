@@ -1,0 +1,767 @@
+[
+    {
+        "name": "arithon's vectorized version",
+        "issubcat": {
+            "name": "Ship schematics",
+            "file": "ship-schematics.json"
+        },
+        "types": [
+            {
+                "name": "Adder",
+                "preview": "img/preview/adder-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/adder.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/adder.png"
+                    }
+                ]
+            },
+            {
+                "name": "Anaconda",
+                "preview": "img/preview/anaconda-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/anaconda.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/anaconda.png"
+                    }
+                ]
+            },
+            {
+                "name": "Asp Explorer",
+                "preview": "img/preview/asp-explorer-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/asp-explorer.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/asp-explorer.png"
+                    }
+                ]
+            },
+            {
+                "name": "Asp Scout",
+                "preview": "img/preview/asp-scout-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/asp-scout.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/asp-scout.png"
+                    }
+                ]
+            },
+            {
+                "name": "Beluga Liner",
+                "preview": "img/preview/beluga-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/beluga.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/beluga.png"
+                    }
+                ]
+            },
+            {
+                "name": "Cobra Mk III",
+                "preview": "img/preview/cobra-mk-3-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/cobra-mk-3.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/cobra-mk-3.png"
+                    }
+                ]
+            },
+            {
+                "name": "Cobra Mk IV",
+                "preview": "img/preview/cobra-mk-4-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/cobra-mk-4.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/cobra-mk-4.png"
+                    }
+                ]
+            },
+            {
+                "name": "Diamondback Explorer",
+                "preview": "img/preview/diamondback-explorer-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/diamondback-explorer.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/diamondback-explorer.png"
+                    }
+                ]
+            },
+            {
+                "name": "Diamondback Scout",
+                "preview": "img/preview/diamondback-scout-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/diamondback-scout.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/diamondback-scout.png"
+                    }
+                ]
+            },
+            {
+                "name": "Dolphin",
+                "preview": "img/preview/dolphin-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/dolphin.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/dolphin.png"
+                    }
+                ]
+            },
+            {
+                "name": "Eagle Mk II",
+                "preview": "img/preview/eagle-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/eagle.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/eagle.png"
+                    }
+                ]
+            },
+            {
+                "name": "F63 Condor",
+                "preview": "img/preview/f63-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/f63.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/f63.png"
+                    }
+                ]
+            },
+            {
+                "name": "Farragut Battle Cruiser",
+                "preview": "img/preview/farragut-battle-cruiser-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/farragut-battle-cruiser.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/farragut-battle-cruiser.png"
+                    }
+                ]
+            },
+            {
+                "name": "Federal Assault Ship",
+                "preview": "img/preview/federal-assault-ship-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/federal-assault-ship.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/federal-assault-ship.png"
+                    }
+                ]
+            },
+            {
+                "name": "Federal Corvette",
+                "preview": "img/preview/federal-corvette-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/federal-corvette.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/federal-corvette.png"
+                    }
+                ]
+            },
+            {
+                "name": "Federal Dropship",
+                "preview": "img/preview/federal-dropship-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/federal-dropship.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/federal-dropship.png"
+                    }
+                ]
+            },
+            {
+                "name": "Federal Gunship",
+                "preview": "img/preview/federal-gunship-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/federal-gunship.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/federal-gunship.png"
+                    }
+                ]
+            },
+            {
+                "name": "Fer de Lance",
+                "preview": "img/preview/fer-de-lance-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/fer-de-lance.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/fer-de-lance.png"
+                    }
+                ]
+            },
+            {
+                "name": "GU-97 Imperial Fighter",
+                "preview": "img/preview/gu97-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/gu97.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/gu97.png"
+                    }
+                ]
+            },
+            {
+                "name": "Hauler",
+                "preview": "img/preview/hauler-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/hauler.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/hauler.png"
+                    }
+                ]
+            },
+            {
+                "name": "Imperial Clipper",
+                "preview": "img/preview/imperial-clipper-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/imperial-clipper.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/imperial-clipper.png"
+                    }
+                ]
+            },
+            {
+                "name": "Imperial Courier",
+                "preview": "img/preview/imperial-courier-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/imperial-courier.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/imperial-courier.png"
+                    }
+                ]
+            },
+            {
+                "name": "Imperial Cutter",
+                "preview": "img/preview/imperial-cutter-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/imperial-cutter.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/imperial-cutter.png"
+                    }
+                ]
+            },
+            {
+                "name": "Imperial Eagle",
+                "preview": "img/preview/imperial-eagle-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/imperial-eagle.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/imperial-eagle.png"
+                    }
+                ]
+            },
+            {
+                "name": "Keelback",
+                "preview": "img/preview/keelback-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/keelback.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/keelback.png"
+                    }
+                ]
+            },
+            {
+                "name": "Majestic Class Interdictor",
+                "preview": "img/preview/majestic-interdictor-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/majestic-interdictor.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/majestic-interdictor.png"
+                    }
+                ]
+            },
+            {
+                "name": "Orca",
+                "preview": "img/preview/orca-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/orca.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/orca.png"
+                    }
+                ]
+            },
+            {
+                "name": "Python",
+                "preview": "img/preview/python-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/python.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/python.png"
+                    }
+                ]
+            },
+            {
+                "name": "Scarab SRV",
+                "preview": "img/preview/scarab-srv-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/scarab-srv.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/scarab-srv.png"
+                    }
+                ]
+            },
+            {
+                "name": "Sidewinder Mk I",
+                "preview": "img/preview/sidewinder-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/sidewinder.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/sidewinder.png"
+                    }
+                ]
+            },
+            {
+                "name": "Taipan",
+                "preview": "img/preview/taipan-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/taipan.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/taipan.png"
+                    }
+                ]
+            },
+            {
+                "name": "Type-6 Transporter",
+                "preview": "img/preview/type6-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/type6.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/type6.png"
+                    }
+                ]
+            },
+            {
+                "name": "Type-7 Transporter",
+                "preview": "img/preview/type7-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/type7.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/type7.png"
+                    }
+                ]
+            },
+            {
+                "name": "Viper Mk III",
+                "preview": "img/preview/viper-mk-3-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/viper-mk-3.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/viper-mk-3.png"
+                    }
+                ]
+            },
+            {
+                "name": "Viper Mk IV",
+                "preview": "img/preview/viper-mk-4-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/viper-mk-4.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/viper-mk-4.png"
+                    }
+                ]
+            },
+            {
+                "name": "Vulture",
+                "preview": "img/preview/vulture-arithon.png",
+                "fanmade": true,
+                "designer_info": [
+                    {
+                        "name": "CMDR Arithon",
+                        "url": "http://www.elite-dangerous-blog.co.uk"
+                    }
+                ],
+                "formats": [
+                    {
+                        "format": "PNG",
+                        "link": "img/ship-schematics/arithon/vulture.png"
+                    },
+                    {
+                        "format": "SVG",
+                        "link": "img/ship-schematics/arithon/vulture.png"
+                    }
+                ]
+            }
+        ]
+    }
+]

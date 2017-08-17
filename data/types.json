@@ -169,13 +169,7 @@
         "name":"Ship schematics",
         "desc":"Various ship schematics.",
         "preview":"img/preview/Fer-de-Lance_schematic.png",
-        "file":"ship-schematics.json",
-        "zipurl": [
-            {
-              "format":"IMGs",
-              "link":"img/ship-schematics/imgs.zip"
-            }
-        ]
+        "file":"ship-schematics.json"
     },
     {
         "name":"Elite Dangerous logos",

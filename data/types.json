@@ -390,7 +390,7 @@
         "name":"Engineers",
         "desc":"Engineer related icons, such as thermal attack or grade icon.",
         "preview":"img/preview/thermal-attack.png",
-        "file":"engineer-effects.json"
+        "file":"engineers.json"
     },
     {
         "name":"Outfitting",

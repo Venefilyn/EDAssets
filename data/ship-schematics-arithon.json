@@ -8,7 +8,7 @@
         "types": [
             {
                 "name": "Adder",
-                "preview": "img/preview/adder-arithon.png",
+                "preview": "img/preview/adder-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -29,7 +29,7 @@
             },
             {
                 "name": "Anaconda",
-                "preview": "img/preview/anaconda-arithon.png",
+                "preview": "img/preview/anaconda-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -50,7 +50,7 @@
             },
             {
                 "name": "Asp Explorer",
-                "preview": "img/preview/asp-explorer-arithon.png",
+                "preview": "img/preview/asp-explorer-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -71,7 +71,7 @@
             },
             {
                 "name": "Asp Scout",
-                "preview": "img/preview/asp-scout-arithon.png",
+                "preview": "img/preview/asp-scout-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -92,7 +92,7 @@
             },
             {
                 "name": "Beluga Liner",
-                "preview": "img/preview/beluga-arithon.png",
+                "preview": "img/preview/beluga-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -113,7 +113,7 @@
             },
             {
                 "name": "Cobra Mk III",
-                "preview": "img/preview/cobra-mk-3-arithon.png",
+                "preview": "img/preview/cobra-mk-3-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -134,7 +134,7 @@
             },
             {
                 "name": "Cobra Mk IV",
-                "preview": "img/preview/cobra-mk-4-arithon.png",
+                "preview": "img/preview/cobra-mk-4-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -155,7 +155,7 @@
             },
             {
                 "name": "Diamondback Explorer",
-                "preview": "img/preview/diamondback-explorer-arithon.png",
+                "preview": "img/preview/diamondback-explorer-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -176,7 +176,7 @@
             },
             {
                 "name": "Diamondback Scout",
-                "preview": "img/preview/diamondback-scout-arithon.png",
+                "preview": "img/preview/diamondback-scout-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -197,7 +197,7 @@
             },
             {
                 "name": "Dolphin",
-                "preview": "img/preview/dolphin-arithon.png",
+                "preview": "img/preview/dolphin-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -218,7 +218,7 @@
             },
             {
                 "name": "Eagle Mk II",
-                "preview": "img/preview/eagle-arithon.png",
+                "preview": "img/preview/eagle-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -239,7 +239,7 @@
             },
             {
                 "name": "F63 Condor",
-                "preview": "img/preview/f63-arithon.png",
+                "preview": "img/preview/f63-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -260,7 +260,7 @@
             },
             {
                 "name": "Farragut Battle Cruiser",
-                "preview": "img/preview/farragut-battle-cruiser-arithon.png",
+                "preview": "img/preview/farragut-battle-cruiser-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -281,7 +281,7 @@
             },
             {
                 "name": "Federal Assault Ship",
-                "preview": "img/preview/federal-assault-ship-arithon.png",
+                "preview": "img/preview/federal-assault-ship-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -302,7 +302,7 @@
             },
             {
                 "name": "Federal Corvette",
-                "preview": "img/preview/federal-corvette-arithon.png",
+                "preview": "img/preview/federal-corvette-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -323,7 +323,7 @@
             },
             {
                 "name": "Federal Dropship",
-                "preview": "img/preview/federal-dropship-arithon.png",
+                "preview": "img/preview/federal-dropship-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -344,7 +344,7 @@
             },
             {
                 "name": "Federal Gunship",
-                "preview": "img/preview/federal-gunship-arithon.png",
+                "preview": "img/preview/federal-gunship-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -365,7 +365,7 @@
             },
             {
                 "name": "Fer de Lance",
-                "preview": "img/preview/fer-de-lance-arithon.png",
+                "preview": "img/preview/fer-de-lance-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -386,7 +386,7 @@
             },
             {
                 "name": "GU-97 Imperial Fighter",
-                "preview": "img/preview/gu97-arithon.png",
+                "preview": "img/preview/gu97-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -407,7 +407,7 @@
             },
             {
                 "name": "Hauler",
-                "preview": "img/preview/hauler-arithon.png",
+                "preview": "img/preview/hauler-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -428,7 +428,7 @@
             },
             {
                 "name": "Imperial Clipper",
-                "preview": "img/preview/imperial-clipper-arithon.png",
+                "preview": "img/preview/imperial-clipper-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -449,7 +449,7 @@
             },
             {
                 "name": "Imperial Courier",
-                "preview": "img/preview/imperial-courier-arithon.png",
+                "preview": "img/preview/imperial-courier-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -470,7 +470,7 @@
             },
             {
                 "name": "Imperial Cutter",
-                "preview": "img/preview/imperial-cutter-arithon.png",
+                "preview": "img/preview/imperial-cutter-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -491,7 +491,7 @@
             },
             {
                 "name": "Imperial Eagle",
-                "preview": "img/preview/imperial-eagle-arithon.png",
+                "preview": "img/preview/imperial-eagle-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -512,7 +512,7 @@
             },
             {
                 "name": "Keelback",
-                "preview": "img/preview/keelback-arithon.png",
+                "preview": "img/preview/keelback-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -533,7 +533,7 @@
             },
             {
                 "name": "Majestic Class Interdictor",
-                "preview": "img/preview/majestic-interdictor-arithon.png",
+                "preview": "img/preview/majestic-interdictor-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -554,7 +554,7 @@
             },
             {
                 "name": "Orca",
-                "preview": "img/preview/orca-arithon.png",
+                "preview": "img/preview/orca-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -575,7 +575,7 @@
             },
             {
                 "name": "Python",
-                "preview": "img/preview/python-arithon.png",
+                "preview": "img/preview/python-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -596,7 +596,7 @@
             },
             {
                 "name": "Scarab SRV",
-                "preview": "img/preview/scarab-srv-arithon.png",
+                "preview": "img/preview/scarab-srv-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -617,7 +617,7 @@
             },
             {
                 "name": "Sidewinder Mk I",
-                "preview": "img/preview/sidewinder-arithon.png",
+                "preview": "img/preview/sidewinder-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -638,7 +638,7 @@
             },
             {
                 "name": "Taipan",
-                "preview": "img/preview/taipan-arithon.png",
+                "preview": "img/preview/taipan-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -659,7 +659,7 @@
             },
             {
                 "name": "Type-6 Transporter",
-                "preview": "img/preview/type6-arithon.png",
+                "preview": "img/preview/type6-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -680,7 +680,7 @@
             },
             {
                 "name": "Type-7 Transporter",
-                "preview": "img/preview/type7-arithon.png",
+                "preview": "img/preview/type7-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -701,7 +701,7 @@
             },
             {
                 "name": "Viper Mk III",
-                "preview": "img/preview/viper-mk-3-arithon.png",
+                "preview": "img/preview/viper-mk-3-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -722,7 +722,7 @@
             },
             {
                 "name": "Viper Mk IV",
-                "preview": "img/preview/viper-mk-4-arithon.png",
+                "preview": "img/preview/viper-mk-4-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -743,7 +743,7 @@
             },
             {
                 "name": "Vulture",
-                "preview": "img/preview/vulture-arithon.png",
+                "preview": "img/preview/vulture-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {

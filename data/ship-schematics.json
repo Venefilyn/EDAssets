@@ -5,8 +5,8 @@
             {
                 "name":"Transparent schematics",
                 "desc":"Black outlined vector schematics",
-                "preview":"img/preview/anaconda-arithon.png",
-                "file":"ship-schematics-prefim.json",
+                "preview":"img/preview/anaconda-arithon.jpg",
+                "file":"ship-schematics-arithon.json",
                 "zipurl": [
                     {
                         "format":"All formats",

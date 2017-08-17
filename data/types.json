@@ -393,24 +393,10 @@
         ]
     },
     {
-        "name":"Engineer Effects",
-        "desc":"Ship effects caused by engineer special effects.",
+        "name":"Engineers",
+        "desc":"Engineer related icons, such as thermal attack or grade icon.",
         "preview":"img/preview/thermal-attack.png",
-        "file":"engineer-effects.json",
-        "zipurl": [
-            {
-              "format":"All formats",
-              "link":"img/engineer-effects/all.zip"
-            },
-            {
-              "format":"PNGs",
-              "link":"img/engineer-effects/pngs.zip"
-            },
-            {
-              "format":"SVGs",
-              "link":"img/engineer-effects/svgs.zip"
-            }
-        ]
+        "file":"engineer-effects.json"
     },
     {
         "name":"Outfitting",

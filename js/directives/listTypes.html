@@ -14,7 +14,9 @@
 				</a>
 			</span>
 			<span ng-if="item.colour">
-				<div class="colour-img" style="background-color:{{item.colour}};"></div>
+				<a ui-sref="type({file:item.file})">
+					<div class="colour-img" style="background-color:{{item.colour}};"></div>
+				</a>
 			</span>
 			<span ng-if="!item.webm && !item.colour">
 				<a ui-sref="type({file:item.file})">

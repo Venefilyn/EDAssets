@@ -1,6 +1,10 @@
 [
   {
     "name":"Engineer Effects",
+    "issubcat":{
+      "name":"Engineers",
+      "file":"engineers.json"
+    },
     "types":[
       {
         "name": "Corrosion",

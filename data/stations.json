@@ -177,6 +177,50 @@
             "link":"img/stations/Outpost_sm.svg"
           }
         ]
+      },
+      {
+        "name": "Mega Ship",
+        "preview": "img/preview/Mega-Ship_Icon.png",
+        "desc": "Mega Ship icon as seen in station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/Mat-2596",
+            "url":"https://www.reddit.com/user/Mat-2596"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Mega-Ship_Icon.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Mega-Ship_Icon.svg"
+          }
+        ]
+      },
+      {
+        "name": "Asteroid station",
+        "preview": "img/preview/Asteroid_Station_Icon.png",
+        "desc": "Asteroid station icon as seen in station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/Mat-2596",
+            "url":"https://www.reddit.com/user/Mat-2596"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Asteroid_Station_Icon.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Asteroid_Station_Icon.svg"
+          }
+        ]
       }
     ]
   }

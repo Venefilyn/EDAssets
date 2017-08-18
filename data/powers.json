@@ -221,6 +221,28 @@
             "link":"img/powers/zemina-torval.svg"
           }
         ]
+      },
+      {
+        "name": "Yuri Grom",
+        "preview": "img/preview/yuri-grom.png",
+        "desc": "Emperor's grace icon, used by Yuri Grom power.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/Mat-2596",
+            "url":"https://www.reddit.com/user/Mat-2596"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/powers/yuri-grom.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/powers/yuri-grom.svg"
+          }
+        ]
       }
     ]
   }

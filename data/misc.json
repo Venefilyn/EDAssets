@@ -107,6 +107,28 @@
             "link":"img/misc/retro.svg"
           }
         ]
+      },
+      {
+        "name": "Aegis",
+        "preview": "img/preview/aegis.png",
+        "desc": "Agency to gather intelligence on the Thargoids and co-ordiante future research on them.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/misc/aegis.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/misc/aegis.svg"
+          }
+        ]
       }
     ]
   }

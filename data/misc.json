@@ -129,6 +129,50 @@
             "link":"img/misc/aegis.svg"
           }
         ]
+      },
+	  {
+        "name": "Mycohazard",
+        "preview": "img/preview/mycohazard.png",
+        "desc": "Mycohazard warning sign from INRA base.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR RocketTurtle",
+            "url":"https://www.reddit.com/user/rocketturtle"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/misc/mycohazard.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/misc/mycohazard.svg"
+          }
+        ]
+      },
+	  {
+        "name": "INRA",
+        "preview": "img/preview/INRA.png",
+        "desc": "INRA logo from INRA base.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR RocketTurtle",
+            "url":"https://www.reddit.com/user/rocketturtle"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/misc/INRA.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/misc/INRA.svg"
+          }
+        ]
       }
     ]
   }

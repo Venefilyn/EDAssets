@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="906.46411"
-   height="615.35248"
-   viewBox="0 0 906.46416 615.35248"
+   width="926.46411"
+   height="635.35248"
+   viewBox="0 0 926.46416 635.35248"
    version="1.1"
    id="svg8"
    sodipodi:docname="INRA.svg"
@@ -82,17 +82,17 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1"
-     inkscape:cx="440.1068"
-     inkscape:cy="290.00923"
+     inkscape:cx="399.82108"
+     inkscape:cy="300.0092"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:pagecheckerboard="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
      showborder="false" />
   <defs
      id="defs2" />
@@ -100,7 +100,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Circles"
-     transform="translate(-405.86788,-260.88647)"
+     transform="translate(-395.86788,-250.88647)"
      sodipodi:insensitive="true">
     <circle
        style="fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -122,7 +122,7 @@
      id="layer3"
      inkscape:label="Rings"
      style="display:inline"
-     transform="translate(-405.86788,-260.88647)"
+     transform="translate(-395.86788,-250.88647)"
      sodipodi:insensitive="true">
     <circle
        style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -141,7 +141,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Wings"
-     transform="translate(-405.86788,-260.88647)"
+     transform="translate(-395.86788,-250.88647)"
      sodipodi:insensitive="true">
     <g
        id="g4561"
@@ -173,7 +173,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Star"
-     transform="translate(-405.86788,-260.88647)"
+     transform="translate(-395.86788,-250.88647)"
      sodipodi:insensitive="true">
     <path
        d="m 859.33271,268.82973 0.0716,0.0298 0.3939,0.11908 0.25067,0.29767 27.00023,89.86908 0.14324,0.11906 108.86038,22.56402 0.35805,0.1786 0.1791,0.44652 -0.1791,0.41675 -0.3222,0.14884 -5.6221,1.39908 -47.98455,9.97224 -48.0203,9.82338 -1.89788,0.44652 -1.64723,0.53582 -1.39657,0.65489 -1.25332,0.8335 -1.00267,0.98233 -0.85943,1.16095 -0.68036,1.36932 -0.57296,1.60747 -11.56642,39.41261 -11.81707,39.35306 -0.50133,1.42886 -0.64457,1.42886 -0.85941,1.36932 -0.53716,0.68465 -0.25066,0.17862 -0.32227,0.0595 -0.39391,-0.11907 -0.25066,-0.26791 -1.8979,-5.12007 -11.81708,-39.3233 -11.63803,-39.35307 -0.46552,-1.42886 -0.57294,-1.25025 -0.68038,-1.07164 -0.85942,-0.95257 -1.03848,-0.77396 -1.25333,-0.65489 -1.46818,-0.53582 -1.75465,-0.41675 -48.8081,-9.97223 -48.73649,-10.15083 -4.94169,-1.25025 -0.32228,-0.17861 -0.14324,-0.47629 0.25067,-0.53581 0.32228,-0.14884 108.57385,-22.47471 0.14325,-0.11907 26.96441,-89.86907 0.39391,-0.38699 1.07428,-0.0595"

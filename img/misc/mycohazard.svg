@@ -12,14 +12,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
-   viewBox="0 0 599.99999 650"
-   height="650"
-   width="600"
+   viewBox="0 0 615.9167 662.89874"
+   height="662.89874"
+   width="615.91669"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="mychohazard.svg"
-   inkscape:export-filename="D:\Documents\Dropbox\Elite Dangerous\mychohazard.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   sodipodi:docname="mycohazard.svg"
+   inkscape:export-filename="C:\Users\Duane\Documents\GitHub\EDAssets\img\misc\mychohazard.png"
+   inkscape:export-xdpi="96.014664"
+   inkscape:export-ydpi="96.014664">
   <title
      id="title5614">Mycohazard</title>
   <defs
@@ -65,8 +65,8 @@
      showgrid="false"
      inkscape:current-layer="layer4"
      inkscape:document-units="px"
-     inkscape:cy="389.28988"
-     inkscape:cx="484.86805"
+     inkscape:cy="270.01693"
+     inkscape:cx="-8.2024013"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -79,10 +79,10 @@
      showborder="false"
      inkscape:pagecheckerboard="true"
      units="px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -134,7 +134,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(297.82604,32.864835)"
+     transform="translate(307.82603,34.71398)"
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:13;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -166,7 +166,7 @@
      id="layer4"
      inkscape:label="Stars"
      style="display:inline"
-     transform="translate(297.82604,32.864835)"
+     transform="translate(307.82603,34.71398)"
      sodipodi:insensitive="true">
     <path
        sodipodi:type="star"

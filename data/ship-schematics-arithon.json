@@ -23,7 +23,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/adder.png"
+                        "link": "img/ship-schematics/arithon/adder.svg"
                     }
                 ]
             },
@@ -44,7 +44,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/anaconda.png"
+                        "link": "img/ship-schematics/arithon/anaconda.svg"
                     }
                 ]
             },
@@ -65,7 +65,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/asp-explorer.png"
+                        "link": "img/ship-schematics/arithon/asp-explorer.svg"
                     }
                 ]
             },
@@ -86,7 +86,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/asp-scout.png"
+                        "link": "img/ship-schematics/arithon/asp-scout.svg"
                     }
                 ]
             },
@@ -107,7 +107,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/beluga.png"
+                        "link": "img/ship-schematics/arithon/beluga.svg"
                     }
                 ]
             },
@@ -128,7 +128,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/cobra-mk-3.png"
+                        "link": "img/ship-schematics/arithon/cobra-mk-3.svg"
                     }
                 ]
             },
@@ -149,7 +149,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/cobra-mk-4.png"
+                        "link": "img/ship-schematics/arithon/cobra-mk-4.svg"
                     }
                 ]
             },
@@ -170,7 +170,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/diamondback-explorer.png"
+                        "link": "img/ship-schematics/arithon/diamondback-explorer.svg"
                     }
                 ]
             },
@@ -191,7 +191,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/diamondback-scout.png"
+                        "link": "img/ship-schematics/arithon/diamondback-scout.svg"
                     }
                 ]
             },
@@ -212,7 +212,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/dolphin.png"
+                        "link": "img/ship-schematics/arithon/dolphin.svg"
                     }
                 ]
             },
@@ -233,7 +233,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/eagle.png"
+                        "link": "img/ship-schematics/arithon/eagle.svg"
                     }
                 ]
             },
@@ -254,7 +254,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/f63.png"
+                        "link": "img/ship-schematics/arithon/f63.svg"
                     }
                 ]
             },
@@ -275,7 +275,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/farragut-battle-cruiser.png"
+                        "link": "img/ship-schematics/arithon/farragut-battle-cruiser.svg"
                     }
                 ]
             },
@@ -296,7 +296,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/federal-assault-ship.png"
+                        "link": "img/ship-schematics/arithon/federal-assault-ship.svg"
                     }
                 ]
             },
@@ -317,7 +317,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/federal-corvette.png"
+                        "link": "img/ship-schematics/arithon/federal-corvette.svg"
                     }
                 ]
             },
@@ -338,7 +338,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/federal-dropship.png"
+                        "link": "img/ship-schematics/arithon/federal-dropship.svg"
                     }
                 ]
             },
@@ -359,7 +359,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/federal-gunship.png"
+                        "link": "img/ship-schematics/arithon/federal-gunship.svg"
                     }
                 ]
             },
@@ -380,7 +380,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/fer-de-lance.png"
+                        "link": "img/ship-schematics/arithon/fer-de-lance.svg"
                     }
                 ]
             },
@@ -401,7 +401,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/gu97.png"
+                        "link": "img/ship-schematics/arithon/gu97.svg"
                     }
                 ]
             },
@@ -422,7 +422,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/hauler.png"
+                        "link": "img/ship-schematics/arithon/hauler.svg"
                     }
                 ]
             },
@@ -443,7 +443,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/imperial-clipper.png"
+                        "link": "img/ship-schematics/arithon/imperial-clipper.svg"
                     }
                 ]
             },
@@ -464,7 +464,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/imperial-courier.png"
+                        "link": "img/ship-schematics/arithon/imperial-courier.svg"
                     }
                 ]
             },
@@ -485,7 +485,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/imperial-cutter.png"
+                        "link": "img/ship-schematics/arithon/imperial-cutter.svg"
                     }
                 ]
             },
@@ -506,7 +506,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/imperial-eagle.png"
+                        "link": "img/ship-schematics/arithon/imperial-eagle.svg"
                     }
                 ]
             },
@@ -527,7 +527,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/keelback.png"
+                        "link": "img/ship-schematics/arithon/keelback.svg"
                     }
                 ]
             },
@@ -548,7 +548,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/majestic-interdictor.png"
+                        "link": "img/ship-schematics/arithon/majestic-interdictor.svg"
                     }
                 ]
             },
@@ -569,7 +569,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/orca.png"
+                        "link": "img/ship-schematics/arithon/orca.svg"
                     }
                 ]
             },
@@ -590,7 +590,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/python.png"
+                        "link": "img/ship-schematics/arithon/python.svg"
                     }
                 ]
             },
@@ -611,7 +611,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/scarab-srv.png"
+                        "link": "img/ship-schematics/arithon/scarab-srv.svg"
                     }
                 ]
             },
@@ -632,7 +632,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/sidewinder.png"
+                        "link": "img/ship-schematics/arithon/sidewinder.svg"
                     }
                 ]
             },
@@ -653,7 +653,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/taipan.png"
+                        "link": "img/ship-schematics/arithon/taipan.svg"
                     }
                 ]
             },
@@ -674,7 +674,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/type6.png"
+                        "link": "img/ship-schematics/arithon/type6.svg"
                     }
                 ]
             },
@@ -695,7 +695,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/type7.png"
+                        "link": "img/ship-schematics/arithon/type7.svg"
                     }
                 ]
             },
@@ -716,7 +716,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/viper-mk-3.png"
+                        "link": "img/ship-schematics/arithon/viper-mk-3.svg"
                     }
                 ]
             },
@@ -737,7 +737,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/viper-mk-4.png"
+                        "link": "img/ship-schematics/arithon/viper-mk-4.svg"
                     }
                 ]
             },
@@ -758,7 +758,7 @@
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/vulture.png"
+                        "link": "img/ship-schematics/arithon/vulture.svg"
                     }
                 ]
             }

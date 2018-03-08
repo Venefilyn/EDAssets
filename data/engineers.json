@@ -38,11 +38,11 @@
                 "formats": [
                   {
                     "format":"PNG",
-                    "link":"img/fighters/Engineer_icon.png"
+                    "link":"img/engineers/Engineer_icon.png"
                   },
                   {
                     "format":"SVG",
-                    "link":"img/fighters/Engineer_icon.svg"
+                    "link":"img/engineers/Engineer_icon.svg"
                   }
                 ]
             }

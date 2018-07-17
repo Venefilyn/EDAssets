@@ -1,0 +1,227 @@
+[
+  {
+    "name":"Stations",
+    "types":[
+      {
+        "name": "Coriolis",
+        "preview": "img/preview/Coriolis.png",
+        "desc": "The Coriolis station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Coriolis.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Coriolis.svg"
+          }
+        ]
+      },
+      {
+        "name": "Coriolis",
+        "preview": "img/preview/Coriolis_sm.png",
+        "desc": "The Coriolis station as seen in system map.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Coriolis_sm.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Coriolis_sm.svg"
+          }
+        ]
+      },
+      {
+        "name": "Ocellus",
+        "preview": "img/preview/Ocellus.png",
+        "desc": "The Ocellus station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Ocellus.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Ocellus.svg"
+          }
+        ]
+      },
+      {
+        "name": "Ocellus",
+        "preview": "img/preview/Ocellus_sm.png",
+        "desc": "The Ocellus station as seen in system map.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Ocellus_sm.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Ocellus_sm.svg"
+          }
+        ]
+      },
+      {
+        "name": "Orbis",
+        "preview": "img/preview/Orbis.png",
+        "desc": "The Orbis station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Orbis.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Orbis.svg"
+          }
+        ]
+      },
+      {
+        "name": "Orbis",
+        "preview": "img/preview/Orbis_sm.png",
+        "desc": "The Orbis station as seen in system map.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Orbis_sm.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Orbis_sm.svg"
+          }
+        ]
+      },
+      {
+        "name": "Outpost",
+        "preview": "img/preview/Outpost.png",
+        "desc": "The Outpost station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Outpost.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Outpost.svg"
+          }
+        ]
+      },
+      {
+        "name": "Outpost",
+        "preview": "img/preview/Outpost_sm.png",
+        "desc": "The Outpost station as seen in system map.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Outpost_sm.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Outpost_sm.svg"
+          }
+        ]
+      },
+      {
+        "name": "Mega Ship",
+        "preview": "img/preview/Mega-Ship_Icon.png",
+        "desc": "Mega Ship icon as seen in station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/Mat-2596",
+            "url":"https://www.reddit.com/user/Mat-2596"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Mega-Ship_Icon.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Mega-Ship_Icon.svg"
+          }
+        ]
+      },
+      {
+        "name": "Asteroid station",
+        "preview": "img/preview/Asteroid_Station_Icon.png",
+        "desc": "Asteroid station icon as seen in station.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"/u/Mat-2596",
+            "url":"https://www.reddit.com/user/Mat-2596"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"img/stations/Asteroid_Station_Icon.png"
+          },
+          {
+            "format":"SVG",
+            "link":"img/stations/Asteroid_Station_Icon.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

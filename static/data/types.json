@@ -1,0 +1,455 @@
+[
+    {
+        "name":"Pilots Federation ranks",
+        "desc":"The ranks given out by Pilots Federation",
+        "preview":"img/preview/rank-9.png",
+        "file":"pilots-federation.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/pilots-federation/all.zip"
+            },
+            {
+              "format":"EPS",
+              "link":"img/pilots-federation/eps.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/pilots-federation/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/pilots-federation/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Stations",
+        "desc":"Station icons",
+        "preview":"img/preview/Ocellus.png",
+        "file":"stations.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/stations/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/stations/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/stations/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Powers",
+        "desc":"Power icons",
+        "preview":"img/preview/denton-patreus.png",
+        "file":"powers.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/powers/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/powers/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/powers/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Factions",
+        "desc":"Faction logotypes",
+        "preview":"img/preview/Federation.png",
+        "file":"factions.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/factions/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/factions/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/factions/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Power Ethos",
+        "desc":"The Ethos icons for each Power",
+        "preview":"img/preview/Social.png",
+        "file":"power-ethos.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/power-ethos/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/power-ethos/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/power-ethos/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Power related icons",
+        "desc":"Power related icons, such as Expanding and Fortifying",
+        "preview":"img/preview/Fortifying.png",
+        "file":"power-related.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/power-related/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/power-related/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/power-related/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Misc. icons",
+        "desc":"Miscellaneous icons.",
+        "preview":"img/preview/Onionhead.png",
+        "file":"misc.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/misc/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"img/misc/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"img/misc/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Character portraits",
+        "desc":"Various images containing character portraits.",
+        "preview":"img/preview/Denton-Patreus-portrait.png",
+        "file":"portraits.json",
+        "zipurl": [
+            {
+              "format":"JPG",
+              "link":"img/portraits/jpgs.zip"
+            },
+            {
+              "format":"LQ-PNG",
+              "link":"img/portraits/lqpngs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Fonts",
+        "desc":"Various fonts used in-game and on the official website.",
+        "preview":"img/preview/Eurostile.png",
+        "file":"fonts.json"
+    },
+    {
+        "name":"Ship schematics",
+        "desc":"Various ship schematics.",
+        "preview":"img/preview/Fer-de-Lance_schematic.png",
+        "file":"ship-schematics.json"
+    },
+    {
+        "name":"Elite Dangerous logos",
+        "desc":"The official Elite Dangerous logos.",
+        "preview":"img/preview/elite-dangerous-logo_grey.png",
+        "file":"ed-logos.json",
+        "zipurl": [
+            {
+              "format":"PNGs",
+              "link":"img/ed-logos/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/ed-logos/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Companies",
+        "desc":"In-game companies.",
+        "preview":"img/preview/Universal-Cartographics.png",
+        "file":"companies.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/companies/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/companies/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/companies/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Colours",
+        "desc":"In-game colours.",
+        "colour": "#00b3f7",
+        "file":"colours.json"
+    },
+    {
+        "name":"Galaxy Map",
+        "desc":"Galaxy Map icons.",
+        "preview":"img/preview/Friends-galaxy-map.png",
+        "file":"galaxy-map.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/galaxy-map/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/galaxy-map/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/galaxy-map/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Animated logos",
+        "desc":"Animated logotypes from in-game.",
+        "webm":true,
+        "preview":"img/preview/Federation-animated.webm",
+        "file":"animated.json"
+    },
+    {
+        "name":"Manufacturers",
+        "desc":"Manufacturer icons.",
+        "preview":"img/preview/remlok.png",
+        "file":"manufacturers.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/manufacturers/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/manufacturers/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/manufacturers/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"CQC",
+        "desc":"Close Quarter Combat icons.",
+        "preview":"img/preview/CQC-Championship.png",
+        "file":"cqc.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/cqc/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/cqc/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/cqc/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Decals",
+        "desc":"Ship decals.",
+        "preview":"img/preview/Planet2.png",
+        "file":"decals.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/decals/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/decals/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/decals/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Materials",
+        "desc":"Craft and loot materials.",
+        "preview":"img/preview/grade-5.png",
+        "file":"materials.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/materials/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/materials/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/materials/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Missions",
+        "desc":"Mission icons.",
+        "preview":"img/preview/base-assault.png",
+        "file":"missions.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/missions/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/missions/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/missions/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Settlements",
+        "desc":"Planetary bases icons.",
+        "preview":"img/preview/surface_port_pm.png",
+        "file":"settlements.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/settlements/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/settlements/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/settlements/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Concept Art",
+        "desc":"Elite Dangerous concept art",
+        "preview":"img/preview/tn_benandrews_settlement_modules_1.jpg",
+        "file":"concept-art.json"
+    },
+    {
+        "name":"Wings",
+        "desc":"Wingman icons.",
+        "preview":"img/preview/wings-icon-04.png",
+        "file":"wings.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/wings/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/wings/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/wings/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Engineers",
+        "desc":"Engineer related icons, such as thermal attack or grade icon.",
+        "preview":"img/preview/thermal-attack.png",
+        "file":"engineers.json"
+    },
+    {
+        "name":"Outfitting",
+        "desc":"Icons that appear in outfitting screen.",
+        "preview":"img/preview/ed-turret.png",
+        "file":"outfitting.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/outfitting/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/outfitting/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/outfitting/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"NPC Commands",
+        "desc":"As shown in NPC screen between legs.",
+        "preview":"img/preview/recall_fighter.png",
+        "file":"npc-commands.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/npc-commands/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/npc-commands/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/npc-commands/svgs.zip"
+            }
+        ]
+    },
+    {
+        "name":"Fighters",
+        "desc":"Top down views of fighters.",
+        "preview":"img/preview/Taipan_fighter_topdown.png",
+        "file":"fighters.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"img/fighters/all.zip"
+            },
+            {
+              "format":"PNGs",
+              "link":"img/fighters/pngs.zip"
+            },
+            {
+              "format":"SVGs",
+              "link":"img/fighters/svgs.zip"
+            }
+        ]
+    }
+]

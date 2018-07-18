@@ -1,7 +1,7 @@
 <template>
   <v-app>
-    <ed-navigation-drawer :nav-list="navLists"></ed-navigation-drawer>
-    <ed-toolbar></ed-toolbar>
+    <ed-navigation-drawer :nav-list="navLists" :openState="drawer"></ed-navigation-drawer>
+    <ed-toolbar @toggleDrawer="drawer = !drawer"></ed-toolbar>
     <v-content>
       <v-container fluid>
         <router-view></router-view>
@@ -20,7 +20,7 @@ export default {
   name: 'MainLayout',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      drawer: true
     }
   },
   computed: {

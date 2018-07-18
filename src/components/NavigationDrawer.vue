@@ -1,5 +1,5 @@
 <template>
-  <v-navigation-drawer app fixed clipped>
+  <v-navigation-drawer app fixed clipped v-model="openState">
     <v-list>
       <v-list-tile>
         <v-list-tile-action>
@@ -62,7 +62,8 @@
 export default {
   name: 'NavigationDrawer',
   props: {
-    navList: Array
+    navList: Array,
+    openState: Boolean
   }
 }
 </script>

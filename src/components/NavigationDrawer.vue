@@ -69,6 +69,7 @@ export default {
   methods: {
     routeTo: function (link) {
       this.$router.push(link)
+      this.$store.dispatch('fetchAssetData', this.$route.path.split('/').slice(1))
     }
   }
 }

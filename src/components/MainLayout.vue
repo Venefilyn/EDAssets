@@ -3,7 +3,7 @@
     <ed-navigation-drawer :nav-list="navLists" :openState="drawer"></ed-navigation-drawer>
     <ed-toolbar @toggleDrawer="drawer = !drawer"></ed-toolbar>
     <v-content>
-      <v-container fluid>
+      <v-container fluid grid-list-lg>
         <router-view></router-view>
       </v-container>
     </v-content>
@@ -25,7 +25,6 @@ export default {
   },
   computed: {
     ...mapState({
-      types: state => state.types.types,
       navLists: state => state.types.navLists
     })
   },
@@ -34,11 +33,9 @@ export default {
     'ed-toolbar': Toolbar
   },
   created () {
-    this.$store.dispatch('fetchTypes')
+    this.$store.dispatch('fetchTypes').then(() => {
+      this.$store.dispatch('fetchAssetData', this.$route.path.split('/').slice(1))
+    })
   }
 }
 </script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-</style>

@@ -2,9 +2,9 @@ import axios from 'axios'
 
 const state = {
   types: [],
-  navLists: []
+  navLists: [],
+  currentAssetData: {}
 }
-const getters = {}
 const mutations = {
   setTypes: (state, types) => {
     state.types = types
@@ -16,9 +16,13 @@ const mutations = {
       state.navLists.push({
         name: type.name,
         children: [],
-        link: '/' + type.name.replace(/[^\w]/g, '').toLowerCase()
+        link: '/' + linkElement(type.name)
       })
     })
+  },
+
+  setCurrentAssetData: (state, currentAssetData) => {
+    state.currentAssetData = currentAssetData
   },
 
   addNavList: (state, payload) => {
@@ -26,45 +30,57 @@ const mutations = {
       payload.root[payload.index].children.push({
         name: subcat.name,
         children: [],
-        link: payload.root[payload.index].link + '/' + subcat.name.replace(/[^\w]/g, '').toLowerCase()
+        link: payload.root[payload.index].link + '/' + linkElement(subcat.name)
       })
     })
   }
 }
 const actions = {
-  fetchTypes: ({ commit, state, dispatch }) => {
-    axios.get('/static/data/types.json')
-      .then(response => {
-        commit('setTypes', response.data)
-        commit('setNavLists', state.types)
-        state.types.forEach((type, i) => {
-          dispatch('fetchSubTypes', { file: type.file, index: i, root: state.navLists })
-        })
+  async fetchTypes ({ commit, state, dispatch }) {
+    try {
+      let response = await axios.get('/static/data/types.json')
+      commit('setTypes', response.data)
+      commit('setNavLists', state.types)
+      state.types.forEach((type, i) => {
+        dispatch('fetchSubTypes', { file: type.file, index: i, root: state.navLists })
       })
-      .catch(err => {
-        console.log(err)
-      })
+    } catch (err) {
+      console.log(err)
+    }
   },
 
-  fetchSubTypes: ({ commit, dispatch }, payload) => {
-    axios.get('/static/data/' + payload.file)
-      .then(response => {
-        if (response.data[0].subcats) {
-          commit('addNavList', { index: payload.index, subcats: response.data[0].subcats, root: payload.root })
-          response.data[0].subcats.forEach((subcat, i) => {
-            dispatch('fetchSubTypes', { file: subcat.file, index: i, root: payload.root[payload.index].children })
-          })
-        }
+  async fetchSubTypes ({ commit, dispatch }, payload) {
+    let response = await axios.get('/static/data/' + payload.file)
+    if (response.data[0].subcats) {
+      commit('addNavList', { index: payload.index, subcats: response.data[0].subcats, root: payload.root })
+      response.data[0].subcats.forEach((subcat, i) => {
+        dispatch('fetchSubTypes', { file: subcat.file, index: i, root: payload.root[payload.index].children })
       })
-      .catch(err => {
-        console.log(err)
-      })
+    }
+  },
+
+  async fetchAssetData ({ commit, state, dispatch }, payload) {
+    let typeElementFile = state.types.find(element => {
+      return linkElement(element.name) === payload[0]
+    }).file
+
+    let typeResponse = (await axios.get('/static/data/' + typeElementFile)).data[0]
+    for (let i = 1; i < payload.length; i++) {
+      if (typeResponse.subcats) {
+        typeElementFile = typeResponse.subcats.find(element => {
+          return linkElement(element.name) === payload[i]
+        }).file
+        typeResponse = (await axios.get('/static/data/' + typeElementFile)).data[0]
+      }
+    }
+    commit('setCurrentAssetData', typeResponse)
   }
 }
 
+let linkElement = element => element.replace(/[^\w]/g, '').toLowerCase()
+
 export default {
   state,
-  getters,
   mutations,
   actions
 }

@@ -15,7 +15,8 @@ const mutations = {
     types.forEach(type => {
       state.navLists.push({
         name: type.name,
-        children: []
+        children: [],
+        link: '/' + type.name.replace(/[^\w]/g, '').toLowerCase()
       })
     })
   },
@@ -24,7 +25,8 @@ const mutations = {
     payload.subcats.forEach(subcat => {
       payload.root[payload.index].children.push({
         name: subcat.name,
-        children: []
+        children: [],
+        link: payload.root[payload.index].link + '/' + subcat.name.replace(/[^\w]/g, '').toLowerCase()
       })
     })
   }

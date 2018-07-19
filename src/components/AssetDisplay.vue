@@ -14,7 +14,7 @@
           </video>
         </v-card-media>
         <v-card-media v-else-if="item.svg" height="200px" contain>
-          <object type="image/svg+xml" :data="'/static/' + item.preview"></object>
+          <object type="image/svg+xml" :data="'/static/' + item.preview" class="svgAsset"></object>
         </v-card-media>
         <v-card-media v-else-if="item.preview" :src="'/static/' + item.preview" height="200px" contain></v-card-media>
          <v-card-actions>
@@ -51,3 +51,10 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+  .svgAsset {
+    display: flex;
+    flex: 1 1 auto;
+  }
+</style>

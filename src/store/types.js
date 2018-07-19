@@ -26,10 +26,16 @@ const mutations = {
     state.currentAssetData = currentAssetData
   },
 
-  setCarouselImages: (state, allImages) => {
-    state.carouselImages = allImages.sort(() => {
+  setCarouselImages: (state) => {
+    let imageArray = []
+    for (let i = 0; i < 12; i++) {
+      imageArray.push(i + 1)
+    }
+    state.carouselImages = imageArray.sort(() => {
       return 0.5 - Math.random()
-    }).slice(0, 5)
+    }).slice(0, 5).map(fileNumber => {
+      return '/static/img/carousel/' + fileNumber + '.jpg'
+    })
   },
 
   addNavList: (state, payload) => {
@@ -51,9 +57,7 @@ const actions = {
       })
       commit('setTypes', typeResponse)
       commit('setNavLists', state.types)
-      commit('setCarouselImages', state.types.map(element => {
-        return element.preview
-      }))
+      commit('setCarouselImages')
       state.types.forEach((type, i) => {
         dispatch('fetchSubTypes', { file: type.file, index: i, root: state.navLists })
       })
@@ -72,7 +76,7 @@ const actions = {
     }
   },
 
-  async fetchAssetData ({ commit, state, dispatch }, payload) {
+  async fetchAssetData ({ commit, state }, payload) {
     let typeElementFile = state.types.find(element => {
       return linkElement(element.name) === payload[0]
     }).file

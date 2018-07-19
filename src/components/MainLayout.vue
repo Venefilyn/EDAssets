@@ -3,7 +3,7 @@
     <ed-navigation-drawer :nav-list="navLists" :openState="drawer"></ed-navigation-drawer>
     <ed-toolbar @toggleDrawer="drawer = !drawer"></ed-toolbar>
     <v-content>
-      <v-container fluid grid-list-lg>
+      <v-container fluid grid-list-lg :style="containerStyle" :fill-height="fillHeight">
         <router-view></router-view>
       </v-container>
     </v-content>
@@ -19,13 +19,30 @@ export default {
   name: 'MainLayout',
   data () {
     return {
-      drawer: true
+      drawer: true,
+      fullHeight: false
     }
   },
   computed: {
     ...mapState({
       navLists: state => state.types.navLists
-    })
+    }),
+    containerStyle: function () {
+      if (this.$route.path === '/') {
+        return {
+          padding: '0px'
+        }
+      } else {
+        return undefined
+      }
+    },
+    fillHeight: function () {
+      if (this.$route.path === '/') {
+        return true
+      } else {
+        return false
+      }
+    }
   },
   components: {
     'ed-navigation-drawer': NavigationDrawer,

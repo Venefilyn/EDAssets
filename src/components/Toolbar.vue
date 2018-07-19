@@ -1,7 +1,10 @@
 <template>
   <v-toolbar app light fixed clipped-left>
     <v-toolbar-side-icon @click.stop="toggleDrawer"></v-toolbar-side-icon>
-    <v-toolbar-title>Elite Dangerous assets</v-toolbar-title>
+    <router-link to="/">
+      <img src="/static/img/edassets.png">
+    </router-link>
+    <v-toolbar-title>ELITE DANGEROUS ASSETS</v-toolbar-title>
   </v-toolbar>
 </template>
 

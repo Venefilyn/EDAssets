@@ -3,7 +3,8 @@ import axios from 'axios'
 const state = {
   types: [],
   navLists: [],
-  currentAssetData: {}
+  currentAssetData: {},
+  carouselImages: []
 }
 const mutations = {
   setTypes: (state, types) => {
@@ -25,6 +26,12 @@ const mutations = {
     state.currentAssetData = currentAssetData
   },
 
+  setCarouselImages: (state, allImages) => {
+    state.carouselImages = allImages.sort(() => {
+      return 0.5 - Math.random()
+    }).slice(0, 5)
+  },
+
   addNavList: (state, payload) => {
     payload.subcats.forEach(subcat => {
       payload.root[payload.index].children.push({
@@ -39,8 +46,14 @@ const actions = {
   async fetchTypes ({ commit, state, dispatch }) {
     try {
       let response = await axios.get('/static/data/types.json')
-      commit('setTypes', response.data)
+      let typeResponse = response.data.sort((a, b) => {
+        return a.name > b.name
+      })
+      commit('setTypes', typeResponse)
       commit('setNavLists', state.types)
+      commit('setCarouselImages', state.types.map(element => {
+        return element.preview
+      }))
       state.types.forEach((type, i) => {
         dispatch('fetchSubTypes', { file: type.file, index: i, root: state.navLists })
       })

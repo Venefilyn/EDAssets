@@ -58,7 +58,13 @@ const actions = {
     try {
       let response = await axios.get('/static/data/types.json')
       let typeResponse = response.data.sort((a, b) => {
-        return a.name > b.name
+        if (a.name > b.name) {
+          return 1
+        } else if (a.name < b.name) {
+          return -1
+        } else {
+          return 0
+        }
       })
       commit('setTypes', typeResponse)
       commit('setNavLists', state.types)

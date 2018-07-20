@@ -4,6 +4,7 @@ const state = {
   types: [],
   navLists: [],
   currentAssetData: {},
+  currentSelected: {},
   carouselImages: []
 }
 const mutations = {
@@ -24,6 +25,10 @@ const mutations = {
 
   setCurrentAssetData: (state, currentAssetData) => {
     state.currentAssetData = currentAssetData
+  },
+
+  setCurrentSelected: (state, currentSelected) => {
+    state.currentSelected = currentSelected
   },
 
   setCarouselImages: (state) => {
@@ -77,20 +82,38 @@ const actions = {
   },
 
   async fetchAssetData ({ commit, state }, payload) {
-    let typeElementFile = state.types.find(element => {
+    let typeElement = state.types.find(element => {
       return linkElement(element.name) === payload[0]
-    }).file
+    })
 
-    let typeResponse = (await axios.get('/static/data/' + typeElementFile)).data[0]
-    for (let i = 1; i < payload.length; i++) {
-      if (typeResponse.subcats) {
-        typeElementFile = typeResponse.subcats.find(element => {
-          return linkElement(element.name) === payload[i]
-        }).file
-        typeResponse = (await axios.get('/static/data/' + typeElementFile)).data[0]
+    let typeElementFile = Object.is(typeElement, undefined) ? undefined : typeElement.file
+    let typeElementZipUrl = Object.is(typeElement, undefined) ? undefined : typeElement.zipurl
+    let typeElementName = Object.is(typeElement, undefined) ? undefined : typeElement.name
+    let typeElementDesc = Object.is(typeElement, undefined) ? undefined : typeElement.desc
+    let typeResponse = {}
+    if (!Object.is(typeElementFile, undefined)) {
+      typeResponse = (await axios.get('/static/data/' + typeElementFile)).data[0]
+      for (let i = 1; i < payload.length; i++) {
+        if (typeResponse.subcats) {
+          typeElement = typeResponse.subcats.find(element => {
+            return linkElement(element.name) === payload[i]
+          })
+
+          typeElementFile = Object.is(typeElement, undefined) ? undefined : typeElement.file
+          typeElementZipUrl = Object.is(typeElement, undefined) ? undefined : typeElement.zipurl
+          typeElementName = Object.is(typeElement, undefined) ? undefined : typeElement.name
+          typeElementDesc = Object.is(typeElement, undefined) ? undefined : typeElement.desc
+
+          typeResponse = (await axios.get('/static/data/' + typeElementFile)).data[0]
+        }
       }
     }
     commit('setCurrentAssetData', typeResponse)
+    commit('setCurrentSelected', {
+      zips: typeElementZipUrl,
+      name: typeElementName,
+      desc: typeElementDesc }
+    )
   }
 }
 

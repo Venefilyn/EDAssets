@@ -17,18 +17,15 @@
           <object type="image/svg+xml" :data="'/static/' + item.preview" class="svgAsset"></object>
         </v-card-media>
         <v-card-media v-else-if="item.preview" :src="'/static/' + item.preview" height="200px" contain></v-card-media>
-         <v-card-actions>
-            <v-spacer></v-spacer>
-            <v-btn icon>
-              <v-icon>favorite</v-icon>
-            </v-btn>
-            <v-btn icon>
-              <v-icon>bookmark</v-icon>
-            </v-btn>
-            <v-btn icon>
-              <v-icon>share</v-icon>
-            </v-btn>
-          </v-card-actions>
+        <v-card-text style="word-wrap: break-word">
+          {{item.desc}}
+        </v-card-text>
+        <v-chip v-if="item.fanmade">Fanmade Asset</v-chip>
+        <v-card-actions>
+          <v-btn flat v-for="(downloadItem,i) in item.formats" :key="i" :href="'/static/' + downloadItem.link" target="_blank">
+            {{downloadItem.format}}
+          </v-btn>
+        </v-card-actions>
       </v-card>
     </v-flex>
   </v-layout>

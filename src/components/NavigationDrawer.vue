@@ -1,5 +1,5 @@
 <template>
-  <v-navigation-drawer app fixed clipped v-model="openState">
+  <v-navigation-drawer app v-model="openState">
     <v-list>
       <v-list-tile @click="routeTo('/')">
         <v-list-tile-action>

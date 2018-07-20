@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <ed-navigation-drawer :nav-list="navLists" :openState="drawer"></ed-navigation-drawer>
-    <ed-toolbar @toggleDrawer="drawer = !drawer"></ed-toolbar>
+    <ed-toolbar @toggleDrawer="drawer = !drawer" :subTitle="currentSelected.name" :desc="currentSelected.desc" :zips="currentSelected.zips"></ed-toolbar>
     <v-content>
       <v-container fluid grid-list-lg :style="containerStyle" :fill-height="fillHeight">
         <router-view></router-view>
@@ -25,7 +25,8 @@ export default {
   },
   computed: {
     ...mapState({
-      navLists: state => state.types.navLists
+      navLists: state => state.types.navLists,
+      currentSelected: state => state.types.currentSelected
     }),
     containerStyle: function () {
       if (this.$route.path === '/') {

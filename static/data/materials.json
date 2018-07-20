@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Material",
-        "preview": "img/preview/material.png",
+        "preview":"/static/img/preview/material.png",
         "desc": "Generic icon for material.",
         "fanmade": true,
         "designer_info": [
@@ -16,17 +16,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/material.png"
+            "link":"/static/img/materials/material.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/material.svg"
+            "link":"/static/img/materials/material.svg"
           }
         ]
       },
       {
         "name": "Materials - 1:Very common",
-        "preview": "img/preview/grade-1.png",
+        "preview":"/static/img/preview/grade-1.png",
         "desc": "Very common grade icon listed for each material.",
         "fanmade": true,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/grade-1.png"
+            "link":"/static/img/materials/grade-1.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/grade-1.svg"
+            "link":"/static/img/materials/grade-1.svg"
           }
         ]
       },
       {
         "name": "Materials - 2:Common",
-        "preview": "img/preview/grade-2.png",
+        "preview":"/static/img/preview/grade-2.png",
         "desc": "Common grade icon listed for each material.",
         "fanmade": true,
         "designer_info": [
@@ -60,17 +60,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/grade-2.png"
+            "link":"/static/img/materials/grade-2.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/grade-2.svg"
+            "link":"/static/img/materials/grade-2.svg"
           }
         ]
       },
       {
         "name": "Materials - 3:Standard",
-        "preview": "img/preview/grade-3.png",
+        "preview":"/static/img/preview/grade-3.png",
         "desc": "Standard grade icon listed for each material.",
         "fanmade": true,
         "designer_info": [
@@ -82,17 +82,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/grade-3.png"
+            "link":"/static/img/materials/grade-3.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/grade-3.svg"
+            "link":"/static/img/materials/grade-3.svg"
           }
         ]
       },
       {
         "name": "Materials - 4:Rare",
-        "preview": "img/preview/grade-4.png",
+        "preview":"/static/img/preview/grade-4.png",
         "desc": "Rare grade icon listed for each material.",
         "fanmade": true,
         "designer_info": [
@@ -104,17 +104,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/grade-4.png"
+            "link":"/static/img/materials/grade-4.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/grade-4.svg"
+            "link":"/static/img/materials/grade-4.svg"
           }
         ]
       },
       {
         "name": "Materials - 5:Very rare",
-        "preview": "img/preview/grade-5.png",
+        "preview":"/static/img/preview/grade-5.png",
         "desc": "Very rare grade icon listed for each material.",
         "fanmade": true,
         "designer_info": [
@@ -126,17 +126,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/grade-5.png"
+            "link":"/static/img/materials/grade-5.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/grade-5.svg"
+            "link":"/static/img/materials/grade-5.svg"
           }
         ]
       },
       {
         "name": "New discovery",
-        "preview": "img/preview/NewDiscovery.png",
+        "preview":"/static/img/preview/NewDiscovery.png",
         "desc": "Comes up when discovering a new material for the first time.",
         "fanmade": true,
         "designer_info": [
@@ -148,17 +148,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/NewDiscovery.png"
+            "link":"/static/img/materials/NewDiscovery.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/NewDiscovery.svg"
+            "link":"/static/img/materials/NewDiscovery.svg"
           }
         ]
       },
       {
         "name": "New material",
-        "preview": "img/preview/NewMaterial.png",
+        "preview":"/static/img/preview/NewMaterial.png",
         "desc": "Comes up when discovering any material.",
         "fanmade": true,
         "designer_info": [
@@ -170,17 +170,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/NewMaterial.png"
+            "link":"/static/img/materials/NewMaterial.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/NewMaterial.svg"
+            "link":"/static/img/materials/NewMaterial.svg"
           }
         ]
       },
       {
         "name": "Synthesis - 1:Basic",
-        "preview": "img/preview/Basic.png",
+        "preview":"/static/img/preview/Basic.png",
         "desc": "Basic synthesis icon seen when crafting.",
         "fanmade": true,
         "designer_info": [
@@ -192,17 +192,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/Basic.png"
+            "link":"/static/img/materials/Basic.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/Basic.svg"
+            "link":"/static/img/materials/Basic.svg"
           }
         ]
       },
       {
         "name": "Synthesis - 2:Standard",
-        "preview": "img/preview/Standard.png",
+        "preview":"/static/img/preview/Standard.png",
         "desc": "Standard synthesis icon seen when crafting.",
         "fanmade": true,
         "designer_info": [
@@ -214,17 +214,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/Standard.png"
+            "link":"/static/img/materials/Standard.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/Standard.svg"
+            "link":"/static/img/materials/Standard.svg"
           }
         ]
       },
       {
         "name": "Synthesis - 3:Premium",
-        "preview": "img/preview/Premium.png",
+        "preview":"/static/img/preview/Premium.png",
         "desc": "Premium synthesis icon seen when crafting.",
         "fanmade": true,
         "designer_info": [
@@ -236,11 +236,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/materials/Premium.png"
+            "link":"/static/img/materials/Premium.png"
           },
           {
             "format":"SVG",
-            "link":"img/materials/Premium.svg"
+            "link":"/static/img/materials/Premium.svg"
           }
         ]
       }

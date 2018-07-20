@@ -8,7 +8,7 @@
     "types":[
       {
         "name": "1: Helpless",
-        "preview": "img/preview/rank-1-cqc.png",
+        "preview":"/static/img/preview/rank-1-cqc.png",
         "desc": "The 1st CQC rank handed out by Pilots Federation. This decal is not available in-game",
         "fanmade": true,
         "designer_info": [
@@ -19,17 +19,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/cqc/rank-1-cqc.png"
+            "link":"/static/img/pilots-federation/cqc/rank-1-cqc.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/cqc/rank-1-cqc.svg"
+            "link":"/static/img/pilots-federation/cqc/rank-1-cqc.svg"
           }
         ]
       },
       {
         "name": "2: Mostly Helpless",
-        "preview": "img/preview/rank-2-cqc.png",
+        "preview":"/static/img/preview/rank-2-cqc.png",
         "desc": "The 2nd CQC rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -40,17 +40,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/cqc/rank-2-cqc.png"
+            "link":"/static/img/pilots-federation/cqc/rank-2-cqc.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/cqc/rank-2-cqc.svg"
+            "link":"/static/img/pilots-federation/cqc/rank-2-cqc.svg"
           }
         ]
       },
       {
         "name": "3: Amateur",
-        "preview": "img/preview/rank-3-cqc.png",
+        "preview":"/static/img/preview/rank-3-cqc.png",
         "desc": "The 3rd CQC rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -61,17 +61,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/cqc/rank-3-cqc.png"
+            "link":"/static/img/pilots-federation/cqc/rank-3-cqc.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/cqc/rank-3-cqc.svg"
+            "link":"/static/img/pilots-federation/cqc/rank-3-cqc.svg"
           }
         ]
       },
       {
         "name": "4: Semi Professional",
-        "preview": "img/preview/rank-4-cqc.png",
+        "preview":"/static/img/preview/rank-4-cqc.png",
         "desc": "The 4th CQC rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -82,17 +82,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/cqc/rank-4-cqc.png"
+            "link":"/static/img/pilots-federation/cqc/rank-4-cqc.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/cqc/rank-4-cqc.svg"
+            "link":"/static/img/pilots-federation/cqc/rank-4-cqc.svg"
           }
         ]
       },
       {
         "name": "5: Professional",
-        "preview": "img/preview/rank-5-cqc.png",
+        "preview":"/static/img/preview/rank-5-cqc.png",
         "desc": "The 5th CQC rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -103,17 +103,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/cqc/rank-5-cqc.png"
+            "link":"/static/img/pilots-federation/cqc/rank-5-cqc.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/cqc/rank-5-cqc.svg"
+            "link":"/static/img/pilots-federation/cqc/rank-5-cqc.svg"
           }
         ]
       },
       {
         "name": "6: Champion",
-        "preview": "img/preview/rank-6-cqc.png",
+        "preview":"/static/img/preview/rank-6-cqc.png",
         "desc": "The 6th CQC rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -124,17 +124,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/cqc/rank-6-cqc.png"
+            "link":"/static/img/pilots-federation/cqc/rank-6-cqc.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/cqc/rank-6-cqc.svg"
+            "link":"/static/img/pilots-federation/cqc/rank-6-cqc.svg"
           }
         ]
       },
       {
         "name": "7: Hero",
-        "preview": "img/preview/rank-7-cqc.png",
+        "preview":"/static/img/preview/rank-7-cqc.png",
         "desc": "The 7th CQC rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -145,17 +145,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/cqc/rank-7-cqc.png"
+            "link":"/static/img/pilots-federation/cqc/rank-7-cqc.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/cqc/rank-7-cqc.svg"
+            "link":"/static/img/pilots-federation/cqc/rank-7-cqc.svg"
           }
         ]
       },
       {
         "name": "8: Gladiator",
-        "preview": "img/preview/rank-8-cqc.png",
+        "preview":"/static/img/preview/rank-8-cqc.png",
         "desc": "The 8th CQC rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -166,17 +166,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/cqc/rank-8-cqc.png"
+            "link":"/static/img/pilots-federation/cqc/rank-8-cqc.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/cqc/rank-8-cqc.svg"
+            "link":"/static/img/pilots-federation/cqc/rank-8-cqc.svg"
           }
         ]
       },
       {
         "name": "9: Elite",
-        "preview": "img/preview/rank-9-cqc.png",
+        "preview":"/static/img/preview/rank-9-cqc.png",
         "desc": "The 9th CQC rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -187,11 +187,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/cqc/rank-9-cqc.png"
+            "link":"/static/img/pilots-federation/cqc/rank-9-cqc.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/cqc/rank-9-cqc.svg"
+            "link":"/static/img/pilots-federation/cqc/rank-9-cqc.svg"
           }
         ]
       }

@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Bank of Zaonce",
-        "preview": "img/preview/Bank-of-Zaonce.png",
+        "preview":"/static/img/preview/Bank-of-Zaonce.png",
         "desc": "The Bank of Zaonce icon.",
         "fanmade": true,
         "designer_info": [
@@ -16,17 +16,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/companies/Bank-of-Zaonce.png"
+            "link":"/static/img/companies/Bank-of-Zaonce.png"
           },
           {
             "format":"SVG",
-            "link":"img/companies/Bank of Zaonce.svg"
+            "link":"/static/img/companies/Bank of Zaonce.svg"
           }
         ]
       },
       {
         "name": "GalNet",
-        "preview": "img/preview/GalNet.png",
+        "preview":"/static/img/preview/GalNet.png",
         "desc": "The GalNet icon. Font used is Century Gothic.",
         "fanmade": true,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/companies/GalNet.png"
+            "link":"/static/img/companies/GalNet.png"
           },
           {
             "format":"SVG",
-            "link":"img/companies/GalNet.svg"
+            "link":"/static/img/companies/GalNet.svg"
           }
         ]
       },
       {
         "name": "Universal Cartographics",
-        "preview": "img/preview/Universal-Cartographics.png",
+        "preview":"/static/img/preview/Universal-Cartographics.png",
         "desc": "The Universal Cartographics icon. Font used is probably Wilma Base/Farcit A.",
         "fanmade": true,
         "designer_info": [
@@ -60,11 +60,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/companies/Universal-Cartographics.png"
+            "link":"/static/img/companies/Universal-Cartographics.png"
           },
           {
             "format":"SVG",
-            "link":"img/companies/Universal-Cartographics.svg"
+            "link":"/static/img/companies/Universal-Cartographics.svg"
           }
         ]
       }

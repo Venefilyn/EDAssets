@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Barnacles",
-        "preview": "img/preview/barnacles_logo.png",
+        "preview":"/static/img/preview/barnacles_logo.png",
         "desc": "The alien barnacles logo.",
         "fanmade": true,
         "designer_info": [
@@ -16,17 +16,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/misc/barnacles_logo.png"
+            "link":"/static/img/misc/barnacles_logo.png"
           },
           {
             "format":"SVG",
-            "link":"img/misc/barnacles_logo.svg"
+            "link":"/static/img/misc/barnacles_logo.svg"
           }
         ]
       },
       {
         "name": "Combat Bonds",
-        "preview": "img/preview/Combat-Bonds.png",
+        "preview":"/static/img/preview/Combat-Bonds.png",
         "desc": "The (combat) bonds icon.",
         "fanmade": true,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/misc/Combat-Bonds.png"
+            "link":"/static/img/misc/Combat-Bonds.png"
           },
           {
             "format":"SVG",
-            "link":"img/misc/Combat Bonds.svg"
+            "link":"/static/img/misc/Combat Bonds.svg"
           }
         ]
       },
       {
         "name": "Onionhead",
-        "preview": "img/preview/Onionhead.png",
+        "preview":"/static/img/preview/Onionhead.png",
         "desc": "The Onionhead icon taken from the Onionhead t-shirt.",
         "fanmade": true,
         "designer_info": [
@@ -60,13 +60,13 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/misc/Onionhead.png"
+            "link":"/static/img/misc/Onionhead.png"
           }
         ]
       },
       {
         "name": "HUD element",
-        "preview": "img/preview/hud.png",
+        "preview":"/static/img/preview/hud.png",
         "desc": "The hud visible on each side of the cockpit projection (i.e. where weapons are shown).",
         "fanmade": true,
         "designer_info": [
@@ -78,17 +78,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/misc/hud.png"
+            "link":"/static/img/misc/hud.png"
           },
           {
             "format":"SVG",
-            "link":"img/misc/hud.svg"
+            "link":"/static/img/misc/hud.svg"
           }
         ]
       },
       {
         "name": "Retro ships",
-        "preview": "img/preview/retro.png",
+        "preview":"/static/img/preview/retro.png",
         "desc": "The retro style of aircrafts, originating from an Elite Dangerous t-shirt.",
         "fanmade": false,
         "designer_info": [
@@ -100,17 +100,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/misc/retro.png"
+            "link":"/static/img/misc/retro.png"
           },
           {
             "format":"SVG",
-            "link":"img/misc/retro.svg"
+            "link":"/static/img/misc/retro.svg"
           }
         ]
       },
       {
         "name": "Aegis",
-        "preview": "img/preview/aegis.png",
+        "preview":"/static/img/preview/aegis.png",
         "desc": "Agency to gather intelligence on the Thargoids and co-ordiante future research on them.",
         "fanmade": true,
         "designer_info": [
@@ -122,17 +122,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/misc/aegis.png"
+            "link":"/static/img/misc/aegis.png"
           },
           {
             "format":"SVG",
-            "link":"img/misc/aegis.svg"
+            "link":"/static/img/misc/aegis.svg"
           }
         ]
       },
 	  {
         "name": "Mycohazard",
-        "preview": "img/preview/mycohazard.png",
+        "preview":"/static/img/preview/mycohazard.png",
         "desc": "Mycohazard warning sign from INRA base.",
         "fanmade": true,
         "designer_info": [
@@ -144,17 +144,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/misc/mycohazard.png"
+            "link":"/static/img/misc/mycohazard.png"
           },
           {
             "format":"SVG",
-            "link":"img/misc/mycohazard.svg"
+            "link":"/static/img/misc/mycohazard.svg"
           }
         ]
       },
 	  {
         "name": "INRA",
-        "preview": "img/preview/INRA.png",
+        "preview":"/static/img/preview/INRA.png",
         "desc": "INRA logo from INRA base.",
         "fanmade": true,
         "designer_info": [
@@ -166,11 +166,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/misc/INRA.png"
+            "link":"/static/img/misc/INRA.png"
           },
           {
             "format":"SVG",
-            "link":"img/misc/INRA.svg"
+            "link":"/static/img/misc/INRA.svg"
           }
         ]
       }

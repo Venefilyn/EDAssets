@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Combat",
-        "preview": "img/preview/Combat.png",
+        "preview":"/static/img/preview/Combat.png",
         "desc": "The Combat Ethos.",
         "fanmade": true,
         "designer_info": [
@@ -16,17 +16,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/power-ethos/Combat.png"
+            "link":"/static/img/power-ethos/Combat.png"
           },
           {
             "format":"SVG",
-            "link":"img/power-ethos/Combat.svg"
+            "link":"/static/img/power-ethos/Combat.svg"
           }
         ]
       },
       {
         "name": "Combat Border",
-        "preview": "img/preview/Combat_border.png",
+        "preview":"/static/img/preview/Combat_border.png",
         "desc": "The Combat Ethos with border.",
         "fanmade": true,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/power-ethos/Combat_border.png"
+            "link":"/static/img/power-ethos/Combat_border.png"
           },
           {
             "format":"SVG",
-            "link":"img/power-ethos/Combat_border.svg"
+            "link":"/static/img/power-ethos/Combat_border.svg"
           }
         ]
       },
       {
         "name": "Covert",
-        "preview": "img/preview/Covert.png",
+        "preview":"/static/img/preview/Covert.png",
         "desc": "The Covert Ethos.",
         "fanmade": true,
         "designer_info": [
@@ -60,17 +60,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/power-ethos/Covert.png"
+            "link":"/static/img/power-ethos/Covert.png"
           },
           {
             "format":"SVG",
-            "link":"img/power-ethos/Covert.svg"
+            "link":"/static/img/power-ethos/Covert.svg"
           }
         ]
       },
       {
         "name": "Covert Border",
-        "preview": "img/preview/Covert_border.png",
+        "preview":"/static/img/preview/Covert_border.png",
         "desc": "The Covert Ethos with border.",
         "fanmade": true,
         "designer_info": [
@@ -82,17 +82,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/power-ethos/Covert_border.png"
+            "link":"/static/img/power-ethos/Covert_border.png"
           },
           {
             "format":"SVG",
-            "link":"img/power-ethos/Covert_border.svg"
+            "link":"/static/img/power-ethos/Covert_border.svg"
           }
         ]
       },
       {
         "name": "Finance",
-        "preview": "img/preview/Finance.png",
+        "preview":"/static/img/preview/Finance.png",
         "desc": "The Finance Ethos.",
         "fanmade": true,
         "designer_info": [
@@ -104,17 +104,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/power-ethos/Finance.png"
+            "link":"/static/img/power-ethos/Finance.png"
           },
           {
             "format":"SVG",
-            "link":"img/power-ethos/Finance.svg"
+            "link":"/static/img/power-ethos/Finance.svg"
           }
         ]
       },
       {
         "name": "Finance Border",
-        "preview": "img/preview/Finance_border.png",
+        "preview":"/static/img/preview/Finance_border.png",
         "desc": "The Finance Ethos with border.",
         "fanmade": true,
         "designer_info": [
@@ -126,17 +126,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/power-ethos/Finance_border.png"
+            "link":"/static/img/power-ethos/Finance_border.png"
           },
           {
             "format":"SVG",
-            "link":"img/power-ethos/Finance_border.svg"
+            "link":"/static/img/power-ethos/Finance_border.svg"
           }
         ]
       },
       {
         "name": "Social",
-        "preview": "img/preview/Social.png",
+        "preview":"/static/img/preview/Social.png",
         "desc": "The Social Ethos.",
         "fanmade": true,
         "designer_info": [
@@ -148,17 +148,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/power-ethos/Social.png"
+            "link":"/static/img/power-ethos/Social.png"
           },
           {
             "format":"SVG",
-            "link":"img/power-ethos/Social.svg"
+            "link":"/static/img/power-ethos/Social.svg"
           }
         ]
       },
       {
         "name": "Social Border",
-        "preview": "img/preview/Social_border.png",
+        "preview":"/static/img/preview/Social_border.png",
         "desc": "The Social Ethos with border.",
         "fanmade": true,
         "designer_info": [
@@ -170,11 +170,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/power-ethos/Social_border.png"
+            "link":"/static/img/power-ethos/Social_border.png"
           },
           {
             "format":"SVG",
-            "link":"img/power-ethos/Social_border.svg"
+            "link":"/static/img/power-ethos/Social_border.svg"
           }
         ]
       }

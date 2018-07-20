@@ -9,32 +9,32 @@
 			{
 				"name":"Surface Recon Vehicle",
 				"desc":"Concept art featuring the SRV",
-				"preview":"img/preview/tn_benandrews_srv.jpg",
+				"preview":"/static/img/preview/tn_benandrews_srv.jpg",
 				"file":"concept-art-horizons-srv.json",
 				"zipurl": [
 						{
 							"format":"JPG",
-							"link":"img/concept-art/horizons/srv/all.zip"
+							"link":"/static/img/concept-art/horizons/srv/all.zip"
 						}
 				]
 			},
 			{
 				"name":"Surface Installations",
 				"desc":"Concept art featuring surface installations in Horizons",
-				"preview":"img/preview/tn_benandrews_base_sketch_2.jpg",
+				"preview":"/static/img/preview/tn_benandrews_base_sketch_2.jpg",
 				"file":"concept-art-horizons-surface-installations.json",
 				"zipurl": [
 						{
 							"format":"JPG",
-							"link":"img/concept-art/horizons/surface-installations/all.zip"
+							"link":"/static/img/concept-art/horizons/surface-installations/all.zip"
 						}
 				]
-			}	
+			}
 		],
 		"types":[
       {
         "name": "Ice Planet",
-        "preview": "img/preview/tn_benandrews_ice_planet.jpg",
+        "preview":"/static/img/preview/tn_benandrews_ice_planet.jpg",
         "desc": "A single SRV drives along an icy world with liquid water",
         "fanmade": false,
         "designer_info": [
@@ -46,7 +46,7 @@
         "formats": [
           {
             "format":"JPG",
-            "link":"img/concept-art/horizons/benandrews_ice_planet.jpg"
+            "link":"/static/img/concept-art/horizons/benandrews_ice_planet.jpg"
           }
         ]
       }

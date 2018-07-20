@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Weapon type: Fixed",
-        "preview": "img/preview/ed-fixed.png",
+        "preview":"/static/img/preview/ed-fixed.png",
         "desc": "Icon for fixed weapons.",
         "fanmade": true,
         "designer_info": [
@@ -16,17 +16,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/outfitting/ed-fixed.png"
+            "link":"/static/img/outfitting/ed-fixed.png"
           },
           {
             "format":"SVG",
-            "link":"img/outfitting/ed-fixed.svg"
+            "link":"/static/img/outfitting/ed-fixed.svg"
           }
         ]
       },
       {
         "name": "Weapon type: Gimballed",
-        "preview": "img/preview/ed-gimballed.png",
+        "preview":"/static/img/preview/ed-gimballed.png",
         "desc": "Icon for gimballed weapons.",
         "fanmade": true,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/outfitting/ed-gimballed.png"
+            "link":"/static/img/outfitting/ed-gimballed.png"
           },
           {
             "format":"SVG",
-            "link":"img/outfitting/ed-gimballed.svg"
+            "link":"/static/img/outfitting/ed-gimballed.svg"
           }
         ]
       },
       {
         "name": "Weapon type: Turret",
-        "preview": "img/preview/ed-turret.png",
+        "preview":"/static/img/preview/ed-turret.png",
         "desc": "Icon for turreted weapons.",
         "fanmade": true,
         "designer_info": [
@@ -60,17 +60,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/outfitting/ed-turret.png"
+            "link":"/static/img/outfitting/ed-turret.png"
           },
           {
             "format":"SVG",
-            "link":"img/outfitting/ed-turret.svg"
+            "link":"/static/img/outfitting/ed-turret.svg"
           }
         ]
       },
       {
         "name": "Weapon type: Explosive",
-        "preview": "img/preview/explosive.png",
+        "preview":"/static/img/preview/explosive.png",
         "desc": "Explosive type found in Outfitting.",
         "fanmade": true,
         "designer_info": [
@@ -82,17 +82,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/outfitting/explosive.png"
+            "link":"/static/img/outfitting/explosive.png"
           },
           {
             "format":"SVG",
-            "link":"img/outfitting/explosive.svg"
+            "link":"/static/img/outfitting/explosive.svg"
           }
         ]
       },
       {
         "name": "Weapon type: Kinetic",
-        "preview": "img/preview/kinetic.png",
+        "preview":"/static/img/preview/kinetic.png",
         "desc": "Kinetic type found in Outfitting.",
         "fanmade": true,
         "designer_info": [
@@ -104,17 +104,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/outfitting/kinetic.png"
+            "link":"/static/img/outfitting/kinetic.png"
           },
           {
             "format":"SVG",
-            "link":"img/outfitting/kinetic.svg"
+            "link":"/static/img/outfitting/kinetic.svg"
           }
         ]
       },
       {
         "name": "Weapon type: Thermal",
-        "preview": "img/preview/thermal.png",
+        "preview":"/static/img/preview/thermal.png",
         "desc": "Thermal type found in Outfitting.",
         "fanmade": true,
         "designer_info": [
@@ -126,11 +126,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/outfitting/thermal.png"
+            "link":"/static/img/outfitting/thermal.png"
           },
           {
             "format":"SVG",
-            "link":"img/outfitting/thermal.svg"
+            "link":"/static/img/outfitting/thermal.svg"
           }
         ]
       }

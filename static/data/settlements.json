@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Settlement Planetary Map",
-        "preview": "img/preview/settlement_pm.png",
+        "preview":"/static/img/preview/settlement_pm.png",
         "desc": "Settlement icon as seen from planetary map.",
         "fanmade": true,
         "designer_info": [
@@ -16,17 +16,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/settlements/settlement_pm.png"
+            "link":"/static/img/settlements/settlement_pm.png"
           },
           {
             "format":"SVG",
-            "link":"img/settlements/settlement_pm.svg"
+            "link":"/static/img/settlements/settlement_pm.svg"
           }
         ]
       },
       {
         "name": "Settlement System Map",
-        "preview": "img/preview/settlement_sm.png",
+        "preview":"/static/img/preview/settlement_sm.png",
         "desc": "Settlement icon as seen from system map and navigation panel.",
         "fanmade": true,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/settlements/settlement_sm.png"
+            "link":"/static/img/settlements/settlement_sm.png"
           },
           {
             "format":"SVG",
-            "link":"img/settlements/settlement_sm.svg"
+            "link":"/static/img/settlements/settlement_sm.svg"
           }
         ]
       },
       {
         "name": "Surface Port Planetary Map",
-        "preview": "img/preview/surface_port_pm.png",
+        "preview":"/static/img/preview/surface_port_pm.png",
         "desc": "Surface Port icon as seen from planetary map.",
         "fanmade": true,
         "designer_info": [
@@ -60,17 +60,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/settlements/surface_port_pm.png"
+            "link":"/static/img/settlements/surface_port_pm.png"
           },
           {
             "format":"SVG",
-            "link":"img/settlements/surface_port_pm.svg"
+            "link":"/static/img/settlements/surface_port_pm.svg"
           }
         ]
       },
       {
         "name": "Surface Port System Map",
-        "preview": "img/preview/surface_port_sm.png",
+        "preview":"/static/img/preview/surface_port_sm.png",
         "desc": "Surface Port icon as seen from system map and navigation panel.",
         "fanmade": true,
         "designer_info": [
@@ -82,11 +82,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/settlements/surface_port_sm.png"
+            "link":"/static/img/settlements/surface_port_sm.png"
           },
           {
             "format":"SVG",
-            "link":"img/settlements/surface_port_sm.svg"
+            "link":"/static/img/settlements/surface_port_sm.svg"
           }
         ]
       }

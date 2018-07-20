@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Expanding",
-        "preview": "img/preview/Expanding.png",
+        "preview":"/static/img/preview/Expanding.png",
         "desc": "The Expanding icon.",
         "fanmade": true,
         "designer_info": [
@@ -16,17 +16,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/power-related/Expanding.png"
+            "link":"/static/img/power-related/Expanding.png"
           },
           {
             "format":"SVG",
-            "link":"img/power-related/Expanding.svg"
+            "link":"/static/img/power-related/Expanding.svg"
           }
         ]
       },
       {
         "name": "Fortifying",
-        "preview": "img/preview/Fortifying.png",
+        "preview":"/static/img/preview/Fortifying.png",
         "desc": "The Fortifying icon.",
         "fanmade": true,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/power-related/Fortifying.png"
+            "link":"/static/img/power-related/Fortifying.png"
           },
           {
             "format":"SVG",
-            "link":"img/power-related/Fortifying.svg"
+            "link":"/static/img/power-related/Fortifying.svg"
           }
         ]
       },
       {
         "name": "Under Threat",
-        "preview": "img/preview/Under-threat.png",
+        "preview":"/static/img/preview/Under-threat.png",
         "desc": "The Under Threat icon.",
         "fanmade": true,
         "designer_info": [
@@ -60,11 +60,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/power-related/Under-threat.png"
+            "link":"/static/img/power-related/Under-threat.png"
           },
           {
             "format":"SVG",
-            "link":"img/power-related/Under threat.svg"
+            "link":"/static/img/power-related/Under threat.svg"
           }
         ]
       }

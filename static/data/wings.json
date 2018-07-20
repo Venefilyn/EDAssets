@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Wings icon #1",
-        "preview": "img/preview/wings-icon-01.png",
+        "preview":"/static/img/preview/wings-icon-01.png",
         "desc": "The first Wingman's logo.",
         "fanmade": true,
         "designer_info": [
@@ -16,17 +16,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/wings/wings-icon-01.png"
+            "link":"/static/img/wings/wings-icon-01.png"
           },
           {
             "format":"SVG",
-            "link":"img/wings/wings-icon-01.svg"
+            "link":"/static/img/wings/wings-icon-01.svg"
           }
         ]
       },
       {
         "name": "Wings icon #2",
-        "preview": "img/preview/wings-icon-02.png",
+        "preview":"/static/img/preview/wings-icon-02.png",
         "desc": "The second Wingman's logo.",
         "fanmade": true,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/wings/wings-icon-02.png"
+            "link":"/static/img/wings/wings-icon-02.png"
           },
           {
             "format":"SVG",
-            "link":"img/wings/wings-icon-02.svg"
+            "link":"/static/img/wings/wings-icon-02.svg"
           }
         ]
       },
       {
         "name": "Wings icon #3",
-        "preview": "img/preview/wings-icon-03.png",
+        "preview":"/static/img/preview/wings-icon-03.png",
         "desc": "The third Wingman's logo.",
         "fanmade": true,
         "designer_info": [
@@ -60,17 +60,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/wings/wings-icon-03.png"
+            "link":"/static/img/wings/wings-icon-03.png"
           },
           {
             "format":"SVG",
-            "link":"img/wings/wings-icon-03.svg"
+            "link":"/static/img/wings/wings-icon-03.svg"
           }
         ]
       },
       {
         "name": "Wings icon #4",
-        "preview": "img/preview/wings-icon-04.png",
+        "preview":"/static/img/preview/wings-icon-04.png",
         "desc": "The fourth Wingman's logo.",
         "fanmade": true,
         "designer_info": [
@@ -82,11 +82,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/wings/wings-icon-04.png"
+            "link":"/static/img/wings/wings-icon-04.png"
           },
           {
             "format":"SVG",
-            "link":"img/wings/wings-icon-04.svg"
+            "link":"/static/img/wings/wings-icon-04.svg"
           }
         ]
       }

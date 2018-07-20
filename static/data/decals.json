@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Founder 1",
-        "preview": "img/preview/Founder1.png",
+        "preview":"/static/img/preview/Founder1.png",
         "desc": "The Founder icon as seen on ship.",
         "fanmade": true,
         "designer_info": [
@@ -16,17 +16,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/decals/Founder1.png"
+            "link":"/static/img/decals/Founder1.png"
           },
           {
             "format":"SVG",
-            "link":"img/decals/Founder1.svg"
+            "link":"/static/img/decals/Founder1.svg"
           }
         ]
       },
       {
         "name": "Founder 2",
-        "preview": "img/preview/Founder2.png",
+        "preview":"/static/img/preview/Founder2.png",
         "desc": "The Founder icon as seen on left decal UI.",
         "fanmade": true,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/decals/Founder2.png"
+            "link":"/static/img/decals/Founder2.png"
           },
           {
             "format":"SVG",
-            "link":"img/decals/Founder2.svg"
+            "link":"/static/img/decals/Founder2.svg"
           }
         ]
       },
       {
         "name": "Planet 1",
-        "preview": "img/preview/Planet1.png",
+        "preview":"/static/img/preview/Planet1.png",
         "desc": "The Planet icon as seen on ship.",
         "fanmade": true,
         "designer_info": [
@@ -60,17 +60,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/decals/Planet1.png"
+            "link":"/static/img/decals/Planet1.png"
           },
           {
             "format":"SVG",
-            "link":"img/decals/Planet1.svg"
+            "link":"/static/img/decals/Planet1.svg"
           }
         ]
       },
       {
         "name": "Planet 2",
-        "preview": "img/preview/Planet2.png",
+        "preview":"/static/img/preview/Planet2.png",
         "desc": "The Planet icon as seen on left decal UI.",
         "fanmade": true,
         "designer_info": [
@@ -82,11 +82,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/decals/Planet2.png"
+            "link":"/static/img/decals/Planet2.png"
           },
           {
             "format":"SVG",
-            "link":"img/decals/Planet2.svg"
+            "link":"/static/img/decals/Planet2.svg"
           }
         ]
       }

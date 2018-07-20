@@ -8,7 +8,7 @@
     "types":[
       {
         "name": "Corrosion",
-        "preview": "img/preview/corrosion.png",
+        "preview":"/static/img/preview/corrosion.png",
         "desc": "Corrosion effect.",
         "fanmade": true,
         "designer_info": [
@@ -20,17 +20,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/corrosion.png"
+            "link":"/static/img/engineer-effects/corrosion.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/corrosion.svg"
+            "link":"/static/img/engineer-effects/corrosion.svg"
           }
         ]
       },
       {
         "name": "Engine disruption",
-        "preview": "img/preview/engine-disruption.png",
+        "preview":"/static/img/preview/engine-disruption.png",
         "desc": "Engine disruption effect.",
         "fanmade": true,
         "designer_info": [
@@ -42,17 +42,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/engine-disruption.png"
+            "link":"/static/img/engineer-effects/engine-disruption.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/engine-disruption.svg"
+            "link":"/static/img/engineer-effects/engine-disruption.svg"
           }
         ]
       },
       {
         "name": "Engine reboot",
-        "preview": "img/preview/engine-reboot.png",
+        "preview":"/static/img/preview/engine-reboot.png",
         "desc": "Engine reboot effect.",
         "fanmade": true,
         "designer_info": [
@@ -64,17 +64,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/engine-reboot.png"
+            "link":"/static/img/engineer-effects/engine-reboot.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/engine-reboot.svg"
+            "link":"/static/img/engineer-effects/engine-reboot.svg"
           }
         ]
       },
       {
         "name": "FSD reboot",
-        "preview": "img/preview/fsd-reboot.png",
+        "preview":"/static/img/preview/fsd-reboot.png",
         "desc": "FSD reboot effect. Also the icon for FSD injection",
         "fanmade": true,
         "designer_info": [
@@ -86,17 +86,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/fsd-reboot.png"
+            "link":"/static/img/engineer-effects/fsd-reboot.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/fsd-reboot.svg"
+            "link":"/static/img/engineer-effects/fsd-reboot.svg"
           }
         ]
       },
       {
         "name": "Hull breach",
-        "preview": "img/preview/hull-breach.png",
+        "preview":"/static/img/preview/hull-breach.png",
         "desc": "Hull breach effect.",
         "fanmade": true,
         "designer_info": [
@@ -108,17 +108,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/hull-breach.png"
+            "link":"/static/img/engineer-effects/hull-breach.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/hull-breach.svg"
+            "link":"/static/img/engineer-effects/hull-breach.svg"
           }
         ]
       },
       {
         "name": "Impulse attack",
-        "preview": "img/preview/impulse-attack.png",
+        "preview":"/static/img/preview/impulse-attack.png",
         "desc": "Impulse attack effect.",
         "fanmade": true,
         "designer_info": [
@@ -130,17 +130,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/impulse-attack.png"
+            "link":"/static/img/engineer-effects/impulse-attack.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/impulse-attack.svg"
+            "link":"/static/img/engineer-effects/impulse-attack.svg"
           }
         ]
       },
       {
         "name": "Increase emissions",
-        "preview": "img/preview/increased-emissions.png",
+        "preview":"/static/img/preview/increased-emissions.png",
         "desc": "Increase emissions effect.",
         "fanmade": true,
         "designer_info": [
@@ -152,17 +152,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/increased-emissions.png"
+            "link":"/static/img/engineer-effects/increased-emissions.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/increased-emissions.svg"
+            "link":"/static/img/engineer-effects/increased-emissions.svg"
           }
         ]
       },
       {
         "name": "Internal damage",
-        "preview": "img/preview/internal-damage.png",
+        "preview":"/static/img/preview/internal-damage.png",
         "desc": "Internal damage effect.",
         "fanmade": true,
         "designer_info": [
@@ -174,17 +174,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/internal-damage.png"
+            "link":"/static/img/engineer-effects/internal-damage.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/internal-damage.svg"
+            "link":"/static/img/engineer-effects/internal-damage.svg"
           }
         ]
       },
       {
         "name": "Malfunction",
-        "preview": "img/preview/malfunction.png",
+        "preview":"/static/img/preview/malfunction.png",
         "desc": "Malfunction effect.",
         "fanmade": true,
         "designer_info": [
@@ -196,17 +196,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/malfunction.png"
+            "link":"/static/img/engineer-effects/malfunction.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/malfunction.svg"
+            "link":"/static/img/engineer-effects/malfunction.svg"
           }
         ]
       },
       {
         "name": "Mass locked",
-        "preview": "img/preview/mass-locked.png",
+        "preview":"/static/img/preview/mass-locked.png",
         "desc": "Mass locked effect.",
         "fanmade": true,
         "designer_info": [
@@ -218,17 +218,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/mass-locked.png"
+            "link":"/static/img/engineer-effects/mass-locked.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/mass-locked.svg"
+            "link":"/static/img/engineer-effects/mass-locked.svg"
           }
         ]
       },
       {
         "name": "Regeneration",
-        "preview": "img/preview/regeneration.png",
+        "preview":"/static/img/preview/regeneration.png",
         "desc": "Regeneration effect.",
         "fanmade": true,
         "designer_info": [
@@ -240,17 +240,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/regeneration.png"
+            "link":"/static/img/engineer-effects/regeneration.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/regeneration.svg"
+            "link":"/static/img/engineer-effects/regeneration.svg"
           }
         ]
       },
       {
         "name": "Sensor disruption",
-        "preview": "img/preview/sensor-disruption.png",
+        "preview":"/static/img/preview/sensor-disruption.png",
         "desc": "Sensor disruption effect.",
         "fanmade": true,
         "designer_info": [
@@ -262,17 +262,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/sensor-disruption.png"
+            "link":"/static/img/engineer-effects/sensor-disruption.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/sensor-disruption.svg"
+            "link":"/static/img/engineer-effects/sensor-disruption.svg"
           }
         ]
       },
       {
         "name": "Shield breach",
-        "preview": "img/preview/shield-breach.png",
+        "preview":"/static/img/preview/shield-breach.png",
         "desc": "Shield breach effect.",
         "fanmade": true,
         "designer_info": [
@@ -284,17 +284,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/shield-breach.png"
+            "link":"/static/img/engineer-effects/shield-breach.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/shield-breach.svg"
+            "link":"/static/img/engineer-effects/shield-breach.svg"
           }
         ]
       },
       {
         "name": "Shield cell cascade",
-        "preview": "img/preview/shield-cell-cascade.png",
+        "preview":"/static/img/preview/shield-cell-cascade.png",
         "desc": "Shield cell cascade effect.",
         "fanmade": true,
         "designer_info": [
@@ -306,17 +306,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/shield-cell-cascade.png"
+            "link":"/static/img/engineer-effects/shield-cell-cascade.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/shield-cell-cascade.svg"
+            "link":"/static/img/engineer-effects/shield-cell-cascade.svg"
           }
         ]
       },
       {
         "name": "Shield generator attack",
-        "preview": "img/preview/shield-generator-attack.png",
+        "preview":"/static/img/preview/shield-generator-attack.png",
         "desc": "Shield generator attack effect.",
         "fanmade": true,
         "designer_info": [
@@ -328,17 +328,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/shield-generator-attack.png"
+            "link":"/static/img/engineer-effects/shield-generator-attack.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/shield-generator-attack.svg"
+            "link":"/static/img/engineer-effects/shield-generator-attack.svg"
           }
         ]
       },
       {
         "name": "Shield reboot",
-        "preview": "img/preview/shield-reboot.png",
+        "preview":"/static/img/preview/shield-reboot.png",
         "desc": "Shield reboot effect.",
         "fanmade": true,
         "designer_info": [
@@ -350,17 +350,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/shield-reboot.png"
+            "link":"/static/img/engineer-effects/shield-reboot.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/shield-reboot.svg"
+            "link":"/static/img/engineer-effects/shield-reboot.svg"
           }
         ]
       },
       {
         "name": "Targeting overload",
-        "preview": "img/preview/targeting-overload.png",
+        "preview":"/static/img/preview/targeting-overload.png",
         "desc": "Targeting overload effect.",
         "fanmade": true,
         "designer_info": [
@@ -372,17 +372,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/targeting-overload.png"
+            "link":"/static/img/engineer-effects/targeting-overload.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/targeting-overload.svg"
+            "link":"/static/img/engineer-effects/targeting-overload.svg"
           }
         ]
       },
       {
         "name": "Target interferance",
-        "preview": "img/preview/target-interferance.png",
+        "preview":"/static/img/preview/target-interferance.png",
         "desc": "Target interferance effect.",
         "fanmade": true,
         "designer_info": [
@@ -394,17 +394,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/target-interferance.png"
+            "link":"/static/img/engineer-effects/target-interferance.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/target-interferance.svg"
+            "link":"/static/img/engineer-effects/target-interferance.svg"
           }
         ]
       },
       {
         "name": "Thermal attack",
-        "preview": "img/preview/thermal-attack.png",
+        "preview":"/static/img/preview/thermal-attack.png",
         "desc": "Thermal attack effect.",
         "fanmade": true,
         "designer_info": [
@@ -416,11 +416,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/engineer-effects/thermal-attack.png"
+            "link":"/static/img/engineer-effects/thermal-attack.png"
           },
           {
             "format":"SVG",
-            "link":"img/engineer-effects/thermal-attack.svg"
+            "link":"/static/img/engineer-effects/thermal-attack.svg"
           }
         ]
       }

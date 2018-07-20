@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Aisling Duval",
-        "preview": "img/preview/aisling-duval.png",
+        "preview":"/static/img/preview/aisling-duval.png",
         "desc": "Aisling Duval icon.",
         "fanmade": false,
         "designer_info": [
@@ -16,17 +16,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/aisling-duval.png"
+            "link":"/static/img/powers/aisling-duval.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/aisling-duval.svg"
+            "link":"/static/img/powers/aisling-duval.svg"
           }
         ]
       },
       {
         "name": "Archon Delaine",
-        "preview": "img/preview/archon-delaine.png",
+        "preview":"/static/img/preview/archon-delaine.png",
         "desc": "Archon Delaine icon.",
         "fanmade": false,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/archon-delaine.png"
+            "link":"/static/img/powers/archon-delaine.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/archon-delaine.svg"
+            "link":"/static/img/powers/archon-delaine.svg"
           }
         ]
       },
       {
         "name": "Arissa Lavigny Duval",
-        "preview": "img/preview/arissa-lavigny-duval.png",
+        "preview":"/static/img/preview/arissa-lavigny-duval.png",
         "desc": "Arissa Lavigny Duval icon.",
         "fanmade": false,
         "designer_info": [
@@ -60,17 +60,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/arissa-lavigny-duval.png"
+            "link":"/static/img/powers/arissa-lavigny-duval.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/arissa-lavigny-duval.svg"
+            "link":"/static/img/powers/arissa-lavigny-duval.svg"
           }
         ]
       },
       {
         "name": "Denton Patreus",
-        "preview": "img/preview/denton-patreus.png",
+        "preview":"/static/img/preview/denton-patreus.png",
         "desc": "Denton Patreus icon.",
         "fanmade": false,
         "designer_info": [
@@ -82,17 +82,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/denton-patreus.png"
+            "link":"/static/img/powers/denton-patreus.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/denton-patreus.svg"
+            "link":"/static/img/powers/denton-patreus.svg"
           }
         ]
       },
       {
         "name": "Edmund Mahon",
-        "preview": "img/preview/edmund-mahon.png",
+        "preview":"/static/img/preview/edmund-mahon.png",
         "desc": "Edmund Mahon icon.",
         "fanmade": false,
         "designer_info": [
@@ -104,17 +104,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/edmund-mahon.png"
+            "link":"/static/img/powers/edmund-mahon.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/edmund-mahon.svg"
+            "link":"/static/img/powers/edmund-mahon.svg"
           }
         ]
       },
       {
         "name": "Felicia Winters",
-        "preview": "img/preview/felicia-winters.png",
+        "preview":"/static/img/preview/felicia-winters.png",
         "desc": "Felicia Winters icon.",
         "fanmade": false,
         "designer_info": [
@@ -126,17 +126,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/felicia-winters.png"
+            "link":"/static/img/powers/felicia-winters.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/felicia-winters.svg"
+            "link":"/static/img/powers/felicia-winters.svg"
           }
         ]
       },
       {
         "name": "Li Yong-Rui",
-        "preview": "img/preview/li-yong-rui.png",
+        "preview":"/static/img/preview/li-yong-rui.png",
         "desc": "Li Yong-Rui icon.",
         "fanmade": false,
         "designer_info": [
@@ -148,17 +148,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/li-yong-rui.png"
+            "link":"/static/img/powers/li-yong-rui.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/li-yong-rui.svg"
+            "link":"/static/img/powers/li-yong-rui.svg"
           }
         ]
       },
       {
         "name": "Pranav Antal",
-        "preview": "img/preview/pranav-antal.png",
+        "preview":"/static/img/preview/pranav-antal.png",
         "desc": "Pranav Antal icon.",
         "fanmade": false,
         "designer_info": [
@@ -170,17 +170,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/pranav-antal.png"
+            "link":"/static/img/powers/pranav-antal.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/pranav-antal.svg"
+            "link":"/static/img/powers/pranav-antal.svg"
           }
         ]
       },
       {
         "name": "Zachary Hudson",
-        "preview": "img/preview/zachary-hudson.png",
+        "preview":"/static/img/preview/zachary-hudson.png",
         "desc": "Zachary Hudson icon.",
         "fanmade": false,
         "designer_info": [
@@ -192,17 +192,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/zachary-hudson.png"
+            "link":"/static/img/powers/zachary-hudson.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/zachary-hudson.svg"
+            "link":"/static/img/powers/zachary-hudson.svg"
           }
         ]
       },
       {
         "name": "Zemina Torval",
-        "preview": "img/preview/zemina-torval.png",
+        "preview":"/static/img/preview/zemina-torval.png",
         "desc": "Zemina Torval icon.",
         "fanmade": false,
         "designer_info": [
@@ -214,17 +214,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/zemina-torval.png"
+            "link":"/static/img/powers/zemina-torval.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/zemina-torval.svg"
+            "link":"/static/img/powers/zemina-torval.svg"
           }
         ]
       },
       {
         "name": "Yuri Grom",
-        "preview": "img/preview/yuri-grom.png",
+        "preview":"/static/img/preview/yuri-grom.png",
         "desc": "EG Pilots icon, used by Yuri Grom power.",
         "fanmade": true,
         "designer_info": [
@@ -236,11 +236,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/powers/yuri-grom.png"
+            "link":"/static/img/powers/yuri-grom.png"
           },
           {
             "format":"SVG",
-            "link":"img/powers/yuri-grom.svg"
+            "link":"/static/img/powers/yuri-grom.svg"
           }
         ]
       }

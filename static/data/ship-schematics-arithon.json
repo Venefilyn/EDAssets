@@ -8,7 +8,7 @@
         "types": [
             {
                 "name": "Adder",
-                "preview": "img/preview/adder-arithon.jpg",
+                "preview":"/static/img/preview/adder-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -19,17 +19,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/adder.png"
+                        "link":"/static/img/ship-schematics/arithon/adder.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/adder.svg"
+                        "link":"/static/img/ship-schematics/arithon/adder.svg"
                     }
                 ]
             },
             {
                 "name": "Anaconda",
-                "preview": "img/preview/anaconda-arithon.jpg",
+                "preview":"/static/img/preview/anaconda-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -40,17 +40,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/anaconda.png"
+                        "link":"/static/img/ship-schematics/arithon/anaconda.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/anaconda.svg"
+                        "link":"/static/img/ship-schematics/arithon/anaconda.svg"
                     }
                 ]
             },
             {
                 "name": "Asp Explorer",
-                "preview": "img/preview/asp-explorer-arithon.jpg",
+                "preview":"/static/img/preview/asp-explorer-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -61,17 +61,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/asp-explorer.png"
+                        "link":"/static/img/ship-schematics/arithon/asp-explorer.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/asp-explorer.svg"
+                        "link":"/static/img/ship-schematics/arithon/asp-explorer.svg"
                     }
                 ]
             },
             {
                 "name": "Asp Scout",
-                "preview": "img/preview/asp-scout-arithon.jpg",
+                "preview":"/static/img/preview/asp-scout-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -82,17 +82,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/asp-scout.png"
+                        "link":"/static/img/ship-schematics/arithon/asp-scout.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/asp-scout.svg"
+                        "link":"/static/img/ship-schematics/arithon/asp-scout.svg"
                     }
                 ]
             },
             {
                 "name": "Beluga Liner",
-                "preview": "img/preview/beluga-arithon.jpg",
+                "preview":"/static/img/preview/beluga-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -103,17 +103,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/beluga.png"
+                        "link":"/static/img/ship-schematics/arithon/beluga.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/beluga.svg"
+                        "link":"/static/img/ship-schematics/arithon/beluga.svg"
                     }
                 ]
             },
             {
                 "name": "Cobra Mk III",
-                "preview": "img/preview/cobra-mk-3-arithon.jpg",
+                "preview":"/static/img/preview/cobra-mk-3-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -124,17 +124,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/cobra-mk-3.png"
+                        "link":"/static/img/ship-schematics/arithon/cobra-mk-3.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/cobra-mk-3.svg"
+                        "link":"/static/img/ship-schematics/arithon/cobra-mk-3.svg"
                     }
                 ]
             },
             {
                 "name": "Cobra Mk IV",
-                "preview": "img/preview/cobra-mk-4-arithon.jpg",
+                "preview":"/static/img/preview/cobra-mk-4-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -145,17 +145,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/cobra-mk-4.png"
+                        "link":"/static/img/ship-schematics/arithon/cobra-mk-4.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/cobra-mk-4.svg"
+                        "link":"/static/img/ship-schematics/arithon/cobra-mk-4.svg"
                     }
                 ]
             },
             {
                 "name": "Diamondback Explorer",
-                "preview": "img/preview/diamondback-explorer-arithon.jpg",
+                "preview":"/static/img/preview/diamondback-explorer-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -166,17 +166,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/diamondback-explorer.png"
+                        "link":"/static/img/ship-schematics/arithon/diamondback-explorer.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/diamondback-explorer.svg"
+                        "link":"/static/img/ship-schematics/arithon/diamondback-explorer.svg"
                     }
                 ]
             },
             {
                 "name": "Diamondback Scout",
-                "preview": "img/preview/diamondback-scout-arithon.jpg",
+                "preview":"/static/img/preview/diamondback-scout-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -187,17 +187,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/diamondback-scout.png"
+                        "link":"/static/img/ship-schematics/arithon/diamondback-scout.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/diamondback-scout.svg"
+                        "link":"/static/img/ship-schematics/arithon/diamondback-scout.svg"
                     }
                 ]
             },
             {
                 "name": "Dolphin",
-                "preview": "img/preview/dolphin-arithon.jpg",
+                "preview":"/static/img/preview/dolphin-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -208,17 +208,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/dolphin.png"
+                        "link":"/static/img/ship-schematics/arithon/dolphin.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/dolphin.svg"
+                        "link":"/static/img/ship-schematics/arithon/dolphin.svg"
                     }
                 ]
             },
             {
                 "name": "Eagle Mk II",
-                "preview": "img/preview/eagle-arithon.jpg",
+                "preview":"/static/img/preview/eagle-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -229,17 +229,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/eagle.png"
+                        "link":"/static/img/ship-schematics/arithon/eagle.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/eagle.svg"
+                        "link":"/static/img/ship-schematics/arithon/eagle.svg"
                     }
                 ]
             },
             {
                 "name": "F63 Condor",
-                "preview": "img/preview/f63-arithon.jpg",
+                "preview":"/static/img/preview/f63-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -250,17 +250,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/f63.png"
+                        "link":"/static/img/ship-schematics/arithon/f63.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/f63.svg"
+                        "link":"/static/img/ship-schematics/arithon/f63.svg"
                     }
                 ]
             },
             {
                 "name": "Farragut Battle Cruiser",
-                "preview": "img/preview/farragut-battle-cruiser-arithon.jpg",
+                "preview":"/static/img/preview/farragut-battle-cruiser-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -271,17 +271,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/farragut-battle-cruiser.png"
+                        "link":"/static/img/ship-schematics/arithon/farragut-battle-cruiser.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/farragut-battle-cruiser.svg"
+                        "link":"/static/img/ship-schematics/arithon/farragut-battle-cruiser.svg"
                     }
                 ]
             },
             {
                 "name": "Federal Assault Ship",
-                "preview": "img/preview/federal-assault-ship-arithon.jpg",
+                "preview":"/static/img/preview/federal-assault-ship-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -292,17 +292,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/federal-assault-ship.png"
+                        "link":"/static/img/ship-schematics/arithon/federal-assault-ship.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/federal-assault-ship.svg"
+                        "link":"/static/img/ship-schematics/arithon/federal-assault-ship.svg"
                     }
                 ]
             },
             {
                 "name": "Federal Corvette",
-                "preview": "img/preview/federal-corvette-arithon.jpg",
+                "preview":"/static/img/preview/federal-corvette-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -313,17 +313,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/federal-corvette.png"
+                        "link":"/static/img/ship-schematics/arithon/federal-corvette.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/federal-corvette.svg"
+                        "link":"/static/img/ship-schematics/arithon/federal-corvette.svg"
                     }
                 ]
             },
             {
                 "name": "Federal Dropship",
-                "preview": "img/preview/federal-dropship-arithon.jpg",
+                "preview":"/static/img/preview/federal-dropship-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -334,17 +334,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/federal-dropship.png"
+                        "link":"/static/img/ship-schematics/arithon/federal-dropship.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/federal-dropship.svg"
+                        "link":"/static/img/ship-schematics/arithon/federal-dropship.svg"
                     }
                 ]
             },
             {
                 "name": "Federal Gunship",
-                "preview": "img/preview/federal-gunship-arithon.jpg",
+                "preview":"/static/img/preview/federal-gunship-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -355,17 +355,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/federal-gunship.png"
+                        "link":"/static/img/ship-schematics/arithon/federal-gunship.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/federal-gunship.svg"
+                        "link":"/static/img/ship-schematics/arithon/federal-gunship.svg"
                     }
                 ]
             },
             {
                 "name": "Fer de Lance",
-                "preview": "img/preview/fer-de-lance-arithon.jpg",
+                "preview":"/static/img/preview/fer-de-lance-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -376,17 +376,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/fer-de-lance.png"
+                        "link":"/static/img/ship-schematics/arithon/fer-de-lance.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/fer-de-lance.svg"
+                        "link":"/static/img/ship-schematics/arithon/fer-de-lance.svg"
                     }
                 ]
             },
             {
                 "name": "GU-97 Imperial Fighter",
-                "preview": "img/preview/gu97-arithon.jpg",
+                "preview":"/static/img/preview/gu97-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -397,17 +397,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/gu97.png"
+                        "link":"/static/img/ship-schematics/arithon/gu97.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/gu97.svg"
+                        "link":"/static/img/ship-schematics/arithon/gu97.svg"
                     }
                 ]
             },
             {
                 "name": "Hauler",
-                "preview": "img/preview/hauler-arithon.jpg",
+                "preview":"/static/img/preview/hauler-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -418,17 +418,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/hauler.png"
+                        "link":"/static/img/ship-schematics/arithon/hauler.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/hauler.svg"
+                        "link":"/static/img/ship-schematics/arithon/hauler.svg"
                     }
                 ]
             },
             {
                 "name": "Imperial Clipper",
-                "preview": "img/preview/imperial-clipper-arithon.jpg",
+                "preview":"/static/img/preview/imperial-clipper-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -439,17 +439,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/imperial-clipper.png"
+                        "link":"/static/img/ship-schematics/arithon/imperial-clipper.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/imperial-clipper.svg"
+                        "link":"/static/img/ship-schematics/arithon/imperial-clipper.svg"
                     }
                 ]
             },
             {
                 "name": "Imperial Courier",
-                "preview": "img/preview/imperial-courier-arithon.jpg",
+                "preview":"/static/img/preview/imperial-courier-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -460,17 +460,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/imperial-courier.png"
+                        "link":"/static/img/ship-schematics/arithon/imperial-courier.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/imperial-courier.svg"
+                        "link":"/static/img/ship-schematics/arithon/imperial-courier.svg"
                     }
                 ]
             },
             {
                 "name": "Imperial Cutter",
-                "preview": "img/preview/imperial-cutter-arithon.jpg",
+                "preview":"/static/img/preview/imperial-cutter-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -481,17 +481,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/imperial-cutter.png"
+                        "link":"/static/img/ship-schematics/arithon/imperial-cutter.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/imperial-cutter.svg"
+                        "link":"/static/img/ship-schematics/arithon/imperial-cutter.svg"
                     }
                 ]
             },
             {
                 "name": "Imperial Eagle",
-                "preview": "img/preview/imperial-eagle-arithon.jpg",
+                "preview":"/static/img/preview/imperial-eagle-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -502,17 +502,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/imperial-eagle.png"
+                        "link":"/static/img/ship-schematics/arithon/imperial-eagle.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/imperial-eagle.svg"
+                        "link":"/static/img/ship-schematics/arithon/imperial-eagle.svg"
                     }
                 ]
             },
             {
                 "name": "Keelback",
-                "preview": "img/preview/keelback-arithon.jpg",
+                "preview":"/static/img/preview/keelback-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -523,17 +523,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/keelback.png"
+                        "link":"/static/img/ship-schematics/arithon/keelback.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/keelback.svg"
+                        "link":"/static/img/ship-schematics/arithon/keelback.svg"
                     }
                 ]
             },
             {
                 "name": "Majestic Class Interdictor",
-                "preview": "img/preview/majestic-interdictor-arithon.jpg",
+                "preview":"/static/img/preview/majestic-interdictor-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -544,17 +544,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/majestic-interdictor.png"
+                        "link":"/static/img/ship-schematics/arithon/majestic-interdictor.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/majestic-interdictor.svg"
+                        "link":"/static/img/ship-schematics/arithon/majestic-interdictor.svg"
                     }
                 ]
             },
             {
                 "name": "Orca",
-                "preview": "img/preview/orca-arithon.jpg",
+                "preview":"/static/img/preview/orca-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -565,17 +565,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/orca.png"
+                        "link":"/static/img/ship-schematics/arithon/orca.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/orca.svg"
+                        "link":"/static/img/ship-schematics/arithon/orca.svg"
                     }
                 ]
             },
             {
                 "name": "Python",
-                "preview": "img/preview/python-arithon.jpg",
+                "preview":"/static/img/preview/python-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -586,17 +586,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/python.png"
+                        "link":"/static/img/ship-schematics/arithon/python.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/python.svg"
+                        "link":"/static/img/ship-schematics/arithon/python.svg"
                     }
                 ]
             },
             {
                 "name": "Scarab SRV",
-                "preview": "img/preview/scarab-srv-arithon.jpg",
+                "preview":"/static/img/preview/scarab-srv-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -607,17 +607,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/scarab-srv.png"
+                        "link":"/static/img/ship-schematics/arithon/scarab-srv.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/scarab-srv.svg"
+                        "link":"/static/img/ship-schematics/arithon/scarab-srv.svg"
                     }
                 ]
             },
             {
                 "name": "Sidewinder Mk I",
-                "preview": "img/preview/sidewinder-arithon.jpg",
+                "preview":"/static/img/preview/sidewinder-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -628,17 +628,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/sidewinder.png"
+                        "link":"/static/img/ship-schematics/arithon/sidewinder.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/sidewinder.svg"
+                        "link":"/static/img/ship-schematics/arithon/sidewinder.svg"
                     }
                 ]
             },
             {
                 "name": "Taipan",
-                "preview": "img/preview/taipan-arithon.jpg",
+                "preview":"/static/img/preview/taipan-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -649,17 +649,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/taipan.png"
+                        "link":"/static/img/ship-schematics/arithon/taipan.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/taipan.svg"
+                        "link":"/static/img/ship-schematics/arithon/taipan.svg"
                     }
                 ]
             },
             {
                 "name": "Type-6 Transporter",
-                "preview": "img/preview/type6-arithon.jpg",
+                "preview":"/static/img/preview/type6-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -670,17 +670,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/type6.png"
+                        "link":"/static/img/ship-schematics/arithon/type6.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/type6.svg"
+                        "link":"/static/img/ship-schematics/arithon/type6.svg"
                     }
                 ]
             },
             {
                 "name": "Type-7 Transporter",
-                "preview": "img/preview/type7-arithon.jpg",
+                "preview":"/static/img/preview/type7-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -691,17 +691,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/type7.png"
+                        "link":"/static/img/ship-schematics/arithon/type7.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/type7.svg"
+                        "link":"/static/img/ship-schematics/arithon/type7.svg"
                     }
                 ]
             },
             {
                 "name": "Viper Mk III",
-                "preview": "img/preview/viper-mk-3-arithon.jpg",
+                "preview":"/static/img/preview/viper-mk-3-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -712,17 +712,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/viper-mk-3.png"
+                        "link":"/static/img/ship-schematics/arithon/viper-mk-3.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/viper-mk-3.svg"
+                        "link":"/static/img/ship-schematics/arithon/viper-mk-3.svg"
                     }
                 ]
             },
             {
                 "name": "Viper Mk IV",
-                "preview": "img/preview/viper-mk-4-arithon.jpg",
+                "preview":"/static/img/preview/viper-mk-4-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -733,17 +733,17 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/viper-mk-4.png"
+                        "link":"/static/img/ship-schematics/arithon/viper-mk-4.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/viper-mk-4.svg"
+                        "link":"/static/img/ship-schematics/arithon/viper-mk-4.svg"
                     }
                 ]
             },
             {
                 "name": "Vulture",
-                "preview": "img/preview/vulture-arithon.jpg",
+                "preview":"/static/img/preview/vulture-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -754,11 +754,11 @@
                 "formats": [
                     {
                         "format": "PNG",
-                        "link": "img/ship-schematics/arithon/vulture.png"
+                        "link":"/static/img/ship-schematics/arithon/vulture.png"
                     },
                     {
                         "format": "SVG",
-                        "link": "img/ship-schematics/arithon/vulture.svg"
+                        "link":"/static/img/ship-schematics/arithon/vulture.svg"
                     }
                 ]
             }

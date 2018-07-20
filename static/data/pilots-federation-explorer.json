@@ -8,7 +8,7 @@
     "types":[
       {
         "name": "1: Aimless",
-        "preview": "img/preview/rank-1-explorer.png",
+        "preview":"/static/img/preview/rank-1-explorer.png",
         "desc": "The 1st explorer rank handed out by Pilots Federation. This decal is not available in-game",
         "fanmade": true,
         "designer_info": [
@@ -20,17 +20,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-1.png"
+            "link":"/static/img/pilots-federation/explorer/rank-1.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-1.svg"
+            "link":"/static/img/pilots-federation/explorer/rank-1.svg"
           }
         ]
       },
       {
         "name": "2: Mostly Aimless",
-        "preview": "img/preview/rank-2-explorer.png",
+        "preview":"/static/img/preview/rank-2-explorer.png",
         "desc": "The 2nd explorer rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -42,17 +42,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-2.png"
+            "link":"/static/img/pilots-federation/explorer/rank-2.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-2.svg"
+            "link":"/static/img/pilots-federation/explorer/rank-2.svg"
           }
         ]
       },
       {
         "name": "3: Scout",
-        "preview": "img/preview/rank-3-explorer.png",
+        "preview":"/static/img/preview/rank-3-explorer.png",
         "desc": "The 3rd explorer rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -64,17 +64,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-3.png"
+            "link":"/static/img/pilots-federation/explorer/rank-3.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-3.svg"
+            "link":"/static/img/pilots-federation/explorer/rank-3.svg"
           }
         ]
       },
       {
         "name": "4: Surveyor",
-        "preview": "img/preview/rank-4-explorer.png",
+        "preview":"/static/img/preview/rank-4-explorer.png",
         "desc": "The 4th explorer rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -86,17 +86,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-4.png"
+            "link":"/static/img/pilots-federation/explorer/rank-4.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-4.svg"
+            "link":"/static/img/pilots-federation/explorer/rank-4.svg"
           }
         ]
       },
       {
         "name": "5: Trailblazer",
-        "preview": "img/preview/rank-5-explorer.png",
+        "preview":"/static/img/preview/rank-5-explorer.png",
         "desc": "The 5th explorer rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -108,17 +108,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-5.png"
+            "link":"/static/img/pilots-federation/explorer/rank-5.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-5.svg"
+            "link":"/static/img/pilots-federation/explorer/rank-5.svg"
           }
         ]
       },
       {
         "name": "6: Pathfinder",
-        "preview": "img/preview/rank-6-explorer.png",
+        "preview":"/static/img/preview/rank-6-explorer.png",
         "desc": "The 6th explorer rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -130,17 +130,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-6.png"
+            "link":"/static/img/pilots-federation/explorer/rank-6.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-6.svg"
+            "link":"/static/img/pilots-federation/explorer/rank-6.svg"
           }
         ]
       },
       {
         "name": "7: Ranger",
-        "preview": "img/preview/rank-7-explorer.png",
+        "preview":"/static/img/preview/rank-7-explorer.png",
         "desc": "The 7th explorer rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -152,17 +152,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-7.png"
+            "link":"/static/img/pilots-federation/explorer/rank-7.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-7.svg"
+            "link":"/static/img/pilots-federation/explorer/rank-7.svg"
           }
         ]
       },
       {
         "name": "8: Pioneer",
-        "preview": "img/preview/rank-8-explorer.png",
+        "preview":"/static/img/preview/rank-8-explorer.png",
         "desc": "The 8th explorer rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -174,17 +174,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-8.png"
+            "link":"/static/img/pilots-federation/explorer/rank-8.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-8.svg"
+            "link":"/static/img/pilots-federation/explorer/rank-8.svg"
           }
         ]
       },
       {
         "name": "9: Elite",
-        "preview": "img/preview/rank-9-explorer.png",
+        "preview":"/static/img/preview/rank-9-explorer.png",
         "desc": "The 9th explorer rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -196,11 +196,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/pilots-federation/explorer/rank-9.png"
+            "link":"/static/img/pilots-federation/explorer/rank-9.png"
           },
           {
             "format":"SVG",
-            "link":"img/pilots-federation/explorer/rank-9.svg"
+            "link":"/static/img/pilots-federation/explorer/rank-9.svg"
           }
         ]
       }

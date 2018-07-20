@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "CQC Championship",
-        "preview": "img/preview/CQC-Championship.png",
+        "preview":"/static/img/preview/CQC-Championship.png",
         "desc": "The CQC Championship logo. Font used is Neuropol.",
         "fanmade": true,
         "designer_info": [
@@ -16,17 +16,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/cqc/CQC-Championship.png"
+            "link":"/static/img/cqc/CQC-Championship.png"
           },
           {
             "format":"SVG",
-            "link":"img/cqc/CQC-Championship.svg"
+            "link":"/static/img/cqc/CQC-Championship.svg"
           }
         ]
       },
       {
         "name": "Enemy flag",
-        "preview": "img/preview/Enemy-flag.png",
+        "preview":"/static/img/preview/Enemy-flag.png",
         "desc": "Icon for the opponent's flag on sensors.",
         "fanmade": true,
         "designer_info": [
@@ -38,17 +38,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/cqc/Enemy-flag.png"
+            "link":"/static/img/cqc/Enemy-flag.png"
           },
           {
             "format":"SVG",
-            "link":"img/cqc/Enemy-flag.svg"
+            "link":"/static/img/cqc/Enemy-flag.svg"
           }
         ]
       },
       {
         "name": "Flag hologram",
-        "preview": "img/preview/Flag-hologram.png",
+        "preview":"/static/img/preview/Flag-hologram.png",
         "desc": "Flag ring icon.",
         "fanmade": true,
         "designer_info": [
@@ -60,17 +60,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/cqc/Flag-hologram.png"
+            "link":"/static/img/cqc/Flag-hologram.png"
           },
           {
             "format":"SVG",
-            "link":"img/cqc/Flag-hologram.svg"
+            "link":"/static/img/cqc/Flag-hologram.svg"
           }
         ]
       },
       {
         "name": "Friendly base",
-        "preview": "img/preview/Friendly-base.png",
+        "preview":"/static/img/preview/Friendly-base.png",
         "desc": "Icon on scanner for friendly flag ring.",
         "fanmade": true,
         "designer_info": [
@@ -82,17 +82,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/cqc/Friendly-base.png"
+            "link":"/static/img/cqc/Friendly-base.png"
           },
           {
             "format":"SVG",
-            "link":"img/cqc/Friendly-base.svg"
+            "link":"/static/img/cqc/Friendly-base.svg"
           }
         ]
       },
       {
         "name": "Friendly escort",
-        "preview": "img/preview/Friendly-escort.png",
+        "preview":"/static/img/preview/Friendly-escort.png",
         "desc": "Icon on scanner for friendly pilot who has the flag.",
         "fanmade": true,
         "designer_info": [
@@ -104,17 +104,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/cqc/Friendly-escort.png"
+            "link":"/static/img/cqc/Friendly-escort.png"
           },
           {
             "format":"SVG",
-            "link":"img/cqc/Friendly-escort.svg"
+            "link":"/static/img/cqc/Friendly-escort.svg"
           }
         ]
       },
       {
         "name": "Objective",
-        "preview": "img/preview/Objective.png",
+        "preview":"/static/img/preview/Objective.png",
         "desc": "Icon for objectives visible on hologram.",
         "fanmade": true,
         "designer_info": [
@@ -126,17 +126,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/cqc/Objective.png"
+            "link":"/static/img/cqc/Objective.png"
           },
           {
             "format":"SVG",
-            "link":"img/cqc/Objective.svg"
+            "link":"/static/img/cqc/Objective.svg"
           }
         ]
       },
       {
         "name": "Shield booster",
-        "preview": "img/preview/Shield.png",
+        "preview":"/static/img/preview/Shield.png",
         "desc": "Shield booster powerup.",
         "fanmade": true,
         "designer_info": [
@@ -148,17 +148,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/cqc/Shield.png"
+            "link":"/static/img/cqc/Shield.png"
           },
           {
             "format":"SVG",
-            "link":"img/cqc/Shield.svg"
+            "link":"/static/img/cqc/Shield.svg"
           }
         ]
       },
       {
         "name": "Speed",
-        "preview": "img/preview/Speed.png",
+        "preview":"/static/img/preview/Speed.png",
         "desc": "Speed powerup.",
         "fanmade": true,
         "designer_info": [
@@ -170,17 +170,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/cqc/Speed.png"
+            "link":"/static/img/cqc/Speed.png"
           },
           {
             "format":"SVG",
-            "link":"img/cqc/Speed.svg"
+            "link":"/static/img/cqc/Speed.svg"
           }
         ]
       },
       {
         "name": "Stealth mode",
-        "preview": "img/preview/Stealth.png",
+        "preview":"/static/img/preview/Stealth.png",
         "desc": "Stealth mode powerup.",
         "fanmade": true,
         "designer_info": [
@@ -192,17 +192,17 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/cqc/Stealth.png"
+            "link":"/static/img/cqc/Stealth.png"
           },
           {
             "format":"SVG",
-            "link":"img/cqc/Stealth.svg"
+            "link":"/static/img/cqc/Stealth.svg"
           }
         ]
       },
       {
         "name": "Weapon damage",
-        "preview": "img/preview/Weapons.png",
+        "preview":"/static/img/preview/Weapons.png",
         "desc": "Weapon damage powerup.",
         "fanmade": true,
         "designer_info": [
@@ -214,11 +214,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"img/cqc/Weapons.png"
+            "link":"/static/img/cqc/Weapons.png"
           },
           {
             "format":"SVG",
-            "link":"img/cqc/Weapons.svg"
+            "link":"/static/img/cqc/Weapons.svg"
           }
         ]
       }

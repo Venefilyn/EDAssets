@@ -10,19 +10,19 @@
         <v-card-media v-if="item.colour" :style="'backgroundColor:' + item.colour" height="200px" contain></v-card-media>
         <v-card-media v-else-if="item.webm" height="200px" contain>
           <video loop autoplay style="margin:auto">
-            <source :src="'/static/' + item.preview" type="video/webm">
+            <source :src="item.preview" type="video/webm">
           </video>
         </v-card-media>
         <v-card-media v-else-if="item.svg" height="200px" contain>
-          <object type="image/svg+xml" :data="'/static/' + item.preview" class="svgAsset"></object>
+          <object type="image/svg+xml" :data="item.preview" class="svgAsset"></object>
         </v-card-media>
-        <v-card-media v-else-if="item.preview" :src="'/static/' + item.preview" height="200px" contain></v-card-media>
+        <v-card-media v-else-if="item.preview" :src="item.preview" height="200px" contain></v-card-media>
         <v-card-text style="word-wrap: break-word">
           {{item.desc}}
         </v-card-text>
         <v-chip v-if="item.fanmade">Fanmade Asset</v-chip>
         <v-card-actions>
-          <v-btn flat v-for="(downloadItem,i) in item.formats" :key="i" :href="'/static/' + downloadItem.link" target="_blank">
+          <v-btn flat v-for="(downloadItem,i) in item.formats" :key="i" :href="downloadItem.link" target="_blank">
             {{downloadItem.format}}
           </v-btn>
         </v-card-actions>

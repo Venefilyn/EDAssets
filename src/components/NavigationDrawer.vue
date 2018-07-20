@@ -1,5 +1,5 @@
 <template>
-  <v-navigation-drawer app v-model="openState">
+  <v-navigation-drawer app v-model="openState" style="max-height:none">
     <v-list>
       <v-list-tile @click="routeTo('/')">
         <v-list-tile-action>

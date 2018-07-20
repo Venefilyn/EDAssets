@@ -15,7 +15,7 @@
     "es6-promise": "^4.2.4",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
-    "vuetify": "^1.1.4",
+    "vuetify": "^1.1.7",
     "vuex": "^3.0.1"
   },
   "devDependencies": {

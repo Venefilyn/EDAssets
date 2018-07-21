@@ -1,5 +1,5 @@
 <template>
-  <v-toolbar app light :extended="extended">
+  <v-toolbar app dark :extended="extended" color="primary">
     <v-toolbar-side-icon @click.stop="toggleDrawer"></v-toolbar-side-icon>
     <v-toolbar-title slot="extension" v-if="extended">
       <v-tooltip bottom>

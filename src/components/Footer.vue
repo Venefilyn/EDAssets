@@ -1,8 +1,8 @@
 <template>
-  <v-footer app absolute :height="footerHeight" inset>
+  <v-footer app absolute :height="footerHeight" inset color="primary darken-2" dark style="background-image: url('/static/img/bg.png');">
     <v-layout wrap style="padding: 0 12px">
     <v-flex xs12 sm3>
-      <div>
+      <div class="creditLink" :style="cssProps">
         Created by CMDR SpyTec and CMDR Garud<br>
         <a href="https://www.github.com/SpyTec/EDAssets">Source code</a><br>
         <a href="mailto:spytec@protonmail.ch?subject=[EDAssets]">Email</a><br>
@@ -26,17 +26,32 @@ export default {
     return {
       footerHeight: 152
     }
+  },
+  computed: {
+    cssProps () {
+      return {
+        '--accent': this.$vuetify.theme.accent,
+        '--accent-light': this.$vuetify.theme.accentLight
+      }
+    }
   }
 }
 </script>
 
 <style scoped>
-  .v-footer {
-    background: #13222A url("/static/img/bg.png");
-    color: rgb(76, 107, 138);
+  .creditLink a {
+    color: var(--accent);
+    text-decoration: none;
+    transition: color 150ms;
+  }
+
+  .creditLink a:hover {
+    transition: color 150ms;
+    color: var(--accent-light);
   }
 
   .logoImage {
     position: absolute;
+    z-index: -10
   }
 </style>

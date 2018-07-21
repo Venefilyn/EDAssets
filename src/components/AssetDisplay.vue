@@ -1,6 +1,6 @@
 <template>
   <v-layout wrap>
-    <v-flex xs12 sm6 md4 lg3 xl1 v-for="(item,i) in currentAssetData.types" :key="i">
+    <v-flex xs12 sm6 md4 lg3 xl2 v-for="(item,i) in currentAssetData.types" :key="i">
       <ed-asset-card :cardData="item"></ed-asset-card>
     </v-flex>
   </v-layout>

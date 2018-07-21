@@ -7,8 +7,17 @@ import router from './router'
 import store from './store'
 import 'vuetify/dist/vuetify.min.css'
 
+import colors from 'vuetify/es5/util/colors'
+
 Vue.config.productionTip = false
-Vue.use(Vuetify)
+Vue.use(Vuetify, {
+  theme: {
+    primary: colors.blueGrey.darken2,
+    secondary: colors.cyan.darken3,
+    accent: colors.cyan.accent4,
+    accentLight: colors.cyan.accent2
+  }
+})
 
 /* eslint-disable no-new */
 new Vue({

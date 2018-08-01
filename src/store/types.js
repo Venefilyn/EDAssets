@@ -57,7 +57,7 @@ const mutations = {
 const actions = {
   async fetchTypes ({ commit, state, dispatch }) {
     try {
-      let response = await axios.get('/static/data/types.json')
+      let response = await axios.get('/static/types.json')
       let typeResponse = response.data.sort((a, b) => {
         if (a.name > b.name) {
           return 1

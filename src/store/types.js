@@ -18,7 +18,8 @@ const mutations = {
       state.navLists.push({
         name: type.name,
         children: [],
-        link: '/' + linkElement(type.name)
+        link: '/' + linkElement(type.name),
+        icon: type.icon
       })
     })
   },

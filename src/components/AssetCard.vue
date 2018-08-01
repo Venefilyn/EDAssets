@@ -65,7 +65,12 @@ export default {
   },
   computed: {
     dummyInputId: function () {
-      return this.cardData.name.replace(/[^\w]/g, '').toLowerCase()
+      let input = this.cardData.name.replace(/[^\w]/g, '').toLowerCase()
+      if (input[0].match(/[A-Z]/gi)) {
+        return input
+      } else {
+        return 'x' + input
+      }
     }
   },
   props: {

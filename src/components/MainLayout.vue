@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <ed-navigation-drawer :nav-list="navLists" :openState="drawer"></ed-navigation-drawer>
+    <ed-navigation-drawer :nav-list="navLists" v-model="drawer"></ed-navigation-drawer>
     <ed-toolbar @toggleDrawer="drawer = !drawer" :subTitle="currentSelected.name" :desc="currentSelected.desc" :zips="currentSelected.zips"></ed-toolbar>
     <v-content>
       <v-container fluid grid-list-lg :style="containerStyle" :fill-height="fillHeight">

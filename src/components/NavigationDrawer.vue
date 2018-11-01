@@ -1,5 +1,5 @@
 <template>
-  <v-navigation-drawer app v-model="openState" style="max-height:none">
+  <v-navigation-drawer app v-model="drawerState" style="max-height:none">
     <v-list>
       <v-list-tile @click="routeTo('/')">
         <v-list-tile-action>
@@ -61,7 +61,17 @@ export default {
   name: 'NavigationDrawer',
   props: {
     navList: Array,
-    openState: Boolean
+    value: Boolean
+  },
+  computed: {
+    drawerState () {
+      return this.value
+    }
+  },
+  watch: {
+    drawerState () {
+      this.$emit('input', this.drawerState)
+    }
   },
   methods: {
     routeTo: function (link) {
@@ -73,16 +83,16 @@ export default {
 </script>
 
 <style>
-  .ed::before {
-    margin-top: 100%;
-  }
+.ed::before {
+  margin-top: 100%;
+}
 </style>
 
 <style scoped>
-  .indentOne {
-    padding-left: 16px;
-  }
-  .indentTwo {
-    padding-left: 30px;
-  }
+.indentOne {
+  padding-left: 16px;
+}
+.indentTwo {
+  padding-left: 30px;
+}
 </style>

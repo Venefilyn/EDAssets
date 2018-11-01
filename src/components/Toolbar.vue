@@ -13,7 +13,7 @@
       <v-btn v-for="(zip,i) in zips" :key="i" flat :href="zip.link">{{zip.format}}</v-btn>
     </v-toolbar-items>
     <router-link to="/">
-      <img src="/static/img/edassets.png">
+      <img src="/static/img/edassets-white.png">
     </router-link>
     <v-toolbar-title>ELITE DANGEROUS ASSETS</v-toolbar-title>
   </v-toolbar>

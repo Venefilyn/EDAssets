@@ -113,8 +113,8 @@
         ]
       },
       {
-        "name": "Maintain Position",
-        "preview":"/static/img/preview/maintain_position.png",
+        "name": "Maintain Formation",
+        "preview":"/static/img/preview/maintain_formation.png",
         "desc": "Follow in formation.",
         "fanmade": true,
         "designer_info": [
@@ -126,11 +126,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"/static/img/npc-commands/maintain_position.png"
+            "link":"/static/img/npc-commands/maintain_formation.png"
           },
           {
             "format":"SVG",
-            "link":"/static/img/npc-commands/maintain_position.svg"
+            "link":"/static/img/npc-commands/maintain_formation.svg"
           }
         ]
       },

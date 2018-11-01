@@ -4,7 +4,7 @@
         "desc":"The ranks given out by Pilots Federation",
         "preview":"/static/img/preview/rank-9.png",
         "file":"pilots-federation.json",
-        "icon":"settings",
+        "icon":"ed-rank-9",
         "zipurl": [
             {
               "format":"All formats",
@@ -29,7 +29,7 @@
         "desc":"Station icons",
         "preview":"/static/img/preview/Ocellus.png",
         "file":"stations.json",
-        "icon":"settings",
+        "icon":"ed-coriolis-sm",
         "zipurl": [
             {
               "format":"All formats",
@@ -50,7 +50,7 @@
         "desc":"Power icons",
         "preview":"/static/img/preview/denton-patreus.png",
         "file":"powers.json",
-        "icon":"settings",
+        "icon":"ed-zemina-torval",
         "zipurl": [
             {
               "format":"All formats",
@@ -71,7 +71,7 @@
         "desc":"Faction logotypes",
         "preview":"/static/img/preview/Federation.png",
         "file":"factions.json",
-        "icon":"settings",
+        "icon":"ed-alliance",
         "zipurl": [
             {
               "format":"All formats",
@@ -92,7 +92,7 @@
         "desc":"The Ethos icons for each Power",
         "preview":"/static/img/preview/Social.png",
         "file":"power-ethos.json",
-        "icon":"settings",
+        "icon":"ed-social",
         "zipurl": [
             {
               "format":"All formats",
@@ -113,7 +113,7 @@
         "desc":"Power related icons, such as Expanding and Fortifying",
         "preview":"/static/img/preview/Fortifying.png",
         "file":"power-related.json",
-        "icon":"settings",
+        "icon":"ed-fortifying",
         "zipurl": [
             {
               "format":"All formats",
@@ -134,7 +134,7 @@
         "desc":"Miscellaneous icons.",
         "preview":"/static/img/preview/Onionhead.png",
         "file":"misc.json",
-        "icon":"settings",
+        "icon":"ed-barnacles-logo",
         "zipurl": [
             {
               "format":"All formats",
@@ -155,7 +155,7 @@
         "desc":"Various images containing character portraits.",
         "preview":"/static/img/preview/Denton-Patreus-portrait.png",
         "file":"portraits.json",
-        "icon":"settings",
+        "icon":"ed-friends-galaxy-map",
         "zipurl": [
             {
               "format":"JPG",
@@ -171,14 +171,14 @@
         "name":"Fonts",
         "desc":"Various fonts used in-game and on the official website.",
         "preview":"/static/img/preview/Eurostile.png",
-        "icon":"settings",
+        "icon":"font_download",
         "file":"fonts.json"
     },
     {
         "name":"Ship schematics",
         "desc":"Various ship schematics.",
         "preview":"/static/img/preview/Fer-de-Lance_schematic.png",
-        "icon":"settings",
+        "icon":"ed-condor-fighter-topdown",
         "file":"ship-schematics.json"
     },
     {
@@ -186,7 +186,7 @@
         "desc":"The official Elite Dangerous logos.",
         "preview":"/static/img/preview/elite-dangerous-logo_grey.png",
         "file":"ed-logos.json",
-        "icon":"settings",
+        "icon":"ed-elite-dangerous-minimalistic",
         "zipurl": [
             {
               "format":"PNGs",
@@ -203,7 +203,7 @@
         "desc":"In-game companies.",
         "preview":"/static/img/preview/Universal-Cartographics.png",
         "file":"companies.json",
-        "icon":"settings",
+        "icon":"ed-bank-of-zaonce",
         "zipurl": [
             {
               "format":"All formats",
@@ -223,7 +223,7 @@
         "name":"Colours",
         "desc":"In-game colours.",
         "colour": "#00b3f7",
-        "icon":"settings",
+        "icon":"palette",
         "file":"colours.json"
     },
     {
@@ -231,7 +231,7 @@
         "desc":"Galaxy Map icons.",
         "preview":"/static/img/preview/Friends-galaxy-map.png",
         "file":"galaxy-map.json",
-        "icon":"settings",
+        "icon":"ed-map-galaxy-map",
         "zipurl": [
             {
               "format":"All formats",
@@ -252,7 +252,7 @@
         "desc":"Animated logotypes from in-game.",
         "webm":true,
         "preview":"/static/img/preview/Federation-animated.webm",
-        "icon":"settings",
+        "icon":"gif",
         "file":"animated.json"
     },
     {
@@ -260,7 +260,7 @@
         "desc":"Manufacturer icons.",
         "preview":"/static/img/preview/remlok.png",
         "file":"manufacturers.json",
-        "icon":"settings",
+        "icon":"ed-core-dynamics-logo",
         "zipurl": [
             {
               "format":"All formats",
@@ -281,7 +281,7 @@
         "desc":"Close Quarter Combat icons.",
         "preview":"/static/img/preview/CQC-Championship.png",
         "file":"cqc.json",
-        "icon":"settings",
+        "icon":"ed-cqc-championship",
         "zipurl": [
             {
               "format":"All formats",
@@ -302,7 +302,7 @@
         "desc":"Ship decals.",
         "preview":"/static/img/preview/Planet2.png",
         "file":"decals.json",
-        "icon":"settings",
+        "icon":"ed-founder1",
         "zipurl": [
             {
               "format":"All formats",
@@ -323,7 +323,7 @@
         "desc":"Craft and loot materials.",
         "preview":"/static/img/preview/grade-5.png",
         "file":"materials.json",
-        "icon":"settings",
+        "icon":"ed-grade-5",
         "zipurl": [
             {
               "format":"All formats",
@@ -344,7 +344,7 @@
         "desc":"Mission icons.",
         "preview":"/static/img/preview/base-assault.png",
         "file":"missions.json",
-        "icon":"settings",
+        "icon":"ed-courier",
         "zipurl": [
             {
               "format":"All formats",
@@ -365,7 +365,7 @@
         "desc":"Planetary bases icons.",
         "preview":"/static/img/preview/surface_port_pm.png",
         "file":"settlements.json",
-        "icon":"settings",
+        "icon":"ed-surface-port-sm",
         "zipurl": [
             {
               "format":"All formats",
@@ -385,7 +385,7 @@
         "name":"Concept Art",
         "desc":"Elite Dangerous concept art",
         "preview":"/static/img/preview/tn_benandrews_settlement_modules_1.jpg",
-        "icon":"settings",
+        "icon":"insert_photo",
         "file":"concept-art.json"
     },
     {
@@ -393,7 +393,7 @@
         "desc":"Wingman icons.",
         "preview":"/static/img/preview/wings-icon-04.png",
         "file":"wings.json",
-        "icon":"settings",
+        "icon":"ed-wings-galaxy-map",
         "zipurl": [
             {
               "format":"All formats",
@@ -413,7 +413,7 @@
         "name":"Engineers",
         "desc":"Engineer related icons, such as thermal attack or grade icon.",
         "preview":"/static/img/preview/thermal-attack.png",
-        "icon":"settings",
+        "icon":"ed-engineer-icon",
         "file":"engineers.json"
     },
     {
@@ -421,7 +421,7 @@
         "desc":"Icons that appear in outfitting screen.",
         "preview":"/static/img/preview/ed-turret.png",
         "file":"outfitting.json",
-        "icon":"settings",
+        "icon":"ed-ed-turret",
         "zipurl": [
             {
               "format":"All formats",
@@ -442,7 +442,7 @@
         "desc":"As shown in NPC screen between legs.",
         "preview":"/static/img/preview/recall_fighter.png",
         "file":"npc-commands.json",
-        "icon":"settings",
+        "icon":"ed-recall-fighter",
         "zipurl": [
             {
               "format":"All formats",
@@ -463,7 +463,7 @@
         "desc":"Top down views of fighters.",
         "preview":"/static/img/preview/Taipan_fighter_topdown.png",
         "file":"fighters.json",
-        "icon":"settings",
+        "icon":"ed-taipan-fighter-topdown",
         "zipurl": [
             {
               "format":"All formats",

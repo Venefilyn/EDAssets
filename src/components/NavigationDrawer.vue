@@ -56,15 +56,6 @@
   </v-navigation-drawer>
 </template>
 
-<style scoped>
-  .indentOne {
-    padding-left: 16px;
-  }
-  .indentTwo {
-    padding-left: 30px;
-  }
-</style>
-
 <script>
 export default {
   name: 'NavigationDrawer',
@@ -80,3 +71,18 @@ export default {
   }
 }
 </script>
+
+<style>
+  .ed::before {
+    margin-top: 100%;
+  }
+</style>
+
+<style scoped>
+  .indentOne {
+    padding-left: 16px;
+  }
+  .indentTwo {
+    padding-left: 30px;
+  }
+</style>

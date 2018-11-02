@@ -16,11 +16,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"/static/img/npc-commands/attack-target.png"
+            "link":"/static/img/npc-commands/attack_target.png"
           },
           {
             "format":"SVG",
-            "link":"/static/img/npc-commands/attack-target.svg"
+            "link":"/static/img/npc-commands/attack_target.svg"
           }
         ]
       },

@@ -1,5 +1,5 @@
 <template>
-  <v-card height="100%">
+  <v-card>
     <v-card-title primary-title>
       <div>
         <h3>{{cardData.name}}</h3>
@@ -15,7 +15,7 @@
       <object type="image/svg+xml" :data="cardData.preview" class="svgAsset"></object>
     </v-card-media>
     <v-card-media v-else-if="cardData.preview" :src="cardData.preview" height="200px" contain></v-card-media>
-    <v-chip :style="{visibility: cardData.fanmade ? 'visible' : 'hidden'}" color="accent" text-color="black">Fanmade Asset</v-chip>
+    <v-chip :class="{'hide-card': cardData.fanmade}" color="accent" text-color="black">Fanmade Asset</v-chip>
     <v-card-actions>
       <v-btn color="secondary" flat v-for="(downloadCardData,i) in cardData.formats" :key="i" :href="downloadCardData.link" target="_blank">
         {{downloadCardData.format}}
@@ -119,5 +119,9 @@ export default {
 
   .bottomPadding {
     padding: 0px 16px 16px 16px
+  }
+
+  .hide-card {
+    visibility: 'hidden'
   }
 </style>

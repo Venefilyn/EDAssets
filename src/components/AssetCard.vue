@@ -126,6 +126,6 @@ export default {
   }
 
   .asset-title {
-    height: 2em;
+    height: 2.1rem;
   }
 </style>

@@ -15,7 +15,7 @@
       <object type="image/svg+xml" :data="cardData.preview" class="svgAsset"></object>
     </v-card-media>
     <v-card-media v-else-if="cardData.preview" :src="cardData.preview" height="200px" contain></v-card-media>
-    <v-chip :class="{'hide-card': cardData.fanmade}" color="accent" text-color="black">Fanmade Asset</v-chip>
+    <v-chip :class="{'hide-card': !cardData.fanmade}" color="accent" text-color="black">Fanmade Asset</v-chip>
     <v-card-actions>
       <v-btn color="secondary" flat v-for="(downloadCardData,i) in cardData.formats" :key="i" :href="downloadCardData.link" target="_blank">
         {{downloadCardData.format}}
@@ -122,6 +122,6 @@ export default {
   }
 
   .hide-card {
-    visibility: 'hidden'
+    visibility: hidden;
   }
 </style>

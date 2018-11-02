@@ -2,7 +2,7 @@
   <v-card>
     <v-card-title primary-title>
       <div>
-        <h3>{{cardData.name}}</h3>
+        <h3 class="asset-title">{{cardData.name}}</h3>
       </div>
     </v-card-title>
     <v-card-media v-if="cardData.colour" :style="'backgroundColor:' + cardData.colour" height="200px" contain></v-card-media>
@@ -123,5 +123,9 @@ export default {
 
   .hide-card {
     visibility: 'hidden'
+  }
+
+  .asset-title {
+    height: 2em;
   }
 </style>

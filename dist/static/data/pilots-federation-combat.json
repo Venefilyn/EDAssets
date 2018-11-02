@@ -1,0 +1,209 @@
+[
+  {
+    "name":"Combat",
+    "issubcat":{
+      "name":"Pilots Federation ranks",
+      "file":"pilots-federation.json"
+    },
+    "types":[
+      {
+        "name": "1: Harmless",
+        "preview":"/static/img/preview/rank-1-combat.png",
+        "desc": "The 1st combat rank handed out by Pilots Federation. This decal is not available in-game",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/combat/rank-1-combat.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/combat/rank-1-combat.svg"
+          }
+        ]
+      },
+      {
+        "name": "2: Mostly Harmless",
+        "preview":"/static/img/preview/rank-2-combat.png",
+        "desc": "The 2nd combat rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/combat/rank-2-combat.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/combat/rank-2-combat.svg"
+          }
+        ]
+      },
+      {
+        "name": "3: Novice",
+        "preview":"/static/img/preview/rank-3-combat.png",
+        "desc": "The 3rd combat rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/combat/rank-3-combat.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/combat/rank-3-combat.svg"
+          }
+        ]
+      },
+      {
+        "name": "4: Competent",
+        "preview":"/static/img/preview/rank-4-combat.png",
+        "desc": "The 4th combat rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/combat/rank-4-combat.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/combat/rank-4-combat.svg"
+          }
+        ]
+      },
+      {
+        "name": "5: Expert",
+        "preview":"/static/img/preview/rank-5-combat.png",
+        "desc": "The 5th combat rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/combat/rank-5-combat.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/combat/rank-5-combat.svg"
+          }
+        ]
+      },
+      {
+        "name": "6: Master",
+        "preview":"/static/img/preview/rank-6-combat.png",
+        "desc": "The 6th combat rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/combat/rank-6-combat.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/combat/rank-6-combat.svg"
+          }
+        ]
+      },
+      {
+        "name": "7: Dangerous",
+        "preview":"/static/img/preview/rank-7-combat.png",
+        "desc": "The 7th combat rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/combat/rank-7-combat.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/combat/rank-7-combat.svg"
+          }
+        ]
+      },
+      {
+        "name": "8: Deadly",
+        "preview":"/static/img/preview/rank-8-combat.png",
+        "desc": "The 8th combat rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/combat/rank-8-combat.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/combat/rank-8-combat.svg"
+          }
+        ]
+      },
+      {
+        "name": "9: Elite",
+        "preview":"/static/img/preview/rank-9-combat.png",
+        "desc": "The 9th combat rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/combat/rank-9-combat.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/combat/rank-9-combat.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

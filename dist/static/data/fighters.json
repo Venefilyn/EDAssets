@@ -1,0 +1,73 @@
+[
+  {
+    "name":"Fighters",
+    "types":[
+      {
+        "name": "Condor fighter",
+        "preview":"/static/img/preview/Condor_fighter_topdown.png",
+        "desc": "Top down of Federal F63 Fighter",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Nuse",
+            "url":"https://www.reddit.com/user/XCNuse"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/fighters/Condor_fighter_topdown.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/fighters/Condor_fighter_topdown.svg"
+          }
+        ]
+      },
+      {
+        "name": "Imperial fighter",
+        "preview":"/static/img/preview/Imperial_fighter_topdown.png",
+        "desc": "Top down of Imperial Gu-97 Fighter",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Nuse",
+            "url":"https://www.reddit.com/user/XCNuse"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/fighters/Imperial_fighter_topdown.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/fighters/Imperial_fighter_topdown.svg"
+          }
+        ]
+      },
+      {
+        "name": "Taipan fighter",
+        "preview":"/static/img/preview/Taipan_fighter_topdown.png",
+        "desc": "Top down of the Taipan Fighter",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Nuse",
+            "url":"https://www.reddit.com/user/XCNuse"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/fighters/Taipan_fighter_topdown.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/fighters/Taipan_fighter_topdown.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

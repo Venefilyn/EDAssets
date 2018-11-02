@@ -1,0 +1,96 @@
+[
+  {
+    "name":"Fonts",
+    "types":[
+      {
+        "name": "Century Gothic",
+        "preview":"/static/img/preview/Century-Gothic.png",
+        "desc": "The Galnet font.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Monotype",
+            "url":"http://www.fonts.com/browse/designers/monotype"
+          }
+        ],
+        "formats": [
+          {
+            "format":"link",
+            "link":"http://www.fonts.com/font/monotype/century-gothic/regular"
+          }
+        ]
+      },
+      {
+        "name": "Euro Caps",
+        "preview":"/static/img/preview/Euro-Caps.png",
+        "desc": "The heading font.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Ash Pikachu Font",
+            "url":"http://www.dafont.com/profile.php?user=298681"
+          }
+        ],
+        "formats": [
+          {
+            "format":"link",
+            "link":"http://www.dafont.com/euro-caps.font"
+          }
+        ]
+      },
+      {
+        "name": "Eurostile® Roman",
+        "preview":"/static/img/preview/Eurostile.png",
+        "desc": "The heading font used on the official website.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Aldo Novarese",
+            "url":"http://www.fonts.com/browse/designers/aldo-novarese"
+          }
+        ],
+        "formats": [
+          {
+            "format":"link",
+            "link":"http://www.fonts.com/font/linotype/eurostile/roman/web-font"
+          }
+        ]
+      },
+      {
+        "name": "Sintony",
+        "preview":"/static/img/preview/Sintony.png",
+        "desc": "The paragraph font.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Eduardo Rodriguez Tunni"
+          }
+        ],
+        "formats": [
+          {
+            "format":"link",
+            "link":"https://www.google.com/fonts/specimen/Sintony"
+          }
+        ]
+      },
+      {
+        "name": "Telegrama",
+        "preview":"/static/img/preview/Telegrama.png",
+        "desc": "The font used for numbers.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"YOFonts",
+            "link":"http://www.yoworks.com/"
+          }
+        ],
+        "formats": [
+          {
+            "format":"link",
+            "link":"http://www.fontsquirrel.com/fonts/telegrama"
+          }
+        ]
+      }
+    ]
+  }
+]

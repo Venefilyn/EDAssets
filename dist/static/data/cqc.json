@@ -1,0 +1,227 @@
+[
+  {
+    "name":"Close Quarters Combat Championship",
+    "types":[
+      {
+        "name": "CQC Championship",
+        "preview":"/static/img/preview/CQC-Championship.png",
+        "desc": "The CQC Championship logo. Font used is Neuropol.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/cqc/CQC-Championship.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/cqc/CQC-Championship.svg"
+          }
+        ]
+      },
+      {
+        "name": "Enemy flag",
+        "preview":"/static/img/preview/Enemy-flag.png",
+        "desc": "Icon for the opponent's flag on sensors.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/cqc/Enemy-flag.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/cqc/Enemy-flag.svg"
+          }
+        ]
+      },
+      {
+        "name": "Flag hologram",
+        "preview":"/static/img/preview/Flag-hologram.png",
+        "desc": "Flag ring icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/cqc/Flag-hologram.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/cqc/Flag-hologram.svg"
+          }
+        ]
+      },
+      {
+        "name": "Friendly base",
+        "preview":"/static/img/preview/Friendly-base.png",
+        "desc": "Icon on scanner for friendly flag ring.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/cqc/Friendly-base.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/cqc/Friendly-base.svg"
+          }
+        ]
+      },
+      {
+        "name": "Friendly escort",
+        "preview":"/static/img/preview/Friendly-escort.png",
+        "desc": "Icon on scanner for friendly pilot who has the flag.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/cqc/Friendly-escort.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/cqc/Friendly-escort.svg"
+          }
+        ]
+      },
+      {
+        "name": "Objective",
+        "preview":"/static/img/preview/Objective.png",
+        "desc": "Icon for objectives visible on hologram.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/cqc/Objective.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/cqc/Objective.svg"
+          }
+        ]
+      },
+      {
+        "name": "Shield booster",
+        "preview":"/static/img/preview/Shield.png",
+        "desc": "Shield booster powerup.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/cqc/Shield.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/cqc/Shield.svg"
+          }
+        ]
+      },
+      {
+        "name": "Speed",
+        "preview":"/static/img/preview/Speed.png",
+        "desc": "Speed powerup.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/cqc/Speed.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/cqc/Speed.svg"
+          }
+        ]
+      },
+      {
+        "name": "Stealth mode",
+        "preview":"/static/img/preview/Stealth.png",
+        "desc": "Stealth mode powerup.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/cqc/Stealth.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/cqc/Stealth.svg"
+          }
+        ]
+      },
+      {
+        "name": "Weapon damage",
+        "preview":"/static/img/preview/Weapons.png",
+        "desc": "Weapon damage powerup.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/cqc/Weapons.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/cqc/Weapons.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

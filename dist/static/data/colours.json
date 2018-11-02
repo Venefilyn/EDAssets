@@ -1,0 +1,51 @@
+[
+  {
+    "name":"Colours",
+    "subcats":[
+      {
+        "name":"Powerplay colours",
+        "desc":"The powers specific colour.",
+        "preview":"/static/img/preview/Aisling-Duval-portrait.png",
+        "file":"colours-powerplay.json"
+      }
+    ],
+    "types":[
+      {
+        "name": "#00b3f7",
+        "colour": "#00b3f7",
+        "desc": "The blue colour. Also the colour of Empire factions and powers.",
+        "fanmade": false
+      },
+      {
+        "name": "#0a8bd6",
+        "colour": "#0a8bd6",
+        "desc": "The Horizons blue colour.",
+        "fanmade": false
+      },
+      {
+        "name": "#029e4c",
+        "colour": "#029e4c",
+        "desc": "The colour of Alliance factions and powers.",
+        "fanmade": false
+      },
+      {
+        "name": "#ff0000",
+        "colour": "#ff0000",
+        "desc": "The red colour. Also the colour of Federation factions and powers.",
+        "fanmade": false
+      },
+      {
+        "name": "#ff7100",
+        "colour": "#ff7100",
+        "desc": "The orange colour. Also the colour of independent factions.",
+        "fanmade": false
+      },
+      {
+        "name": "#ffb000",
+        "colour": "#ffb000",
+        "desc": "The colour of pledged allegiance to a power. Also the colour of independent powers.",
+        "fanmade": false
+      }
+    ]
+  }
+]

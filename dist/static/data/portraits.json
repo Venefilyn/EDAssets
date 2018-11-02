@@ -1,0 +1,195 @@
+[
+  {
+    "name":"Character portraits",
+    "subcats":[
+      {
+        "name":"Colours of Powers",
+        "desc":"The specific colour of each power",
+        "colour":"#0099ff",
+        "file":"colours-powerplay.json"
+      }
+    ],
+    "types":[
+      {
+        "name": "Aisling Duval",
+        "preview":"/static/img/preview/Aisling-Duval-portrait.png",
+        "desc": "The Aisling Duval portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"http://us2.campaign-archive1.com/?u=dcbf6b86b4b0c7d1c21b73b1e&id=347cbf826e"
+          }
+        ],
+        "formats": [
+          {
+            "format":"JPG",
+            "link":"/static/img/portraits/Aisling-Duval-portrait.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Archon Delaine",
+        "preview":"/static/img/preview/Archon-Delaine-portrait.png",
+        "desc": "Low quality Archon Delaine portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/portraits/Archon-Delaine-portrait.png"
+          }
+        ]
+      },
+      {
+        "name": "Arissa Lavigny-Duval",
+        "preview":"/static/img/preview/Arissa-Lavigny-Duval-portrait.png",
+        "desc": "Low quality Arissa Lavigny-Duval portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/portraits/Arissa-Lavigny-Duval-portrait.png"
+          }
+        ]
+      },
+      {
+        "name": "Denton Patreus",
+        "preview":"/static/img/preview/Denton-Patreus-portrait.png",
+        "desc": "The Denton Patreus portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"http://us2.campaign-archive2.com/?u=dcbf6b86b4b0c7d1c21b73b1e&id=b0a8ebba0b"
+          }
+        ],
+        "formats": [
+          {
+            "format":"JPG",
+            "link":"/static/img/portraits/Denton-Patreus-portrait.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Edmund Mahon",
+        "preview":"/static/img/preview/Edmund-Mahon-portrait.png",
+        "desc": "Low quality Edmund Mahon portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/portraits/Edmund-Mahon-portrait.png"
+          }
+        ]
+      },
+      {
+        "name": "Felicia Winters",
+        "preview":"/static/img/preview/Felicia-Winters-portrait.png",
+        "desc": "Low quality Felicia Winters portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/portraits/Felicia-Winters-portrait.png"
+          }
+        ]
+      },
+      {
+        "name": "Li Yong-Rui",
+        "preview":"/static/img/preview/Li-Yong-Rui-portrait.png",
+        "desc": "Low quality Li Yong-Rui portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/portraits/Li-Yong-Rui-portrait.png"
+          }
+        ]
+      },
+      {
+        "name": "Simguru Pranav Antal",
+        "preview":"/static/img/preview/Pranav-Antal-portrait.png",
+        "desc": "Low quality Simguru Pranav Antal portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/portraits/Pranav-Antal-portrait.png"
+          }
+        ]
+      },
+      {
+        "name": "Zachary Hudson",
+        "preview":"/static/img/preview/Zachary-Hudson-portrait.png",
+        "desc": "Low quality Zachary Hudson portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/portraits/Zachary-Hudson-portrait.png"
+          }
+        ]
+      },
+      {
+        "name": "Zemina Torval",
+        "preview":"/static/img/preview/Zemina-Torval-portrait.png",
+        "desc": "Low quality Zemina Torval portrait.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/portraits/Zemina-Torval-portrait.png"
+          }
+        ]
+      }
+    ]
+  }
+]

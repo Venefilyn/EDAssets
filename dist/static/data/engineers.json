@@ -1,0 +1,51 @@
+[
+    {
+        "name":"Engineers",
+        "subcats":[
+            {
+                "name":"Engineer Effects",
+                "desc":"Ship effects caused by engineer special effects.",
+                "preview":"/static/img/preview/thermal-attack.png",
+                "file":"engineer-effects.json",
+                "zipurl": [
+                    {
+                        "format":"All formats",
+                        "link":"/static/img/engineer-effects/all.zip"
+                    },
+                    {
+                        "format":"PNGs",
+                        "link":"/static/img/engineer-effects/pngs.zip"
+                    },
+                    {
+                        "format":"SVGs",
+                        "link":"/static/img/engineer-effects/svgs.zip"
+                    }
+                ]
+            }
+        ],
+        "types":[
+            {
+                "name": "Engineer Icon",
+                "preview":"/static/img/preview/Engineer_icon.png",
+                "desc": "Icon used for engineers and their grading system.",
+                "fanmade": true,
+                "designer_info": [
+                  {
+                    "name":"CMDR Robert Phillips",
+                    "url":"https://inara.cz/cmdr/34280/"
+                  }
+                ],
+                "formats": [
+                  {
+                    "format":"PNG",
+                    "link":"/static/img/engineers/Engineer_icon.png"
+                  },
+                  {
+                    "format":"SVG",
+                    "link":"/static/img/engineers/Engineer_icon.svg"
+                  }
+                ]
+            }
+        ]
+    }
+]

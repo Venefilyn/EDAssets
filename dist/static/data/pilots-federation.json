@@ -1,0 +1,287 @@
+[
+  {
+    "name":"Pilots Federation ranks",
+    "subcats":[
+      {
+        "name":"Combat",
+        "desc":"Combat ranks.",
+        "preview":"/static/img/preview/rank-9-combat.png",
+        "file":"pilots-federation-combat.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"/static/img/pilots-federation/combat/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"/static/img/pilots-federation/combat/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"/static/img/pilots-federation/combat/svgs.zip"
+            }
+        ]
+      },
+      {
+        "name":"CQC",
+        "desc":"CQC ranks.",
+        "preview":"/static/img/preview/rank-9-cqc.png",
+        "file":"pilots-federation-cqc.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"/static/img/pilots-federation/cqc/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"/static/img/pilots-federation/cqc/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"/static/img/pilots-federation/cqc/svgs.zip"
+            }
+        ]
+      },
+      {
+        "name":"Explorer",
+        "desc":"Explorer ranks.",
+        "preview":"/static/img/preview/rank-9-explorer.png",
+        "file":"pilots-federation-explorer.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"/static/img/pilots-federation/explorer/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"/static/img/pilots-federation/explorer/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"/static/img/pilots-federation/explorer/svgs.zip"
+            }
+        ]
+      },
+      {
+        "name":"Trading",
+        "desc":"Trading ranks.",
+        "preview":"/static/img/preview/rank-9-trading.png",
+        "file":"pilots-federation-trading.json",
+        "zipurl": [
+            {
+              "format":"All formats",
+              "link":"/static/img/pilots-federation/trading/all.zip"
+            },
+            {
+              "format":"PNG",
+              "link":"/static/img/pilots-federation/trading/pngs.zip"
+            },
+            {
+              "format":"SVG",
+              "link":"/static/img/pilots-federation/trading/svgs.zip"
+            }
+        ]
+      }
+    ],
+    "types":[
+      {
+        "name": "Rank 1",
+        "preview":"/static/img/preview/rank-1.png",
+        "desc": "The 1st rank handed out by Pilots Federation.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/rank-1.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/rank-1.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 2",
+        "preview":"/static/img/preview/rank-2.png",
+        "desc": "The 2nd rank handed out by Pilots Federation.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/rank-2.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/rank-2.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 3",
+        "preview":"/static/img/preview/rank-3.png",
+        "desc": "The 3rd rank handed out by Pilots Federation.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/rank-3.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/rank-3.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 4",
+        "preview":"/static/img/preview/rank-4.png",
+        "desc": "The 4th rank handed out by Pilots Federation.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/rank-4.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/rank-4.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 5",
+        "preview":"/static/img/preview/rank-5.png",
+        "desc": "The 5th rank handed out by Pilots Federation.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/rank-5.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/rank-5.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 6",
+        "preview":"/static/img/preview/rank-6.png",
+        "desc": "The 6th rank handed out by Pilots Federation.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/rank-6.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/rank-6.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 7",
+        "preview":"/static/img/preview/rank-7.png",
+        "desc": "The 7th rank handed out by Pilots Federation.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/rank-7.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/rank-7.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 8",
+        "preview":"/static/img/preview/rank-8.png",
+        "desc": "The 8th rank handed out by Pilots Federation.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/rank-8.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/rank-8.svg"
+          }
+        ]
+      },
+      {
+        "name": "Rank 9",
+        "preview":"/static/img/preview/rank-9.png",
+        "desc": "The 9th rank handed out by Pilots Federation.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/rank-9.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/rank-9.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -7,12 +7,12 @@
           </v-carousel-item>
         </v-carousel>
       </v-flex>
-      <v-flex xs4 align-center justify-center d-flex>
-        <img src="/static/img/edassets_larger.png" style="flex: 0 1 auto!important">
-      </v-flex>
       <v-flex xs4 style="margin: 0px 24px">
         <h1>Elite Dangerous Assets</h1>
         <h3>All Elite Dangerous assets and content in one place to download</h3>
+      </v-flex>
+      <v-flex xs4 align-center justify-center d-flex>
+        <img src="/static/img/edassets_larger.png" style="flex: 0 1 auto!important">
       </v-flex>
     </v-layout>
   </v-container>

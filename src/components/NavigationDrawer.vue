@@ -10,6 +10,15 @@
           <v-list-tile-title>Home</v-list-tile-title>
         </v-list-tile-content>
       </v-list-tile>
+      <v-list-tile @click="routeTo('/about')">
+        <v-list-tile-action>
+          <v-icon>ed-edassets</v-icon>
+        </v-list-tile-action>
+
+        <v-list-tile-content>
+          <v-list-tile-title>About</v-list-tile-title>
+        </v-list-tile-content>
+      </v-list-tile>
       <v-divider></v-divider>
       <template v-for="(navItem,i) in navList">
         <v-list-group v-if="navItem.children.length>0" :key="i" :prepend-icon="navItem.icon">

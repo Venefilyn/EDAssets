@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import MainLayout from '@/components/MainLayout'
 import Home from '@/components/Home'
+import About from '@/components/About'
 import AssetDisplay from '@/components/AssetDisplay'
 
 Vue.use(Router)
@@ -15,6 +16,10 @@ export default new Router({
         {
           path: '',
           component: Home
+        },
+        {
+          path: '/about',
+          component: About
         },
         {
           path: '**',

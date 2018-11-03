@@ -7,14 +7,12 @@
         <router-view></router-view>
       </v-container>
     </v-content>
-    <ed-footer></ed-footer>
   </v-app>
 </template>
 
 <script>
 import NavigationDrawer from '@/components/NavigationDrawer'
 import Toolbar from '@/components/Toolbar'
-import Footer from '@/components/Footer'
 import {mapState} from 'vuex'
 
 export default {
@@ -50,7 +48,6 @@ export default {
   components: {
     'ed-navigation-drawer': NavigationDrawer,
     'ed-toolbar': Toolbar,
-    'ed-footer': Footer
   },
   created () {
     this.$store.dispatch('fetchTypes').then(() => {

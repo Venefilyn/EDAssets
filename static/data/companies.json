@@ -27,12 +27,12 @@
       {
         "name": "GalNet",
         "preview":"/static/img/preview/GalNet.png",
-        "desc": "The GalNet icon. Font used is Century Gothic.",
+        "desc": "The GalNet icon. Font used together with it is Century Gothic.",
         "fanmade": true,
         "designer_info": [
           {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
+            "name":"CMDR Deonon",
+            "url":"https://twitter.com/CMDR_Deonon"
           }
         ],
         "formats": [

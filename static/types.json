@@ -207,15 +207,15 @@
         "zipurl": [
             {
               "format":"All formats",
-              "link":"/static/img/companies/all.zip"
+              "link":"/static/img/companies/companies-all.zip"
             },
             {
               "format":"PNGs",
-              "link":"/static/img/companies/pngs.zip"
+              "link":"/static/img/companies/companies-images-only.zip"
             },
             {
               "format":"SVGs",
-              "link":"/static/img/companies/svgs.zip"
+              "link":"/static/img/companies/companies-vectors-only.zip"
             }
         ]
     },

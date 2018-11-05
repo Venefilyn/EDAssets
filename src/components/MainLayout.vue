@@ -47,7 +47,7 @@ export default {
   },
   components: {
     'ed-navigation-drawer': NavigationDrawer,
-    'ed-toolbar': Toolbar,
+    'ed-toolbar': Toolbar
   },
   created () {
     this.$store.dispatch('fetchTypes').then(() => {

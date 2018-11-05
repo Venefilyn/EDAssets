@@ -2,8 +2,8 @@
   <v-container fill-height>
     <v-layout column align-content-space-around justify-space-around d-flex>
       <v-flex xs4 style="padding: 0px">
-        <v-carousel hide-controls hide-delimiters>
-          <v-carousel-item v-for="(image,i) in carouselImages" :key="i" :src="image">
+        <v-carousel hide-controls hide-delimiters height=120>
+          <v-carousel-item v-for="(image,i) in carouselImages" :key="i" :src="image" height=120>
           </v-carousel-item>
         </v-carousel>
       </v-flex>
@@ -32,10 +32,6 @@ export default {
 </script>
 
 <style scoped>
-  .v-carousel {
-    height: 120px;
-  }
-
   .container {
     padding: 0px;
   }

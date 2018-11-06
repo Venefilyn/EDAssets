@@ -73,13 +73,13 @@ export default {
     value: Boolean
   },
   computed: {
-    drawerState () {
-      return this.value
-    }
-  },
-  watch: {
-    drawerState () {
-      this.$emit('input', this.drawerState)
+    drawerState: {
+      get () {
+        return this.value
+      },
+      set (value) {
+        this.$emit('input', value)
+      }
     }
   },
   methods: {

@@ -26,6 +26,7 @@
                     <h3>Donating</h3>
                     <p>
                         Currently the only cost for EDAssets is the domain. I spend time vectorising assets whenever I feel like it as it takes up a lot of work. If you want an asset done ASAP buying me a coffee will make me do the asset faster. :)
+                        <br>
                         <a href="https://www.paypal.me/SpyTec" title="Only cost is domain">
                             <v-btn color="info">Buy me a coffee</v-btn>
                         </a>

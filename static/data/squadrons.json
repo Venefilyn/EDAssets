@@ -1,0 +1,183 @@
+[
+  {
+    "name":"Squadrons",
+    "types":[
+      {
+        "name": "Squadrons",
+        "preview":"/static/img/preview/squadrons.png",
+        "desc": "Represents squadrons as a whole",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/squadrons/squadrons.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/squadrons/squadrons.svg"
+          }
+        ]
+      },
+      {
+        "name": "Manage Ranks",
+        "preview":"/static/img/preview/manage-ranks.png",
+        "desc": "Manage the ranks of the squadron.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/squadrons/manage-ranks.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/squadrons/manage-ranks.svg"
+          }
+        ]
+      },
+      {
+        "name": "Members",
+        "preview":"/static/img/preview/members.png",
+        "desc": "Members of a squadron.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/squadrons/members.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/squadrons/members.svg"
+          }
+        ]
+      },
+      {
+        "name": "New applications",
+        "preview":"/static/img/preview/new-applications.png",
+        "desc": "Unseen squadron applications.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/squadrons/new-applications.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/squadrons/new-applications.svg"
+          }
+        ]
+      },
+      {
+        "name": "Settings",
+        "preview":"/static/img/preview/settings.png",
+        "desc": "Settings of specific squadron.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/squadrons/settings.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/squadrons/settings.svg"
+          }
+        ]
+      },
+      {
+        "name": "Tags",
+        "preview":"/static/img/preview/tags.png",
+        "desc": "Used to tag squadrons, e.g. PvP, PvE.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/squadrons/tags.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/squadrons/tags.svg"
+          }
+        ]
+      },
+      {
+        "name": "Applications",
+        "preview":"/static/img/preview/applications.png",
+        "desc": "Squadron applications.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/squadrons/applications.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/squadrons/applications.svg"
+          }
+        ]
+      },
+      {
+        "name": "Superpowers",
+        "preview":"/static/img/preview/superpowers.png",
+        "desc": "Represents superpowers in settings page.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/squadrons/superpowers.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/squadrons/superpowers.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

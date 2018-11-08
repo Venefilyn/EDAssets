@@ -33,16 +33,10 @@ export default {
         return {
           padding: '0px'
         }
-      } else {
-        return undefined
       }
     },
     fillHeight: function () {
-      if (this.$route.path === '/') {
-        return true
-      } else {
-        return false
-      }
+      return this.$route.path === '/'
     }
   },
   components: {

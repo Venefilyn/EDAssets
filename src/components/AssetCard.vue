@@ -114,11 +114,11 @@ export default {
   }
 
   .noPadding {
-    padding: 0px 16px 0px 16px
+    padding: 0 16px 0 16px
   }
 
   .bottomPadding {
-    padding: 0px 16px 16px 16px
+    padding: 0 16px 16px 16px
   }
 
   .hide-card {

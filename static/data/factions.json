@@ -143,6 +143,28 @@
             "link":"/static/img/factions/Federation-insignia.png"
           }
         ]
+      },
+      {
+        "name": "Independent",
+        "preview":"/static/img/preview/independent-power.png",
+        "desc": "Represents independent as a superpower",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/squadrons/independent-power.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/squadrons/independent-power.svg"
+          }
+        ]
       }
     ]
   }

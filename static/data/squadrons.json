@@ -157,9 +157,9 @@
         ]
       },
       {
-        "name": "Superpowers",
-        "preview":"/static/img/preview/superpowers.png",
-        "desc": "Represents superpowers in settings page.",
+        "name": "Independent power",
+        "preview":"/static/img/preview/independent-power.png",
+        "desc": "Represents independent as a superpower in settings page.",
         "fanmade": true,
         "designer_info": [
           {
@@ -170,11 +170,11 @@
         "formats": [
           {
             "format":"PNG",
-            "link":"/static/img/squadrons/superpowers.png"
+            "link":"/static/img/squadrons/independent-power.png"
           },
           {
             "format":"SVG",
-            "link":"/static/img/squadrons/superpowers.svg"
+            "link":"/static/img/squadrons/independent-power.svg"
           }
         ]
       }

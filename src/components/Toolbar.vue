@@ -24,11 +24,7 @@ export default {
   name: 'Toolbar',
   computed: {
     extended: function () {
-      if (this.subTitle) {
-        return true
-      } else {
-        return false
-      }
+      return !!this.subTitle
     }
   },
   props: {

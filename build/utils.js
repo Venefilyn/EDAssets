@@ -74,7 +74,7 @@ exports.styleLoaders = function (options) {
   for (const extension in loaders) {
     const loader = loaders[extension]
     output.push({
-      cardFormatClick: new RegExp('\\.' + extension + '$'),
+      test: new RegExp('\\.' + extension + '$'),
       use: loader
     })
   }

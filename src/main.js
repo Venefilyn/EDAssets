@@ -2,6 +2,7 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import Vuetify from 'vuetify'
+import VueAnalytics from 'vue-analytics'
 import App from './App'
 import router from './router'
 import store from './store'
@@ -17,6 +18,11 @@ Vue.use(Vuetify, {
     accent: colors.cyan.accent4,
     accentLight: colors.cyan.accent2
   }
+})
+
+Vue.use(VueAnalytics, {
+  id: 'UA-67734804-1',
+  router
 })
 
 /* eslint-disable no-new */

@@ -17,7 +17,7 @@
     <v-card-media v-else-if="cardData.preview" :src="cardData.preview" height="200px" contain></v-card-media>
     <v-chip :class="{'hide-card': !cardData.fanmade}" color="accent" text-color="black">Fanmade Asset</v-chip>
     <v-card-actions>
-      <v-btn color="secondary" flat v-for="(downloadCardData,i) in cardData.formats" :key="i" :href="downloadCardData.link" target="_blank">
+      <v-btn color="secondary" flat v-for="(downloadCardData,i) in cardData.formats" :key="i" :href="downloadCardData.link" target="_blank" @click="cardFormatClick(downloadCardData)" @click.middle="cardFormatClick(downloadCardData)">
         {{downloadCardData.format}}
       </v-btn>
       <v-btn :style="'color:' + cardData.colour" flat v-if="cardData.colour" @click.stop.prevent="copyColour">
@@ -29,7 +29,7 @@
         </v-snackbar>
       </v-btn>
       <v-spacer></v-spacer>
-      <v-btn icon @click="show = !show">
+      <v-btn icon @click="cardDescriptionClick()">
         <v-icon>{{ show ? 'keyboard_arrow_down' : 'keyboard_arrow_up' }}</v-icon>
       </v-btn>
     </v-card-actions>
@@ -93,11 +93,19 @@ export default {
         this.copyStatusText = copyStatusTexts.failure
         this.copyStatusSnackBar = true
       }
+      this.$ga.event('asset', 'copy-color', 'color', colourToCopy.value)
       if (selected) {
         colourToCopy.setAttribute('type', 'hidden')
         document.getSelection().removeAllRanges()
         document.getSelection().addRange(selected)
       }
+    },
+    cardFormatClick (downloadCardData) {
+      this.$ga.event('asset', 'view-format', downloadCardData.format, downloadCardData.link)
+    },
+    cardDescriptionClick () {
+      this.show = !this.show
+      this.$ga.event('asset', 'show-description', this.cardData.name, this.show)
     }
   }
 }

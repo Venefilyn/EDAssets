@@ -47,6 +47,11 @@ export default {
     this.$store.dispatch('fetchTypes').then(() => {
       this.$store.dispatch('fetchAssetData', this.$route.path.split('/').slice(1))
     })
+  },
+  watch: {
+    drawer (value) {
+      this.$ga.event('navigation', 'drawer', 'toggle', value)
+    }
   }
 }
 </script>

@@ -39,7 +39,7 @@ export default {
       this.$emit('toggleDrawer')
     },
     zipClicked (zip) {
-      this.$ga.event('asset', 'download', 'zip', zip.format)
+      this.$ga.event('asset', 'download', zip.format)
     }
   }
 }

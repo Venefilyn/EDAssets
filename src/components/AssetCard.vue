@@ -93,7 +93,7 @@ export default {
         this.copyStatusText = copyStatusTexts.failure
         this.copyStatusSnackBar = true
       }
-      this.$ga.event('asset', 'copy-color', 'color', colourToCopy.value)
+      this.$ga.event('asset', 'copy-color', colourToCopy.value)
       if (selected) {
         colourToCopy.setAttribute('type', 'hidden')
         document.getSelection().removeAllRanges()
@@ -101,7 +101,7 @@ export default {
       }
     },
     cardFormatClick (downloadCardData) {
-      this.$ga.event('asset', 'view-format', downloadCardData.format, downloadCardData.link)
+      this.$ga.event('asset', 'view-format', downloadCardData.format)
     },
     cardDescriptionClick () {
       this.show = !this.show

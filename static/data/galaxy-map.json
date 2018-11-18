@@ -1,6 +1,14 @@
 [
   {
     "name":"Galaxy Map icons",
+    "subcats":[
+      {
+        "name":"Galaxy Map Markers",
+        "desc":"Markers that hover over systems, planets and stations.",
+        "preview":"/static/img/preview/galaxy-map/markers/mission.png",
+        "file":"galaxy-map-markers.json"
+      }
+    ],
     "types":[
       {
         "name": "Friends",

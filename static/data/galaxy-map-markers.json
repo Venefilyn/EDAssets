@@ -91,28 +91,6 @@
         ]
       },
       {
-        "name": "Friends",
-        "preview":"/static/img/preview/galaxy-map/markers/friends.png",
-        "desc": "System location of online friends.",
-        "fanmade": true,
-        "designer_info": [
-          {
-            "name":"CMDR WDX",
-            "url":"https://www.reddit.com/user/CMDR_WDX"
-          }
-        ],
-        "formats": [
-          {
-            "format":"PNG",
-            "link":"/static/img/galaxy-map/markers/friends.png"
-          },
-          {
-            "format":"SVG",
-            "link":"/static/img/galaxy-map/markers/friends.svg"
-          }
-        ]
-      },
-      {
         "name": "Mission",
         "preview":"/static/img/preview/galaxy-map/markers/mission.png",
         "desc": "System location of online friends.",

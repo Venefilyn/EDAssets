@@ -33,6 +33,26 @@
                         "link":"/static/imgs.zip"
                     }
                 ]
+            },
+            {
+                "name":"Cartoon ship vectors",
+                "desc":"Drawn cartoon vectors of Elite ships.",
+                "preview":"/static/img/preview/ship-schematics/qohen-leth/cobra-mk-iii.png",
+                "file":"ship-schematics-qohen-leth.json",
+                "zipurl": [
+                    {
+                        "format":"All formats",
+                        "link":"/static/img/ship-schematics/qohen-leth/ship-schematics-qohen-leth-all.zip"
+                    },
+                    {
+                        "format":"PNG",
+                        "link":"/static/img/ship-schematics/qohen-leth/ship-schematics-qohen-leth-images-only.zip"
+                    },
+                    {
+                        "format":"SVG",
+                        "link":"/static/img/ship-schematics/qohen-leth/ship-schematics-qohen-leth-vectors-only.zip"
+                    }
+                ]
             }
         ]
     }

@@ -1,0 +1,905 @@
+[
+  {
+    "name":"CMDR Qohen Leth's cartoon ship vectors",
+    "issubcat":{
+      "name":"Ship schematics",
+      "file":"ship-schematics.json"
+    },
+    "types":[
+      {
+        "name": "Ship Coloring PDF",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/ship-coloring-pdf.png",
+        "desc": "Elite ships coloring book",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PDF",
+            "link":"/static/img/ship-schematics/qohen-leth/Elite_Ships_Colouring_Book_by_Qohen_Leth.pdf"
+          }
+        ]
+      },
+      {
+        "name": "Ship Coloring PDF - Without Shadows",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/ship-coloring-pdf.png",
+        "desc": "Elite ships coloring book",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PDF",
+            "link":"/static/img/ship-schematics/qohen-leth/Elite_Ships_Colouring_Book_by_Qohen_Leth_no_shadows.pdf"
+          }
+        ]
+      },
+      {
+        "name": "Adder",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/adder.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/adder.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/adder.svg"
+          }
+        ]
+      },
+      {
+        "name": "Alliance Challenger",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/alliance-challenger.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/alliance-challenger.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/alliance-challenger.svg"
+          }
+        ]
+      },
+      {
+        "name": "Alliance Chieftain",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/alliance-chieftain.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/alliance-chieftain.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/alliance-chieftain.svg"
+          }
+        ]
+      },
+      {
+        "name": "Alliance Crusader",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/alliance-crusader.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/alliance-crusader.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/alliance-crusader.svg"
+          }
+        ]
+      },
+      {
+        "name": "Anaconda",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/anaconda.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/anaconda.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/anaconda.svg"
+          }
+        ]
+      },
+      {
+        "name": "Asp Explorer",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/asp-explorer.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/asp-explorer.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/asp-explorer.svg"
+          }
+        ]
+      },
+      {
+        "name": "Asp Scout",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/asp-scout.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/asp-scout.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/asp-scout.svg"
+          }
+        ]
+      },
+      {
+        "name": "Beluga Liner",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/beluga-liner.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/beluga-liner.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/beluga-liner.svg"
+          }
+        ]
+      },
+      {
+        "name": "Cobra Mk. III",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/cobra-mk-iii.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/cobra-mk-iii.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/cobra-mk-iii.svg"
+          }
+        ]
+      },
+      {
+        "name": "Cobra Mk. IV",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/cobra-mk-iv.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/cobra-mk-iv.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/cobra-mk-iv.svg"
+          }
+        ]
+      },
+      {
+        "name": "Thargoid Cyclops",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/cyclops.png",
+        "desc": "Colored cartoony thargoid vector",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/cyclops.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/cyclops.svg"
+          }
+        ]
+      },
+      {
+        "name": "Diamondback Explorer",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/diamondback-explorer.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/diamondback-explorer.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/diamondback-explorer.svg"
+          }
+        ]
+      },
+      {
+        "name": "Diamondback Scout",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/diamondback-scout.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/diamondback-scout.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/diamondback-scout.svg"
+          }
+        ]
+      },
+      {
+        "name": "Dolphin",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/dolphin.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/dolphin.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/dolphin.svg"
+          }
+        ]
+      },
+      {
+        "name": "Eagle Mk. II",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/eagle-mk-ii.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/eagle-mk-ii.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/eagle-mk-ii.svg"
+          }
+        ]
+      },
+      {
+        "name": "Federal Assault Ship",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/federal-assault-ship.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/federal-assault-ship.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/federal-assault-ship.svg"
+          }
+        ]
+      },
+      {
+        "name": "Federal Corvette",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/federal-corvette.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/federal-corvette.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/federal-corvette.svg"
+          }
+        ]
+      },
+      {
+        "name": "Federal Dropship",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/federal-dropship.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/federal-dropship.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/federal-dropship.svg"
+          }
+        ]
+      },
+      {
+        "name": "Federal Gunship",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/federal-gunship.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/federal-gunship.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/federal-gunship.svg"
+          }
+        ]
+      },
+      {
+        "name": "Fer de Lance",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/fer-de-lance.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/fer-de-lance.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/fer-de-lance.svg"
+          }
+        ]
+      },
+      {
+        "name": "Hauler",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/hauler.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/hauler.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/hauler.svg"
+          }
+        ]
+      },
+      {
+        "name": "Imperial Clipper",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/imperial-clipper.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/imperial-clipper.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/imperial-clipper.svg"
+          }
+        ]
+      },
+      {
+        "name": "Imperial Courier",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/imperial-courier.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/imperial-courier.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/imperial-courier.svg"
+          }
+        ]
+      },
+      {
+        "name": "Imperial Cutter",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/imperial-cutter.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/imperial-cutter.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/imperial-cutter.svg"
+          }
+        ]
+      },
+      {
+        "name": "Imperial Eagle",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/imperial-eagle.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/imperial-eagle.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/imperial-eagle.svg"
+          }
+        ]
+      },
+      {
+        "name": "Keelback",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/keelback.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/keelback.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/keelback.svg"
+          }
+        ]
+      },
+      {
+        "name": "Krait Mk. II",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/krait-mk-ii.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/krait-mk-ii.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/krait-mk-ii.svg"
+          }
+        ]
+      },
+      {
+        "name": "Krait Phantom",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/krait-phantom.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/krait-phantom.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/krait-phantom.svg"
+          }
+        ]
+      },
+      {
+        "name": "Mamba",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/mamba.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/mamba.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/mamba.svg"
+          }
+        ]
+      },
+      {
+        "name": "Orca",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/orca.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/orca.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/orca.svg"
+          }
+        ]
+      },
+      {
+        "name": "Python",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/python.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/python.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/python.svg"
+          }
+        ]
+      },
+      {
+        "name": "Sidewinder",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/sidewinder.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/sidewinder.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/sidewinder.svg"
+          }
+        ]
+      },
+      {
+        "name": "Type-6 Transporter",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/type-6-transporter.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/type-6-transporter.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/type-6-transporter.svg"
+          }
+        ]
+      },
+      {
+        "name": "Type-7",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/type-7.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/type-7.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/type-7.svg"
+          }
+        ]
+      },
+      {
+        "name": "Type-9 Heavy",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/type-9-heavy.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/type-9-heavy.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/type-9-heavy.svg"
+          }
+        ]
+      },
+      {
+        "name": "Type-10 Defender",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/type-10-defender.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/type-10-defender.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/type-10-defender.svg"
+          }
+        ]
+      },
+      {
+        "name": "Viper Mk. III",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/viper-mk-iii.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/viper-mk-iii.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/viper-mk-iii.svg"
+          }
+        ]
+      },
+      {
+        "name": "Viper Mk. IV",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/viper-mk-iv.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/viper-mk-iv.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/viper-mk-iv.svg"
+          }
+        ]
+      },
+      {
+        "name": "Vulture",
+        "preview":"/static/img/preview/ship-schematics/qohen-leth/vulture.png",
+        "desc": "Colored cartoon ship vector. Copyright CC BY-NC-SA 4.0",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Qohen Leth",
+            "url":"https://forums.frontier.co.uk/member.php/118579-Qohen-Leth"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ship-schematics/qohen-leth/vulture.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/ship-schematics/qohen-leth/vulture.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

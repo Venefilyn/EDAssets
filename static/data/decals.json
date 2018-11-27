@@ -89,6 +89,28 @@
             "link":"/static/img/decals/Planet2.svg"
           }
         ]
+      },
+      {
+        "name": "Triple Elite",
+        "preview":"/static/img/preview/decals/triple-elite.png",
+        "desc": "Decal you get after achieving elite rank in combat, exploration, and trading.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR WDX",
+            "url":"https://github.com/WaldemarLehner"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/decals/triple-elite.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/decals/triple-elite.svg"
+          }
+        ]
       }
     ]
   }

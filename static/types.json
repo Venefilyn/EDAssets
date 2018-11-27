@@ -306,15 +306,15 @@
     "zipurl": [
       {
         "format": "All formats",
-        "link": "/static/img/decals/all.zip"
+        "link": "/static/img/decals/decals-all.zip"
       },
       {
         "format": "PNGs",
-        "link": "/static/img/decals/pngs.zip"
+        "link": "/static/img/decals/decals-images-only.zip"
       },
       {
         "format": "SVGs",
-        "link": "/static/img/decals/svgs.zip"
+        "link": "/static/img/decals/decals-vectors-only.zip"
       }
     ]
   },

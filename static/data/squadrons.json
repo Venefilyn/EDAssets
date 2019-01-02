@@ -177,6 +177,28 @@
             "link":"/static/img/squadrons/independent-power.svg"
           }
         ]
+      },
+      {
+        "name": "Join Squadron",
+        "preview":"/static/img/preview/join_squadron.png",
+        "desc": "Shown in the initial Squadrons page to symbolize joining a Squadron.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Zhincore",
+            "url":"https://github.com/Zhincore"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/squadrons/join_squadron.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/squadrons/join_squadron.svg"
+          }
+        ]
       }
     ]
   }

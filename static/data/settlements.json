@@ -89,6 +89,28 @@
             "link":"/static/img/settlements/surface_port_sm.svg"
           }
         ]
+      },
+      {
+        "name": "Surface Port",
+        "preview":"/static/img/preview/surface_port.png",
+        "desc": "Surface Port icon as seen from being docked.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Zhincore",
+            "url":"https://github.com/Zhincore"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/settlements/surface_port.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/settlements/surface_port.svg"
+          }
+        ]
       }
     ]
   }

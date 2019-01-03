@@ -30,6 +30,27 @@
         ]
       },
       {
+        "name": "Core Dynamics vector",
+        "preview":"/static/img/preview/logo-core-dynamics.png",
+        "desc": "The official vector of the Core Dynamics logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/logo-core-dynamics.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/logo-core-dynamics.svg"
+          }
+        ]
+      },
+      {
         "name": "Faulcon Delacy",
         "preview":"/static/img/preview/FaulconDelacy.png",
         "desc": "Faulcon Delacy logo.",
@@ -43,6 +64,10 @@
           {
             "format":"PNG",
             "link":"/static/img/manufacturers/FaulconDelacy.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/FaulconDelacy.svg"
           }
         ]
       },
@@ -64,6 +89,27 @@
         ]
       },
       {
+        "name": "Gutamaya vector",
+        "preview":"/static/img/preview/logo-gutamaya.png",
+        "desc": "Vector of the Gutamaya logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/logo-gutamaya.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/logo-gutamaya.svg"
+          }
+        ]
+      },
+      {
         "name": "Lakon",
         "preview":"/static/img/preview/lakon.png",
         "desc": "The Lakon logo.",
@@ -77,6 +123,10 @@
           {
             "format":"PNG",
             "link":"/static/img/manufacturers/lakon.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/lakon.svg"
           }
         ]
       },
@@ -179,16 +229,10 @@
         ]
       },
       {
-        "name": "Saud Kruger BW",
+        "name": "Saud Kruger vector",
         "preview":"/static/img/preview/Saud_Kruger_bw.png",
-        "desc": "The Saud Kruger logo in black and white.",
-        "fanmade": true,
-        "designer_info": [
-          {
-            "name":"CMDR Nuse",
-            "url":"https://www.reddit.com/user/XCNuse"
-          }
-        ],
+        "desc": "Vector of the Saud Kruger logo.",
+        "fanmade": false,
         "odesigner_info": [
           {
             "name":"Xavier Henry"
@@ -219,6 +263,27 @@
           {
             "format":"PNG",
             "link":"/static/img/manufacturers/zorgonpeterson.png"
+          }
+        ]
+      },
+      {
+        "name": "Zorgon Peterson vector",
+        "preview":"/static/img/preview/logo-zorgon-peterson.png",
+        "desc": "Official vector of the Zorgon Peterson logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/logo-zorgon-peterson.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/logo-zorgon-peterson.svg"
           }
         ]
       }

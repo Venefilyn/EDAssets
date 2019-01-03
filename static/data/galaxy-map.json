@@ -163,6 +163,50 @@
             "link":"/static/img/galaxy-map/Wings-galaxy-map.svg"
           }
         ]
+      },
+      {
+        "name": "System map - Normal",
+        "preview":"/static/img/preview/normal_map.png",
+        "desc": "To display the normal system map where planets are on a tree-grid system.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Zhincore",
+            "url":"https://github.com/Zhincore"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/normal_map.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/normal_map.svg"
+          }
+        ]
+      },
+      {
+        "name": "System map - Orrery",
+        "preview":"/static/img/preview/orrery_map.png",
+        "desc": "To display the orrery system map where planets are displayed with their orbits.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Zhincore",
+            "url":"https://github.com/Zhincore"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/orrery_map.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/orrery_map.svg"
+          }
+        ]
       }
     ]
   }

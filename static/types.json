@@ -235,15 +235,15 @@
     "zipurl": [
       {
         "format": "All formats",
-        "link": "/static/img/galaxy-map/all.zip"
+        "link": "/static/img/galaxy-map/galaxy-map-all.zip"
       },
       {
         "format": "PNGs",
-        "link": "/static/img/galaxy-map/pngs.zip"
+        "link": "/static/img/galaxy-map/galaxy-map-images-only.zip"
       },
       {
         "format": "SVGs",
-        "link": "/static/img/galaxy-map/svgs.zip"
+        "link": "/static/img/galaxy-map/galaxy-map-vectors-only.zip"
       }
     ]
   },

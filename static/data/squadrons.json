@@ -6,13 +6,7 @@
         "name": "Squadrons",
         "preview":"/static/img/preview/squadrons.png",
         "desc": "Represents squadrons as a whole",
-        "fanmade": true,
-        "designer_info": [
-          {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/SpyTec13"
-          }
-        ],
+        "fanmade": false,
         "formats": [
           {
             "format":"PNG",
@@ -197,6 +191,22 @@
           {
             "format":"SVG",
             "link":"/static/img/squadrons/join_squadron.svg"
+          }
+        ]
+      },
+      {
+        "name": "Squadron Leaderboard from website",
+        "preview":"/static/img/preview/leaderboard_website.png",
+        "desc": "As shown on elitedangerous.com for indicating squadron leaderboard.",
+        "fanmade": false,
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/squadrons/leaderboard_website.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/squadrons/leaderboard_website.svg"
           }
         ]
       }

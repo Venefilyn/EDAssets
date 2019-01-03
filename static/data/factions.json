@@ -145,6 +145,28 @@
         ]
       },
       {
+        "name": "Federation Tiny",
+        "preview":"/static/img/preview/mini-federation_icon.png",
+        "desc": "The tiny Federation insigna. Shown on 'Find a Squadron' page",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Zhincore",
+            "url":"https://github.com/Zhincore"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/factions/mini-federation_icon.png"
+          },
+          {
+            "format":"PNG",
+            "link":"/static/img/factions/mini-federation_icon.svg"
+          }
+        ]
+      },
+      {
         "name": "Independent",
         "preview":"/static/img/preview/independent-power.png",
         "desc": "Represents independent as a superpower",

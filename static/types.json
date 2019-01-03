@@ -75,15 +75,15 @@
     "zipurl": [
       {
         "format": "All formats",
-        "link": "/static/img/factions/all.zip"
+        "link": "/static/img/factions/factions-all.zip"
       },
       {
         "format": "PNG",
-        "link": "/static/img/factions/pngs.zip"
+        "link": "/static/img/factions/factions-images-only.zip"
       },
       {
         "format": "SVG",
-        "link": "/static/img/factions/svgs.zip"
+        "link": "/static/img/factions/factions-vectors-only.zip"
       }
     ]
   },
@@ -264,15 +264,15 @@
     "zipurl": [
       {
         "format": "All formats",
-        "link": "/static/img/manufacturers/all.zip"
+        "link": "/static/img/manufacturers/manufacturers-all.zip"
       },
       {
         "format": "PNGs",
-        "link": "/static/img/manufacturers/pngs.zip"
+        "link": "/static/img/manufacturers/manufacturers-images-only.zip"
       },
       {
         "format": "SVGs",
-        "link": "/static/img/manufacturers/svgs.zip"
+        "link": "/static/img/manufacturers/manufacturers-vectors-only.zip"
       }
     ]
   },

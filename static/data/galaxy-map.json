@@ -207,6 +207,28 @@
             "link":"/static/img/galaxy-map/orrery_map.svg"
           }
         ]
+      },
+      {
+        "name": "Planet icon",
+        "preview":"/static/img/preview/planet.png",
+        "desc": "As shown in left panel for planets.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Zhincore",
+            "url":"https://github.com/Zhincore"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/planet.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/planet.svg"
+          }
+        ]
       }
     ]
   }

@@ -6,13 +6,7 @@
         "name": "Elite Dangerous minimalistic",
         "preview":"/static/img/preview/elite-dangerous-minimalistic.png",
         "desc": "The minimalistic Elite Dangerous logo.",
-        "fanmade": true,
-        "designer_info": [
-          {
-            "name":"CMDR SpyTec",
-            "url":"https://www.reddit.com/user/spytec13"
-          }
-        ],
+        "fanmade": false,
         "formats": [
           {
             "format":"PNG",

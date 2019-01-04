@@ -45,6 +45,12 @@
         "colour": "#ffb000",
         "desc": "The colour of pledged allegiance to a power. Also the colour of independent powers.",
         "fanmade": false
+      },
+      {
+        "name": "Orange - Website",
+        "colour": "#f07b05",
+        "desc": "Orange as seen on elitedangerous.com.",
+        "fanmade": false
       }
     ]
   }

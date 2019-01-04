@@ -6,13 +6,7 @@
         "name": "Weapon type: Fixed",
         "preview":"/static/img/preview/ed-fixed.png",
         "desc": "Icon for fixed weapons.",
-        "fanmade": true,
-        "designer_info": [
-          {
-            "name":"CMDR Anthony Hunt",
-            "url":"https://twitter.com/achunt"
-          }
-        ],
+        "fanmade": false,
         "formats": [
           {
             "format":"PNG",

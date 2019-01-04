@@ -41,6 +41,24 @@
         ]
       },
       {
+        "name": "Elite Dangerous v4",
+        "preview":"/static/img/preview/elite-dangerous-logo-2018.png",
+        "desc": "Displayed on the Elite Dangerous website.",
+        "fanmade": false,
+        "designer_info": [
+          {
+            "name":"Frontier Developments plc.",
+            "url":"https://www.frontier.co.uk"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/ed-logos/elite-dangerous-logo-2018.png"
+          }
+        ]
+      },
+      {
         "name": "Elite Dangerous v3",
         "preview":"/static/img/preview/elite-dangerous-logo_grey.png",
         "desc": "The Elite Dangerous logo.",

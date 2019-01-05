@@ -499,5 +499,26 @@
         "link": "/static/img/squadrons/squadrons-vectors-only.zip"
       }
     ]
+  },
+  {
+    "name": "Codex",
+    "desc": "Icons used within or surrounding the codex.",
+    "preview": "/static/img/preview/codex/thargoid-codex.png",
+    "file": "codex.json",
+    "icon": "book",
+    "zipurl": [
+      {
+        "format": "All formats",
+        "link": "/static/img/codex/codex-all.zip"
+      },
+      {
+        "format": "PNGs",
+        "link": "/static/img/codex/codex-images-only.zip"
+      },
+      {
+        "format": "SVGs",
+        "link": "/static/img/codex/codex-vectors-only.zip"
+      }
+    ]
   }
 ]

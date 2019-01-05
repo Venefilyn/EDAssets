@@ -1,6 +1,28 @@
 [
   {
     "name":"Power related icons",
+    "subcats":[
+      {
+        "name":"Powerplay ranks",
+        "desc":"Commander ranks for powerpaly",
+        "preview":"/static/img/preview/powerplay/ranks/rank5.jpg",
+        "file":"powerplay-ranks.json",
+        "zipurl": [
+          {
+            "format":"All formats",
+            "link":"/static/img/powerplay/ranks/powerplay-ranks-all.zip"
+          },
+          {
+            "format":"PNG",
+            "link":"/static/img/powerplay/ranks/powerplay-ranks-images-only.zip"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/powerplay/ranks/powerplay-ranks-vectors-only.zip"
+          }
+        ]
+      }
+    ],
     "types":[
       {
         "name": "Expanding",

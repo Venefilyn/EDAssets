@@ -1,0 +1,183 @@
+[
+  {
+    "name":"NPC Commands",
+    "types":[
+      {
+        "name": "Attack Target",
+        "preview":"/static/img/preview/attack_target.png",
+        "desc": "Attack selected target.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/npc-commands/attack_target.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/npc-commands/attack_target.svg"
+          }
+        ]
+      },
+      {
+        "name": "Defend",
+        "preview":"/static/img/preview/defend.png",
+        "desc": "Defend current ship.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/npc-commands/defend.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/npc-commands/defend.svg"
+          }
+        ]
+      },
+      {
+        "name": "Engage At Will",
+        "preview":"/static/img/preview/engage_at_will.png",
+        "desc": "Engage hostiles at will.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/npc-commands/engage_at_will.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/npc-commands/engage_at_will.svg"
+          }
+        ]
+      },
+      {
+        "name": "Follow Me",
+        "preview":"/static/img/preview/follow_me.png",
+        "desc": "Tell NPC pilot to follow.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/npc-commands/follow_me.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/npc-commands/follow_me.svg"
+          }
+        ]
+      },
+      {
+        "name": "Hold Position",
+        "preview":"/static/img/preview/hold_position.png",
+        "desc": "Tell pilot to Stay put.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/npc-commands/hold_position.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/npc-commands/hold_position.svg"
+          }
+        ]
+      },
+      {
+        "name": "Maintain Formation",
+        "preview":"/static/img/preview/maintain_formation.png",
+        "desc": "Follow in formation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/npc-commands/maintain_formation.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/npc-commands/maintain_formation.svg"
+          }
+        ]
+      },
+      {
+        "name": "Recall fighter",
+        "preview":"/static/img/preview/recall_fighter.png",
+        "desc": "Return deployed fighter to ship.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/npc-commands/recall_fighter.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/npc-commands/recall_fighter.svg"
+          }
+        ]
+      },
+      {
+        "name": "Switch",
+        "preview":"/static/img/preview/switch.png",
+        "desc": "Switch controlled ship with NPC pilot.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/npc-commands/switch.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/npc-commands/switch.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

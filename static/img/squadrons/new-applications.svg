@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="466.705px" height="501.668px" viewBox="0 0 466.705 501.668" enable-background="new 0 0 466.705 501.668"
+	 xml:space="preserve">
+<g id="Person">
+	<circle fill="#FF7100" cx="169.359" cy="97.214" r="97.214"/>
+	<path fill="#FF7100" d="M105.432,394.849l119.655-119.654c-17.453-5.456-36.202-8.431-55.727-8.431
+		C75.826,266.764,0,334.816,0,418.763v46.697h176.043L105.432,394.849z"/>
+</g>
+<g id="Checkmark">
+	<polygon fill="#FF7100" points="278.615,401.168 221.24,343.793 170.99,394.043 278.615,501.668 466.705,313.577 416.455,263.327 	
+		"/>
+</g>
+</svg>

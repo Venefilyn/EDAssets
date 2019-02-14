@@ -1,0 +1,292 @@
+[
+  {
+    "name":"Manufacturers",
+    "types":[
+      {
+        "name": "Core Dynamics",
+        "preview":"/static/img/preview/Core_Dynamics_logo.png",
+        "desc": "The Core Dynamics logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Nuse",
+            "url":"https://www.reddit.com/user/XCNuse"
+          }
+        ],
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/Core_Dynamics_logo.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/Core_Dynamics_logo.svg"
+          }
+        ]
+      },
+      {
+        "name": "Core Dynamics vector",
+        "preview":"/static/img/preview/logo-core-dynamics.png",
+        "desc": "The official vector of the Core Dynamics logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/logo-core-dynamics.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/logo-core-dynamics.svg"
+          }
+        ]
+      },
+      {
+        "name": "Faulcon Delacy",
+        "preview":"/static/img/preview/FaulconDelacy.png",
+        "desc": "Faulcon Delacy logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/FaulconDelacy.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/FaulconDelacy.svg"
+          }
+        ]
+      },
+      {
+        "name": "Gutamaya",
+        "preview":"/static/img/preview/gutamaya.png",
+        "desc": "The Gutamaya logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/gutamaya.png"
+          }
+        ]
+      },
+      {
+        "name": "Gutamaya vector",
+        "preview":"/static/img/preview/logo-gutamaya.png",
+        "desc": "Vector of the Gutamaya logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/logo-gutamaya.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/logo-gutamaya.svg"
+          }
+        ]
+      },
+      {
+        "name": "Lakon",
+        "preview":"/static/img/preview/lakon.png",
+        "desc": "The Lakon logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/lakon.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/lakon.svg"
+          }
+        ]
+      },
+      {
+        "name": "Lakon Spaceways",
+        "preview":"/static/img/preview/Lakon_Spaceways_logo.png",
+        "desc": "The Lakon Spaceways logo",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Nuse",
+            "url":"https://www.reddit.com/user/XCNuse"
+          }
+        ],
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/Lakon_Spaceways_logo.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/Lakon_Spaceways_logo.svg"
+          }
+        ]
+      },
+      {
+        "name": "Manticore",
+        "preview":"/static/img/preview/Manticore.png",
+        "desc": "The Manticore logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR MackTheHunter",
+            "url":"https://www.reddit.com/user/MackTheHunter"
+          }
+        ],
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/Manticore.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/Manticore.svg"
+          }
+        ]
+      },
+      {
+        "name": "Remlok",
+        "preview":"/static/img/preview/remlok.png",
+        "desc": "The Remlok logo.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR MackTheHunter",
+            "url":"https://www.reddit.com/user/MackTheHunter"
+          }
+        ],
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/remlok.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/remlok.svg"
+          }
+        ]
+      },
+      {
+        "name": "Saud Kruger",
+        "preview":"/static/img/preview/saudkruger.png",
+        "desc": "The Saud Kruger logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/saudkruger.png"
+          }
+        ]
+      },
+      {
+        "name": "Saud Kruger vector",
+        "preview":"/static/img/preview/Saud_Kruger_bw.png",
+        "desc": "Vector of the Saud Kruger logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/Saud_Kruger_bw.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/Saud_Kruger_bw.svg"
+          }
+        ]
+      },
+      {
+        "name": "Zorgon Peterson",
+        "preview":"/static/img/preview/zorgonpeterson.png",
+        "desc": "The Zorgon Peterson logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/zorgonpeterson.png"
+          }
+        ]
+      },
+      {
+        "name": "Zorgon Peterson vector",
+        "preview":"/static/img/preview/logo-zorgon-peterson.png",
+        "desc": "Official vector of the Zorgon Peterson logo.",
+        "fanmade": false,
+        "odesigner_info": [
+          {
+            "name":"Xavier Henry"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/manufacturers/logo-zorgon-peterson.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/manufacturers/logo-zorgon-peterson.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

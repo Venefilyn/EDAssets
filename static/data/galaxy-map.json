@@ -1,0 +1,235 @@
+[
+  {
+    "name":"Galaxy Map icons",
+    "subcats":[
+      {
+        "name":"Galaxy Map Markers",
+        "desc":"Markers that hover over systems, planets and stations.",
+        "preview":"/static/img/preview/galaxy-map/markers/mission.png",
+        "file":"galaxy-map-markers.json"
+      }
+    ],
+    "types":[
+      {
+        "name": "Friends",
+        "preview":"/static/img/preview/Friends-galaxy-map.png",
+        "desc": "The Friends icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/Friends-galaxy-map.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/Friends-galaxy-map.svg"
+          }
+        ]
+      },
+      {
+        "name": "Map",
+        "preview":"/static/img/preview/Map-galaxy-map.png",
+        "desc": "The Map galaxy view icon. Also the route-to icon",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/Map-galaxy-map.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/Map-galaxy-map.svg"
+          }
+        ]
+      },
+      {
+        "name": "Marker",
+        "preview":"/static/img/preview/Marker-galaxy-map.png",
+        "desc": "The Marker icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/Marker-galaxy-map.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/Marker-galaxy-map.svg"
+          }
+        ]
+      },
+      {
+        "name": "Powerplay",
+        "preview":"/static/img/preview/Powerplay-galaxy-map.png",
+        "desc": "The Powerplay icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/Powerplay-galaxy-map.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/Powerplay-galaxy-map.svg"
+          }
+        ]
+      },
+      {
+        "name": "Realistic",
+        "preview":"/static/img/preview/Realistic-galaxy-map.png",
+        "desc": "The Realistic galaxy view icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/Realistic-galaxy-map.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/Realistic-galaxy-map.svg"
+          }
+        ]
+      },
+      {
+        "name": "Selection",
+        "preview":"/static/img/preview/Selection-galaxy-map.png",
+        "desc": "The Selection icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/Selection-galaxy-map.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/Selection-galaxy-map.svg"
+          }
+        ]
+      },
+      {
+        "name": "Wings",
+        "preview":"/static/img/preview/Wings-galaxy-map.png",
+        "desc": "The Wings icon.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/Wings-galaxy-map.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/Wings-galaxy-map.svg"
+          }
+        ]
+      },
+      {
+        "name": "System map - Normal",
+        "preview":"/static/img/preview/normal_map.png",
+        "desc": "To display the normal system map where planets are on a tree-grid system.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Zhincore",
+            "url":"https://github.com/Zhincore"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/normal_map.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/normal_map.svg"
+          }
+        ]
+      },
+      {
+        "name": "System map - Orrery",
+        "preview":"/static/img/preview/orrery_map.png",
+        "desc": "To display the orrery system map where planets are displayed with their orbits.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Zhincore",
+            "url":"https://github.com/Zhincore"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/orrery_map.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/orrery_map.svg"
+          }
+        ]
+      },
+      {
+        "name": "Planet icon",
+        "preview":"/static/img/preview/planet.png",
+        "desc": "As shown in left panel for planets.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Zhincore",
+            "url":"https://github.com/Zhincore"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/galaxy-map/planet.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/galaxy-map/planet.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

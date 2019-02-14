@@ -1,0 +1,249 @@
+[
+  {
+    "name":"Materials",
+    "types":[
+      {
+        "name": "Material",
+        "preview":"/static/img/preview/material.png",
+        "desc": "Generic icon for material.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/materials/material.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/materials/material.svg"
+          }
+        ]
+      },
+      {
+        "name": "Materials - 1:Very common",
+        "preview":"/static/img/preview/grade-1.png",
+        "desc": "Very common grade icon listed for each material.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/materials/grade-1.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/materials/grade-1.svg"
+          }
+        ]
+      },
+      {
+        "name": "Materials - 2:Common",
+        "preview":"/static/img/preview/grade-2.png",
+        "desc": "Common grade icon listed for each material.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/materials/grade-2.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/materials/grade-2.svg"
+          }
+        ]
+      },
+      {
+        "name": "Materials - 3:Standard",
+        "preview":"/static/img/preview/grade-3.png",
+        "desc": "Standard grade icon listed for each material.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/materials/grade-3.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/materials/grade-3.svg"
+          }
+        ]
+      },
+      {
+        "name": "Materials - 4:Rare",
+        "preview":"/static/img/preview/grade-4.png",
+        "desc": "Rare grade icon listed for each material.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/materials/grade-4.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/materials/grade-4.svg"
+          }
+        ]
+      },
+      {
+        "name": "Materials - 5:Very rare",
+        "preview":"/static/img/preview/grade-5.png",
+        "desc": "Very rare grade icon listed for each material.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Artie",
+            "url":"http://inara.cz"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/materials/grade-5.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/materials/grade-5.svg"
+          }
+        ]
+      },
+      {
+        "name": "New discovery",
+        "preview":"/static/img/preview/NewDiscovery.png",
+        "desc": "Comes up when discovering a new material for the first time.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/materials/NewDiscovery.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/materials/NewDiscovery.svg"
+          }
+        ]
+      },
+      {
+        "name": "New material",
+        "preview":"/static/img/preview/NewMaterial.png",
+        "desc": "Comes up when discovering any material.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/materials/NewMaterial.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/materials/NewMaterial.svg"
+          }
+        ]
+      },
+      {
+        "name": "Synthesis - 1:Basic",
+        "preview":"/static/img/preview/Basic.png",
+        "desc": "Basic synthesis icon seen when crafting.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/materials/Basic.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/materials/Basic.svg"
+          }
+        ]
+      },
+      {
+        "name": "Synthesis - 2:Standard",
+        "preview":"/static/img/preview/Standard.png",
+        "desc": "Standard synthesis icon seen when crafting.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/materials/Standard.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/materials/Standard.svg"
+          }
+        ]
+      },
+      {
+        "name": "Synthesis - 3:Premium",
+        "preview":"/static/img/preview/Premium.png",
+        "desc": "Premium synthesis icon seen when crafting.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/spytec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/materials/Premium.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/materials/Premium.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

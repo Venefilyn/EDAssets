@@ -1,0 +1,209 @@
+[
+  {
+    "name":"Trading",
+    "issubcat":{
+      "name":"Pilots Federation ranks",
+      "file":"pilots-federation.json"
+    },
+    "types":[
+      {
+        "name": "1: Penniless",
+        "preview":"/static/img/preview/rank-1-trading.png",
+        "desc": "The 1st trading rank handed out by Pilots Federation. This decal is not available in-game",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/trading/rank-1-trading.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/trading/rank-1-trading.svg"
+          }
+        ]
+      },
+      {
+        "name": "2: Mostly Penniless",
+        "preview":"/static/img/preview/rank-2-trading.png",
+        "desc": "The 2nd trading rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/trading/rank-2-trading.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/trading/rank-2-trading.svg"
+          }
+        ]
+      },
+      {
+        "name": "3: Peddler",
+        "preview":"/static/img/preview/rank-3-trading.png",
+        "desc": "The 3rd trading rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/trading/rank-3-trading.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/trading/rank-3-trading.svg"
+          }
+        ]
+      },
+      {
+        "name": "4: Dealer",
+        "preview":"/static/img/preview/rank-4-trading.png",
+        "desc": "The 4th trading rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/trading/rank-4-trading.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/trading/rank-4-trading.svg"
+          }
+        ]
+      },
+      {
+        "name": "5: Merchant",
+        "preview":"/static/img/preview/rank-5-trading.png",
+        "desc": "The 5th trading rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/trading/rank-5-trading.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/trading/rank-5-trading.svg"
+          }
+        ]
+      },
+      {
+        "name": "6: Broker",
+        "preview":"/static/img/preview/rank-6-trading.png",
+        "desc": "The 6th trading rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/trading/rank-6-trading.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/trading/rank-6-trading.svg"
+          }
+        ]
+      },
+      {
+        "name": "7: Entrepreneur",
+        "preview":"/static/img/preview/rank-7-trading.png",
+        "desc": "The 7th trading rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/trading/rank-7-trading.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/trading/rank-7-trading.svg"
+          }
+        ]
+      },
+      {
+        "name": "8: Tycoon",
+        "preview":"/static/img/preview/rank-8-trading.png",
+        "desc": "The 8th trading rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/trading/rank-8-trading.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/trading/rank-8-trading.svg"
+          }
+        ]
+      },
+      {
+        "name": "9: Elite",
+        "preview":"/static/img/preview/rank-9-trading.png",
+        "desc": "The 9th trading rank handed out by Pilots Federation.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR SpyTec",
+            "url":"https://www.reddit.com/user/SpyTec13"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/pilots-federation/trading/rank-9-trading.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/pilots-federation/trading/rank-9-trading.svg"
+          }
+        ]
+      }
+    ]
+  }
+]

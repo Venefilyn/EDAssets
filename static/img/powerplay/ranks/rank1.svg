@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="2000px"
+   height="2000px"
+   viewBox="0 0 2000 2000"
+   enable-background="new 0 0 2000 2000"
+   xml:space="preserve"
+   sodipodi:docname="rank1.svg"
+   inkscape:export-filename="G:\Users\SpyTec\Documents\JavaScriptProjects\EDAssets\static\img\preview\powerplay\ranks\rank1.png"
+   inkscape:export-xdpi="9.6700001"
+   inkscape:export-ydpi="9.6700001"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs15" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview13"
+   showgrid="false"
+   inkscape:zoom="0.118"
+   inkscape:cx="1000"
+   inkscape:cy="1000"
+   inkscape:window-x="3192"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<title
+   id="title2">rank1</title>
+<g
+   id="efcaa220-8cea-4acb-8e55-caa37ff2ac8a">
+	<g
+   id="b61081fd-c215-421e-9ef5-eb875d392089">
+		<path
+   fill="#FF7100"
+   d="M1002.447,50.973l949.898,946.588l-954.792,951.465L47.656,1002.438L1002.447,50.973 M1002.447,6.933    L3.46,1002.438l994.093,990.629l998.986-995.506L1002.447,6.933z"
+   id="path4" />
+		<polygon
+   fill="#FF7100"
+   points="997.376,952.881 1027.272,1004.631 1085.9,1016.971 1045.746,1061.296 1052.086,1120.669     997.376,1096.315 942.668,1120.669 949.005,1061.296 908.856,1016.971 967.483,1004.631   "
+   id="polygon6" />
+		<path
+   d="M1002.707,581.382C676.145,873.205,360.492,894.982,360.492,894.982v164.641c0,0,212.219,36.586,642.215-298.792    c429.996,335.378,642.215,298.792,642.215,298.792V894.982C1644.922,894.982,1329.27,873.205,1002.707,581.382z"
+   id="path8"
+   style="fill:#ffffff;fill-opacity:1" />
+	</g>
+</g>
+</svg>

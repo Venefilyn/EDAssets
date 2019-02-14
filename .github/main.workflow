@@ -5,12 +5,12 @@ workflow "Build and deploy" {
 
 action "Install deps" {
   uses = "actions/npm@4633da3702a5366129dca9d8cc3191476fc3433c"
-  runs = "install"
+  runs = "npm install"
 }
 
 action "Build app" {
   uses = "actions/npm@4633da3702a5366129dca9d8cc3191476fc3433c"
-  runs = "run build"
+  runs = "npm run build"
   needs = ["Install deps"]
 }
 

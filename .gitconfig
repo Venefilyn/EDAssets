@@ -1,0 +1,3 @@
+[credential]
+	helper = /github/home/.git-credential-helper
+	useHttpPath = true

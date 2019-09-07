@@ -173,7 +173,25 @@
             "link":"/static/img/misc/INRA.svg"
           }
         ]
-      }
+      },
+    {
+        "name": "Technology Broker",
+        "preview":"/static/img/preview/tech_broker.png",
+        "desc": "Icon found in the game UI that signifies a Technology Broker.",
+        "fanmade": true,
+        "designer_info": [
+          {
+            "name":"CMDR Controllerface",
+            "url":"https://github.com/controllerface"
+          }
+        ],
+        "formats": [
+          {
+            "format":"PNG",
+            "link":"/static/img/misc/tech_broker.png"
+          }
+        ]
+      },
     ]
   }
 ]

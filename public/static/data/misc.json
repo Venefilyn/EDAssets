@@ -189,6 +189,10 @@
           {
             "format":"PNG",
             "link":"/static/img/misc/tech_broker.png"
+          },
+          {
+            "format":"SVG",
+            "link":"/static/img/misc/tech_broker.svg"
           }
         ]
       }

@@ -174,9 +174,9 @@
           }
         ]
       },
-    {
+      {
         "name": "Technology Broker",
-        "preview":"/static/img/preview/tech_broker.png",
+        "preview":"/static/img/preview/tech_broker_preview.png",
         "desc": "Icon found in the game UI that signifies a Technology Broker.",
         "fanmade": true,
         "designer_info": [

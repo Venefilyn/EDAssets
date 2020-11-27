@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Aisling Duval",
-        "preview":"/static/img/preview/aisling-duval.png",
+        "preview":"/static/img/preview/powers/aisling-duval.png",
         "desc": "Aisling Duval icon.",
         "fanmade": false,
         "designer_info": [
@@ -26,7 +26,7 @@
       },
       {
         "name": "Archon Delaine",
-        "preview":"/static/img/preview/archon-delaine.png",
+        "preview":"/static/img/preview/powers/archon-delaine.png",
         "desc": "Archon Delaine icon.",
         "fanmade": false,
         "designer_info": [
@@ -48,7 +48,7 @@
       },
       {
         "name": "Arissa Lavigny Duval",
-        "preview":"/static/img/preview/arissa-lavigny-duval.png",
+        "preview":"/static/img/preview/powers/arissa-lavigny-duval.png",
         "desc": "Arissa Lavigny Duval icon.",
         "fanmade": false,
         "designer_info": [
@@ -70,7 +70,7 @@
       },
       {
         "name": "Denton Patreus",
-        "preview":"/static/img/preview/denton-patreus.png",
+        "preview":"/static/img/preview/powers/denton-patreus.png",
         "desc": "Denton Patreus icon.",
         "fanmade": false,
         "designer_info": [
@@ -92,7 +92,7 @@
       },
       {
         "name": "Edmund Mahon",
-        "preview":"/static/img/preview/edmund-mahon.png",
+        "preview":"/static/img/preview/powers/edmund-mahon.png",
         "desc": "Edmund Mahon icon.",
         "fanmade": false,
         "designer_info": [
@@ -114,7 +114,7 @@
       },
       {
         "name": "Felicia Winters",
-        "preview":"/static/img/preview/felicia-winters.png",
+        "preview":"/static/img/preview/powers/felicia-winters.png",
         "desc": "Felicia Winters icon.",
         "fanmade": false,
         "designer_info": [
@@ -136,7 +136,7 @@
       },
       {
         "name": "Li Yong-Rui",
-        "preview":"/static/img/preview/li-yong-rui.png",
+        "preview":"/static/img/preview/powers/li-yong-rui.png",
         "desc": "Li Yong-Rui icon.",
         "fanmade": false,
         "designer_info": [
@@ -158,7 +158,7 @@
       },
       {
         "name": "Pranav Antal",
-        "preview":"/static/img/preview/pranav-antal.png",
+        "preview":"/static/img/preview/powers/pranav-antal.png",
         "desc": "Pranav Antal icon.",
         "fanmade": false,
         "designer_info": [
@@ -180,7 +180,7 @@
       },
       {
         "name": "Zachary Hudson",
-        "preview":"/static/img/preview/zachary-hudson.png",
+        "preview":"/static/img/preview/powers/zachary-hudson.png",
         "desc": "Zachary Hudson icon.",
         "fanmade": false,
         "designer_info": [
@@ -202,7 +202,7 @@
       },
       {
         "name": "Zemina Torval",
-        "preview":"/static/img/preview/zemina-torval.png",
+        "preview":"/static/img/preview/powers/zemina-torval.png",
         "desc": "Zemina Torval icon.",
         "fanmade": false,
         "designer_info": [
@@ -224,7 +224,7 @@
       },
       {
         "name": "Yuri Grom",
-        "preview":"/static/img/preview/yuri-grom.png",
+        "preview":"/static/img/preview/powers/yuri-grom.png",
         "desc": "EG Pilots icon, used by Yuri Grom power.",
         "fanmade": true,
         "designer_info": [

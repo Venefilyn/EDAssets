@@ -8,7 +8,7 @@
 		"types":[
       {
         "name": "Base",
-        "preview":"/static/img/preview/tn_benandrews_base.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_base.jpg",
         "desc": "A render of a part of a surface installation.",
         "fanmade": false,
         "designer_info": [
@@ -26,7 +26,7 @@
       },
 			{
         "name": "Base Entrance",
-        "preview":"/static/img/preview/tn_benandrews_base_entrance.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_base_entrance.jpg",
         "desc": "A concept of an human sized entrance to a surface installation, specifically focusing on the design of an airlock.",
         "fanmade": false,
         "designer_info": [
@@ -44,7 +44,7 @@
       },
 			{
         "name": "Base Sketch",
-        "preview":"/static/img/preview/tn_benandrews_base_sketch.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_base_sketch.jpg",
         "desc": "A concept featuring a small surface base",
         "fanmade": false,
         "designer_info": [
@@ -62,7 +62,7 @@
       },
 			{
         "name": "Base Sketch 2",
-        "preview":"/static/img/preview/tn_benandrews_base_sketch_2.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_base_sketch_2.jpg",
         "desc": "Concept art featuring a small surface base",
         "fanmade": false,
         "designer_info": [
@@ -80,7 +80,7 @@
       },
 			{
         "name": "Base Sketch 3",
-        "preview":"/static/img/preview/tn_benandrews_base_sketch_3.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_base_sketch_3.jpg",
         "desc": "Concept art featuring a small surface installation",
         "fanmade": false,
         "designer_info": [
@@ -98,7 +98,7 @@
       },
 			{
         "name": "Base Sketch WIP",
-        "preview":"/static/img/preview/tn_benandrews_base_sketch_wip.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_base_sketch_wip.jpg",
         "desc": "An unfinished concept piece, featuring an SRV standing inside the walls of an installation",
         "fanmade": false,
         "designer_info": [
@@ -116,7 +116,7 @@
       },
 			{
         "name": "Lamp Posts",
-        "preview":"/static/img/preview/tn_benandrews_lamposts.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_lamposts.jpg",
         "desc": "Concept art featuring multiple types of lighting meant for surface installations",
         "fanmade": false,
         "designer_info": [
@@ -134,7 +134,7 @@
       },
 			{
         "name": "Settlement",
-        "preview":"/static/img/preview/tn_benandrews_settlement.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_settlement.jpg",
         "desc": "An image of an SRV approaching a surface settlement",
         "fanmade": false,
         "designer_info": [
@@ -152,7 +152,7 @@
       },
 			{
         "name": "Settlement Modules 1",
-        "preview":"/static/img/preview/tn_benandrews_settlement_modules_1.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_settlement_modules_1.jpg",
         "desc": "Concept art featuring multiple different modules used for surface settlements",
         "fanmade": false,
         "designer_info": [
@@ -170,7 +170,7 @@
       },
 			{
         "name": "Settlement Modules 2",
-        "preview":"/static/img/preview/tn_benandrews_settlement_modules_2.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_settlement_modules_2.jpg",
         "desc": "Concept art featuring multiple different modules used for surface settlements",
         "fanmade": false,
         "designer_info": [
@@ -188,7 +188,7 @@
       },
 			{
         "name": "Starport",
-        "preview":"/static/img/preview/tn_benandrews_starport.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_starport.jpg",
         "desc": "Concept art featuring a large starport type surface installation",
         "fanmade": false,
         "designer_info": [
@@ -206,7 +206,7 @@
       },
 			{
         "name": "Tanks",
-        "preview":"/static/img/preview/tn_benandrews_tanks.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_tanks.jpg",
         "desc": "Concept art featuring multiple types of storage tanks featured on surface installations",
         "fanmade": false,
         "designer_info": [
@@ -224,7 +224,7 @@
       },
 			{
         "name": "Tower",
-        "preview":"/static/img/preview/tn_benandrews_tower.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_tower.jpg",
         "desc": "Concept art featuring an installation with a tower in it. A transport ship and an SRV are moving nearby",
         "fanmade": false,
         "designer_info": [
@@ -242,7 +242,7 @@
       },
 			{
         "name": "Wall",
-        "preview":"/static/img/preview/tn_benandrews_wall.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-surface-installations/tn_benandrews_wall.jpg",
         "desc": "Concept art featuring an installation wall.",
         "fanmade": false,
         "designer_info": [

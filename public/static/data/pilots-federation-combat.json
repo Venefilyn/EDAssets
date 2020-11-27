@@ -8,7 +8,7 @@
     "types":[
       {
         "name": "1: Harmless",
-        "preview":"/static/img/preview/rank-1-combat.png",
+        "preview":"/static/img/preview/pilots-federation/pilots-federation-combat/rank-1-combat.png",
         "desc": "The 1st combat rank handed out by Pilots Federation. This decal is not available in-game",
         "fanmade": true,
         "designer_info": [
@@ -30,7 +30,7 @@
       },
       {
         "name": "2: Mostly Harmless",
-        "preview":"/static/img/preview/rank-2-combat.png",
+        "preview":"/static/img/preview/pilots-federation/pilots-federation-combat/rank-2-combat.png",
         "desc": "The 2nd combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -52,7 +52,7 @@
       },
       {
         "name": "3: Novice",
-        "preview":"/static/img/preview/rank-3-combat.png",
+        "preview":"/static/img/preview/pilots-federation/pilots-federation-combat/rank-3-combat.png",
         "desc": "The 3rd combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -74,7 +74,7 @@
       },
       {
         "name": "4: Competent",
-        "preview":"/static/img/preview/rank-4-combat.png",
+        "preview":"/static/img/preview/pilots-federation/pilots-federation-combat/rank-4-combat.png",
         "desc": "The 4th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -96,7 +96,7 @@
       },
       {
         "name": "5: Expert",
-        "preview":"/static/img/preview/rank-5-combat.png",
+        "preview":"/static/img/preview/pilots-federation/pilots-federation-combat/rank-5-combat.png",
         "desc": "The 5th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -118,7 +118,7 @@
       },
       {
         "name": "6: Master",
-        "preview":"/static/img/preview/rank-6-combat.png",
+        "preview":"/static/img/preview/pilots-federation/pilots-federation-combat/rank-6-combat.png",
         "desc": "The 6th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -140,7 +140,7 @@
       },
       {
         "name": "7: Dangerous",
-        "preview":"/static/img/preview/rank-7-combat.png",
+        "preview":"/static/img/preview/pilots-federation/pilots-federation-combat/rank-7-combat.png",
         "desc": "The 7th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -162,7 +162,7 @@
       },
       {
         "name": "8: Deadly",
-        "preview":"/static/img/preview/rank-8-combat.png",
+        "preview":"/static/img/preview/pilots-federation/pilots-federation-combat/rank-8-combat.png",
         "desc": "The 8th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [
@@ -184,7 +184,7 @@
       },
       {
         "name": "9: Elite",
-        "preview":"/static/img/preview/rank-9-combat.png",
+        "preview":"/static/img/preview/pilots-federation/pilots-federation-combat/rank-9-combat.png",
         "desc": "The 9th combat rank handed out by Pilots Federation.",
         "fanmade": true,
         "designer_info": [

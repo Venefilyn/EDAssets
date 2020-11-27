@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Barnacles",
-        "preview":"/static/img/preview/barnacles_logo.png",
+        "preview":"/static/img/preview/misc/barnacles_logo.png",
         "desc": "The alien barnacles logo.",
         "fanmade": true,
         "designer_info": [
@@ -26,7 +26,7 @@
       },
       {
         "name": "Combat Bonds",
-        "preview":"/static/img/preview/Combat-Bonds.png",
+        "preview":"/static/img/preview/misc/Combat-Bonds.png",
         "desc": "The (combat) bonds icon.",
         "fanmade": true,
         "designer_info": [
@@ -48,7 +48,7 @@
       },
       {
         "name": "Onionhead",
-        "preview":"/static/img/preview/Onionhead.png",
+        "preview":"/static/img/preview/misc/Onionhead.png",
         "desc": "The Onionhead icon taken from the Onionhead t-shirt.",
         "fanmade": true,
         "designer_info": [
@@ -66,7 +66,7 @@
       },
       {
         "name": "HUD element",
-        "preview":"/static/img/preview/hud.png",
+        "preview":"/static/img/preview/misc/hud.png",
         "desc": "The hud visible on each side of the cockpit projection (i.e. where weapons are shown).",
         "fanmade": true,
         "designer_info": [
@@ -88,7 +88,7 @@
       },
       {
         "name": "Retro ships",
-        "preview":"/static/img/preview/retro.png",
+        "preview":"/static/img/preview/misc/retro.png",
         "desc": "The retro style of aircrafts, originating from an Elite Dangerous t-shirt.",
         "fanmade": false,
         "designer_info": [
@@ -110,7 +110,7 @@
       },
       {
         "name": "Aegis",
-        "preview":"/static/img/preview/aegis.png",
+        "preview":"/static/img/preview/misc/aegis.png",
         "desc": "Agency to gather intelligence on the Thargoids and co-ordiante future research on them.",
         "fanmade": true,
         "designer_info": [
@@ -132,7 +132,7 @@
       },
 	  {
         "name": "Mycohazard",
-        "preview":"/static/img/preview/mycohazard.png",
+        "preview":"/static/img/preview/misc/mycohazard.png",
         "desc": "Mycohazard warning sign from INRA base.",
         "fanmade": true,
         "designer_info": [
@@ -154,7 +154,7 @@
       },
 	  {
         "name": "INRA",
-        "preview":"/static/img/preview/INRA.png",
+        "preview":"/static/img/preview/misc/INRA.png",
         "desc": "INRA logo from INRA base.",
         "fanmade": true,
         "designer_info": [
@@ -176,7 +176,7 @@
       },
       {
         "name": "Technology Broker",
-        "preview":"/static/img/preview/tech_broker_preview.png",
+        "preview":"/static/img/preview/misc/tech_broker_preview.png",
         "desc": "Icon found in the game UI that signifies a Technology Broker.",
         "fanmade": true,
         "designer_info": [

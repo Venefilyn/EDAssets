@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Alliance",
-        "preview":"/static/img/preview/Alliance.png",
+        "preview":"/static/img/preview/factions/Alliance.png",
         "desc": "The Alliance logo.",
         "fanmade": true,
         "designer_info": [
@@ -26,7 +26,7 @@
       },
       {
         "name": "Alliance",
-        "preview":"/static/img/preview/Alliance_no_ring.png",
+        "preview":"/static/img/preview/factions/Alliance_no_ring.png",
         "desc": "The Alliance logo without the ring.",
         "fanmade": true,
         "designer_info": [
@@ -48,7 +48,7 @@
       },
       {
         "name": "Alliance",
-        "preview":"/static/img/preview/Alliance-insignia.png",
+        "preview":"/static/img/preview/factions/Alliance-insignia.png",
         "desc": "The Alliance insigna.",
         "fanmade": false,
         "designer_info": [
@@ -66,7 +66,7 @@
       },
       {
         "name": "Empire",
-        "preview":"/static/img/preview/Empire.png",
+        "preview":"/static/img/preview/factions/Empire.png",
         "desc": "The Empire logo.",
         "fanmade": true,
         "designer_info": [
@@ -88,7 +88,7 @@
       },
       {
         "name": "Empire",
-        "preview":"/static/img/preview/Empire-insignia.png",
+        "preview":"/static/img/preview/factions/Empire-insignia.png",
         "desc": "The Empire insigna.",
         "fanmade": false,
         "designer_info": [
@@ -106,7 +106,7 @@
       },
       {
         "name": "Federation",
-        "preview":"/static/img/preview/Federation.png",
+        "preview":"/static/img/preview/factions/Federation.png",
         "desc": "The Federation logo.",
         "fanmade": true,
         "designer_info": [
@@ -128,7 +128,7 @@
       },
       {
         "name": "Federation",
-        "preview":"/static/img/preview/Federation-insignia.png",
+        "preview":"/static/img/preview/factions/Federation-insignia.png",
         "desc": "The Federation insigna.",
         "fanmade": false,
         "designer_info": [
@@ -146,7 +146,7 @@
       },
       {
         "name": "Federation Tiny",
-        "preview":"/static/img/preview/mini-federation_icon.png",
+        "preview":"/static/img/preview/factions/mini-federation_icon.png",
         "desc": "The tiny Federation insigna. Shown on 'Find a Squadron' page",
         "fanmade": true,
         "designer_info": [
@@ -168,7 +168,7 @@
       },
       {
         "name": "Independent",
-        "preview":"/static/img/preview/independent-power.png",
+        "preview":"/static/img/preview/factions/independent-power.png",
         "desc": "Represents independent as a superpower",
         "fanmade": true,
         "designer_info": [

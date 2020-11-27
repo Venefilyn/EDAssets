@@ -1,0 +1,141 @@
+<svg style="height:170px" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <style type="text/css" >
+      <![CDATA[
+
+        @keyframes outer {
+          0% {
+            opacity: 0.3;
+          }
+          20% {
+            opacity: 1;
+          }
+          100% {
+            opacity: 0.3;
+          }
+        }
+        @keyframes inner {
+          0% {
+            opacity: 0.4;
+          }
+          20% {
+            opacity: 1;
+          }
+          100% {
+            opacity: 0.4;
+          }
+        }
+        .l1 {
+          animation: outer 1000ms linear infinite;
+        }
+        .l2 {
+          animation: inner 1000ms linear infinite;
+        }
+        .d19 {
+          opacity: 1;
+          animation-delay: 1000ms;
+        }
+        .d18 {
+          opacity: 0.94736842;
+          animation-delay: 947.36842105ms;
+        }
+        .d17 {
+          opacity: 0.89473684;
+          animation-delay: 894.73684211ms;
+        }
+        .d16 {
+          opacity: 0.84210526;
+          animation-delay: 842.10526316ms;
+        }
+        .d15 {
+          opacity: 0.78947368;
+          animation-delay: 789.47368421ms;
+        }
+        .d14 {
+          opacity: 0.73684211;
+          animation-delay: 736.84210526ms;
+        }
+        .d13 {
+          opacity: 0.68421053;
+          animation-delay: 684.21052632ms;
+        }
+        .d12 {
+          opacity: 0.63157895;
+          animation-delay: 631.57894737ms;
+        }
+        .d11 {
+          opacity: 0.57894737;
+          animation-delay: 578.94736842ms;
+        }
+        .d10 {
+          opacity: 0.52631579;
+          animation-delay: 526.31578947ms;
+        }
+        .d9 {
+          opacity: 0.47368421;
+          animation-delay: 473.68421053ms;
+        }
+        .d8 {
+          opacity: 0.42105263;
+          animation-delay: 421.05263158ms;
+        }
+        .d7 {
+          opacity: 0.36842105;
+          animation-delay: 368.42105263ms;
+        }
+        .d6 {
+          opacity: 0.31578947;
+          animation-delay: 315.78947368ms;
+        }
+        .d5 {
+          opacity: 0.26315789;
+          animation-delay: 263.15789474ms;
+        }
+        .d4 {
+          opacity: 0.21052632;
+          animation-delay: 210.52631579ms;
+        }
+        .d3 {
+          opacity: 0.15789474;
+          animation-delay: 157.89473684ms;
+        }
+        .d2 {
+          opacity: 0.10526316;
+          animation-delay: 105.26315789ms;
+        }
+        .d1 {
+          opacity: 0.05263158;
+          animation-delay: 52.63157895ms;
+        }
+        svg {
+          fill: #ff7100;
+        }
+
+      ]]>
+    </style>
+
+  <path d="m5,8l5,8l5,-8z" class="l1 d1" />
+  <path d="m5,8l5,-8l5,8z" class="l1 d2" />
+  <path d="m10,0l5,8l5,-8z" class="l1 d3" />
+  <path d="m15,8l5,-8l5,8z" class="l1 d4" />
+  <path d="m20,0l5,8l5,-8z" class="l1 d5" />
+  <path d="m25,8l5,-8l5,8z" class="l1 d6" />
+  <path d="m25,8l5,8l5,-8z" class="l1 d7" />
+  <path d="m30,16l5,-8l5,8z" class="l1 d8" />
+  <path d="m30,16l5,8l5,-8z" class="l1 d9" />
+  <path d="m25,24l5,-8l5,8z" class="l1 d10" />
+  <path d="m25,24l5,8l5,-8z" class="l1 d11" />
+  <path d="m20,32l5,-8l5,8z" class="l1 d13" />
+  <path d="m15,24l5,8l5,-8z" class="l1 d14" />
+  <path d="m10,32l5,-8l5,8z" class="l1 d15" />
+  <path d="m5,24l5,8l5,-8z" class="l1 d16" />
+  <path d="m5,24l5,-8l5,8z" class="l1 d17" />
+  <path d="m0,16l5,8l5,-8z" class="l1 d18" />
+  <path d="m0,16l5,-8l5,8z" class="l1 d20" />
+  <path d="m10,16l5,-8l5,8z" class="l2 d0" />
+  <path d="m15,8l5,8l5,-8z" class="l2 d3" />
+  <path d="m20,16l5,-8l5,8z" class="l2 d6" />
+  <path d="m20,16l5,8l5,-8z" class="l2 d9" />
+  <path d="m15,24l5,-8l5,8z" class="l2 d12" />
+  <path d="m10,16l5,8l5,-8z" class="l2 d15" />
+</svg>

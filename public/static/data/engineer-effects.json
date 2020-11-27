@@ -8,7 +8,7 @@
     "types":[
       {
         "name": "Corrosion",
-        "preview":"/static/img/preview/corrosion.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/corrosion.png",
         "desc": "Corrosion effect.",
         "fanmade": true,
         "designer_info": [
@@ -30,7 +30,7 @@
       },
       {
         "name": "Engine disruption",
-        "preview":"/static/img/preview/engine-disruption.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/engine-disruption.png",
         "desc": "Engine disruption effect.",
         "fanmade": true,
         "designer_info": [
@@ -52,7 +52,7 @@
       },
       {
         "name": "Engine reboot",
-        "preview":"/static/img/preview/engine-reboot.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/engine-reboot.png",
         "desc": "Engine reboot effect.",
         "fanmade": true,
         "designer_info": [
@@ -74,7 +74,7 @@
       },
       {
         "name": "FSD reboot",
-        "preview":"/static/img/preview/fsd-reboot.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/fsd-reboot.png",
         "desc": "FSD reboot effect. Also the icon for FSD injection",
         "fanmade": true,
         "designer_info": [
@@ -96,7 +96,7 @@
       },
       {
         "name": "Hull breach",
-        "preview":"/static/img/preview/hull-breach.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/hull-breach.png",
         "desc": "Hull breach effect.",
         "fanmade": true,
         "designer_info": [
@@ -118,7 +118,7 @@
       },
       {
         "name": "Impulse attack",
-        "preview":"/static/img/preview/impulse-attack.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/impulse-attack.png",
         "desc": "Impulse attack effect.",
         "fanmade": true,
         "designer_info": [
@@ -140,7 +140,7 @@
       },
       {
         "name": "Increase emissions",
-        "preview":"/static/img/preview/increased-emissions.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/increased-emissions.png",
         "desc": "Increase emissions effect.",
         "fanmade": true,
         "designer_info": [
@@ -162,7 +162,7 @@
       },
       {
         "name": "Internal damage",
-        "preview":"/static/img/preview/internal-damage.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/internal-damage.png",
         "desc": "Internal damage effect.",
         "fanmade": true,
         "designer_info": [
@@ -184,7 +184,7 @@
       },
       {
         "name": "Malfunction",
-        "preview":"/static/img/preview/malfunction.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/malfunction.png",
         "desc": "Malfunction effect.",
         "fanmade": true,
         "designer_info": [
@@ -206,7 +206,7 @@
       },
       {
         "name": "Mass locked",
-        "preview":"/static/img/preview/mass-locked.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/mass-locked.png",
         "desc": "Mass locked effect.",
         "fanmade": true,
         "designer_info": [
@@ -228,7 +228,7 @@
       },
       {
         "name": "Regeneration",
-        "preview":"/static/img/preview/regeneration.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/regeneration.png",
         "desc": "Regeneration effect.",
         "fanmade": true,
         "designer_info": [
@@ -250,7 +250,7 @@
       },
       {
         "name": "Sensor disruption",
-        "preview":"/static/img/preview/sensor-disruption.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/sensor-disruption.png",
         "desc": "Sensor disruption effect.",
         "fanmade": true,
         "designer_info": [
@@ -272,7 +272,7 @@
       },
       {
         "name": "Shield breach",
-        "preview":"/static/img/preview/shield-breach.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/shield-breach.png",
         "desc": "Shield breach effect.",
         "fanmade": true,
         "designer_info": [
@@ -294,7 +294,7 @@
       },
       {
         "name": "Shield cell cascade",
-        "preview":"/static/img/preview/shield-cell-cascade.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/shield-cell-cascade.png",
         "desc": "Shield cell cascade effect.",
         "fanmade": true,
         "designer_info": [
@@ -316,7 +316,7 @@
       },
       {
         "name": "Shield generator attack",
-        "preview":"/static/img/preview/shield-generator-attack.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/shield-generator-attack.png",
         "desc": "Shield generator attack effect.",
         "fanmade": true,
         "designer_info": [
@@ -338,7 +338,7 @@
       },
       {
         "name": "Shield reboot",
-        "preview":"/static/img/preview/shield-reboot.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/shield-reboot.png",
         "desc": "Shield reboot effect.",
         "fanmade": true,
         "designer_info": [
@@ -360,7 +360,7 @@
       },
       {
         "name": "Targeting overload",
-        "preview":"/static/img/preview/targeting-overload.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/targeting-overload.png",
         "desc": "Targeting overload effect.",
         "fanmade": true,
         "designer_info": [
@@ -382,7 +382,7 @@
       },
       {
         "name": "Target interferance",
-        "preview":"/static/img/preview/target-interferance.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/target-interferance.png",
         "desc": "Target interferance effect.",
         "fanmade": true,
         "designer_info": [
@@ -404,7 +404,7 @@
       },
       {
         "name": "Thermal attack",
-        "preview":"/static/img/preview/thermal-attack.png",
+        "preview":"/static/img/preview/engineers/engineer-effects/thermal-attack.png",
         "desc": "Thermal attack effect.",
         "fanmade": true,
         "designer_info": [

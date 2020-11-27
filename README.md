@@ -10,9 +10,7 @@ EDAssets, short for Elite Dangerous Assets, is a website with a purpose to get a
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
-or
-npm start
+npm run serve
 
 # build for production with minification
 npm run build

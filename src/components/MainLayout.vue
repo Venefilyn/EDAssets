@@ -13,7 +13,7 @@
 <script>
 import NavigationDrawer from '@/components/NavigationDrawer'
 import Toolbar from '@/components/Toolbar'
-import {mapState} from 'vuex'
+import { mapState } from 'vuex'
 
 export default {
   name: 'MainLayout',
@@ -33,7 +33,7 @@ export default {
         return {
           padding: '0px'
         }
-      }
+      } return undefined
     },
     fillHeight: function () {
       return this.$route.path === '/'

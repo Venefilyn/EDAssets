@@ -28,12 +28,13 @@ export default {
       navLists: state => state.types.navLists,
       currentSelected: state => state.types.currentSelected
     }),
+    // eslint-disable-next-line vue/return-in-computed-property
     containerStyle: function () {
       if (this.$route.path === '/') {
         return {
           padding: '0px'
         }
-      } return undefined
+      }
     },
     fillHeight: function () {
       return this.$route.path === '/'

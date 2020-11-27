@@ -5,16 +5,16 @@
         <h3 class="asset-title">{{cardData.name}}</h3>
       </div>
     </v-card-title>
-    <v-card-media v-if="cardData.colour" :style="'backgroundColor:' + cardData.colour" height="200px" contain></v-card-media>
-    <v-card-media v-else-if="cardData.webm" height="200px" contain>
-      <video loop autoplay style="margin:auto">
+    <v-responsive v-if="cardData.colour" :style="'backgroundColor:' + cardData.colour" height="200px" contain></v-responsive>
+    <v-responsive v-else-if="cardData.webm" height="200px" contain>
+      <video loop autoplay style="display: block; margin:auto">
         <source :src="cardData.preview" type="video/webm">
       </video>
-    </v-card-media>
-    <v-card-media v-else-if="cardData.svg" height="200px" contain>
+    </v-responsive>
+    <v-responsive v-else-if="cardData.svg" height="200px" contain>
       <object type="image/svg+xml" :data="cardData.preview" class="svgAsset"></object>
-    </v-card-media>
-    <v-card-media v-else-if="cardData.preview" :src="cardData.preview" height="200px" contain></v-card-media>
+    </v-responsive>
+    <v-img v-else-if="cardData.preview" :src="cardData.preview" height="200px" contain></v-img>
     <v-chip :class="{'hide-card': !cardData.fanmade}" color="accent" text-color="black">Fanmade Asset</v-chip>
     <v-card-actions>
       <v-btn color="secondary" flat v-for="(downloadCardData,i) in cardData.formats" :key="i" :href="downloadCardData.link" target="_blank" @click="cardFormatClick(downloadCardData)" @click.middle="cardFormatClick(downloadCardData)">

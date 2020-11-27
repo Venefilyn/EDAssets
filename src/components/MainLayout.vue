@@ -33,7 +33,8 @@ export default {
         return {
           padding: '0px'
         }
-      } return {}
+      }
+      return {}
     },
     fillHeight: function () {
       return this.$route.path === '/'

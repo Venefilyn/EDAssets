@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Squadrons",
-        "preview":"/static/img/preview/squadrons.png",
+        "preview":"/static/img/preview/squadrons/squadrons.png",
         "desc": "Represents squadrons as a whole",
         "fanmade": false,
         "formats": [
@@ -20,7 +20,7 @@
       },
       {
         "name": "Manage Ranks",
-        "preview":"/static/img/preview/manage-ranks.png",
+        "preview":"/static/img/preview/squadrons/manage-ranks.png",
         "desc": "Manage the ranks of the squadron.",
         "fanmade": true,
         "designer_info": [
@@ -42,7 +42,7 @@
       },
       {
         "name": "Members",
-        "preview":"/static/img/preview/members.png",
+        "preview":"/static/img/preview/squadrons/members.png",
         "desc": "Members of a squadron.",
         "fanmade": true,
         "designer_info": [
@@ -64,7 +64,7 @@
       },
       {
         "name": "New applications",
-        "preview":"/static/img/preview/new-applications.png",
+        "preview":"/static/img/preview/squadrons/new-applications.png",
         "desc": "Unseen squadron applications.",
         "fanmade": true,
         "designer_info": [
@@ -86,7 +86,7 @@
       },
       {
         "name": "Settings",
-        "preview":"/static/img/preview/settings.png",
+        "preview":"/static/img/preview/squadrons/settings.png",
         "desc": "Settings of specific squadron.",
         "fanmade": true,
         "designer_info": [
@@ -108,7 +108,7 @@
       },
       {
         "name": "Tags",
-        "preview":"/static/img/preview/tags.png",
+        "preview":"/static/img/preview/squadrons/tags.png",
         "desc": "Used to tag squadrons, e.g. PvP, PvE.",
         "fanmade": true,
         "designer_info": [
@@ -130,7 +130,7 @@
       },
       {
         "name": "Applications",
-        "preview":"/static/img/preview/applications.png",
+        "preview":"/static/img/preview/squadrons/applications.png",
         "desc": "Squadron applications.",
         "fanmade": true,
         "designer_info": [
@@ -152,7 +152,7 @@
       },
       {
         "name": "Independent power",
-        "preview":"/static/img/preview/independent-power.png",
+        "preview":"/static/img/preview/squadrons/independent-power.png",
         "desc": "Represents independent as a superpower in settings page.",
         "fanmade": true,
         "designer_info": [
@@ -174,7 +174,7 @@
       },
       {
         "name": "Join Squadron",
-        "preview":"/static/img/preview/join_squadron.png",
+        "preview":"/static/img/preview/squadrons/join_squadron.png",
         "desc": "Shown in the initial Squadrons page to symbolize joining a Squadron.",
         "fanmade": true,
         "designer_info": [
@@ -196,7 +196,7 @@
       },
       {
         "name": "Squadron Leaderboard from website",
-        "preview":"/static/img/preview/leaderboard_website.png",
+        "preview":"/static/img/preview/squadrons/leaderboard_website.png",
         "desc": "As shown on elitedangerous.com for indicating squadron leaderboard.",
         "fanmade": false,
         "formats": [

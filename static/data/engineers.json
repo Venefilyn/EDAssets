@@ -5,7 +5,7 @@
             {
                 "name":"Engineer Effects",
                 "desc":"Ship effects caused by engineer special effects.",
-                "preview":"/static/img/preview/thermal-attack.png",
+                "preview":"/static/img/preview/engineers/thermal-attack.png",
                 "file":"engineer-effects.json",
                 "zipurl": [
                     {
@@ -26,7 +26,7 @@
         "types":[
             {
                 "name": "Engineer Icon",
-                "preview":"/static/img/preview/Engineer_icon.png",
+                "preview":"/static/img/preview/engineers/Engineer_icon.png",
                 "desc": "Icon used for engineers and their grading system.",
                 "fanmade": true,
                 "designer_info": [

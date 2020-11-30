@@ -12,7 +12,7 @@
     "types":[
       {
         "name": "Aisling Duval",
-        "preview":"/static/img/preview/Aisling-Duval-portrait.png",
+        "preview":"/static/img/preview/portraits/Aisling-Duval-portrait.png",
         "desc": "The Aisling Duval portrait.",
         "fanmade": false,
         "designer_info": [
@@ -30,7 +30,7 @@
       },
       {
         "name": "Archon Delaine",
-        "preview":"/static/img/preview/Archon-Delaine-portrait.png",
+        "preview":"/static/img/preview/portraits/Archon-Delaine-portrait.png",
         "desc": "Low quality Archon Delaine portrait.",
         "fanmade": false,
         "designer_info": [
@@ -48,7 +48,7 @@
       },
       {
         "name": "Arissa Lavigny-Duval",
-        "preview":"/static/img/preview/Arissa-Lavigny-Duval-portrait.png",
+        "preview":"/static/img/preview/portraits/Arissa-Lavigny-Duval-portrait.png",
         "desc": "Low quality Arissa Lavigny-Duval portrait.",
         "fanmade": false,
         "designer_info": [
@@ -66,7 +66,7 @@
       },
       {
         "name": "Denton Patreus",
-        "preview":"/static/img/preview/Denton-Patreus-portrait.png",
+        "preview":"/static/img/preview/portraits/Denton-Patreus-portrait.png",
         "desc": "The Denton Patreus portrait.",
         "fanmade": false,
         "designer_info": [
@@ -84,7 +84,7 @@
       },
       {
         "name": "Edmund Mahon",
-        "preview":"/static/img/preview/Edmund-Mahon-portrait.png",
+        "preview":"/static/img/preview/portraits/Edmund-Mahon-portrait.png",
         "desc": "Low quality Edmund Mahon portrait.",
         "fanmade": false,
         "designer_info": [
@@ -102,7 +102,7 @@
       },
       {
         "name": "Felicia Winters",
-        "preview":"/static/img/preview/Felicia-Winters-portrait.png",
+        "preview":"/static/img/preview/portraits/Felicia-Winters-portrait.png",
         "desc": "Low quality Felicia Winters portrait.",
         "fanmade": false,
         "designer_info": [
@@ -120,7 +120,7 @@
       },
       {
         "name": "Li Yong-Rui",
-        "preview":"/static/img/preview/Li-Yong-Rui-portrait.png",
+        "preview":"/static/img/preview/portraits/Li-Yong-Rui-portrait.png",
         "desc": "Low quality Li Yong-Rui portrait.",
         "fanmade": false,
         "designer_info": [
@@ -138,7 +138,7 @@
       },
       {
         "name": "Simguru Pranav Antal",
-        "preview":"/static/img/preview/Pranav-Antal-portrait.png",
+        "preview":"/static/img/preview/portraits/Pranav-Antal-portrait.png",
         "desc": "Low quality Simguru Pranav Antal portrait.",
         "fanmade": false,
         "designer_info": [
@@ -156,7 +156,7 @@
       },
       {
         "name": "Zachary Hudson",
-        "preview":"/static/img/preview/Zachary-Hudson-portrait.png",
+        "preview":"/static/img/preview/portraits/Zachary-Hudson-portrait.png",
         "desc": "Low quality Zachary Hudson portrait.",
         "fanmade": false,
         "designer_info": [
@@ -174,7 +174,7 @@
       },
       {
         "name": "Zemina Torval",
-        "preview":"/static/img/preview/Zemina-Torval-portrait.png",
+        "preview":"/static/img/preview/portraits/Zemina-Torval-portrait.png",
         "desc": "Low quality Zemina Torval portrait.",
         "fanmade": false,
         "designer_info": [

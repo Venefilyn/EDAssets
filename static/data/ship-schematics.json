@@ -5,7 +5,7 @@
             {
                 "name":"Transparent schematics",
                 "desc":"Black outlined vector schematics",
-                "preview":"/static/img/preview/anaconda-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/anaconda-arithon.jpg",
                 "file":"ship-schematics-arithon.json",
                 "zipurl": [
                     {
@@ -25,7 +25,7 @@
             {
                 "name":"Ship blueprints",
                 "desc":"Outlined ship images with top, front and 3D view.",
-                "preview":"/static/img/preview/Python_schematic.png",
+                "preview":"/static/img/preview/ship-schematics/prefim/Python_schematic.png",
                 "file":"ship-schematics-prefim.json",
                 "zipurl": [
                     {

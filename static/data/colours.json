@@ -5,7 +5,7 @@
       {
         "name":"Powerplay colours",
         "desc":"The powers specific colour.",
-        "preview":"/static/img/preview/Aisling-Duval-portrait.png",
+        "preview":"/static/img/preview/portraits/Aisling-Duval-portrait.png",
         "file":"colours-powerplay.json"
       }
     ],

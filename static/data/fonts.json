@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Century Gothic",
-        "preview":"/static/img/preview/Century-Gothic.png",
+        "preview":"/static/img/preview/fonts/Century-Gothic.png",
         "desc": "The Galnet font.",
         "fanmade": false,
         "designer_info": [
@@ -22,7 +22,7 @@
       },
       {
         "name": "Euro Caps",
-        "preview":"/static/img/preview/Euro-Caps.png",
+        "preview":"/static/img/preview/fonts/Euro-Caps.png",
         "desc": "The heading font.",
         "fanmade": false,
         "designer_info": [
@@ -40,7 +40,7 @@
       },
       {
         "name": "Eurostile® Roman",
-        "preview":"/static/img/preview/Eurostile.png",
+        "preview":"/static/img/preview/fonts/Eurostile.png",
         "desc": "The heading font used on the official website.",
         "fanmade": false,
         "designer_info": [
@@ -58,7 +58,7 @@
       },
       {
         "name": "Sintony",
-        "preview":"/static/img/preview/Sintony.png",
+        "preview":"/static/img/preview/fonts/Sintony.png",
         "desc": "The paragraph font.",
         "fanmade": false,
         "designer_info": [
@@ -75,7 +75,7 @@
       },
       {
         "name": "Telegrama",
-        "preview":"/static/img/preview/Telegrama.png",
+        "preview":"/static/img/preview/fonts/Telegrama.png",
         "desc": "The font used for numbers.",
         "fanmade": false,
         "designer_info": [

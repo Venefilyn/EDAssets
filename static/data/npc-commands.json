@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Attack Target",
-        "preview":"/static/img/preview/attack_target.png",
+        "preview":"/static/img/preview/npc-commands/attack_target.png",
         "desc": "Attack selected target.",
         "fanmade": true,
         "designer_info": [
@@ -26,7 +26,7 @@
       },
       {
         "name": "Defend",
-        "preview":"/static/img/preview/defend.png",
+        "preview":"/static/img/preview/npc-commands/defend.png",
         "desc": "Defend current ship.",
         "fanmade": true,
         "designer_info": [
@@ -48,7 +48,7 @@
       },
       {
         "name": "Engage At Will",
-        "preview":"/static/img/preview/engage_at_will.png",
+        "preview":"/static/img/preview/npc-commands/engage_at_will.png",
         "desc": "Engage hostiles at will.",
         "fanmade": true,
         "designer_info": [
@@ -70,7 +70,7 @@
       },
       {
         "name": "Follow Me",
-        "preview":"/static/img/preview/follow_me.png",
+        "preview":"/static/img/preview/npc-commands/follow_me.png",
         "desc": "Tell NPC pilot to follow.",
         "fanmade": true,
         "designer_info": [
@@ -92,7 +92,7 @@
       },
       {
         "name": "Hold Position",
-        "preview":"/static/img/preview/hold_position.png",
+        "preview":"/static/img/preview/npc-commands/hold_position.png",
         "desc": "Tell pilot to Stay put.",
         "fanmade": true,
         "designer_info": [
@@ -114,7 +114,7 @@
       },
       {
         "name": "Maintain Formation",
-        "preview":"/static/img/preview/maintain_formation.png",
+        "preview":"/static/img/preview/npc-commands/maintain_formation.png",
         "desc": "Follow in formation.",
         "fanmade": true,
         "designer_info": [
@@ -136,7 +136,7 @@
       },
       {
         "name": "Recall fighter",
-        "preview":"/static/img/preview/recall_fighter.png",
+        "preview":"/static/img/preview/npc-commands/recall_fighter.png",
         "desc": "Return deployed fighter to ship.",
         "fanmade": true,
         "designer_info": [
@@ -158,7 +158,7 @@
       },
       {
         "name": "Switch",
-        "preview":"/static/img/preview/switch.png",
+        "preview":"/static/img/preview/npc-commands/switch.png",
         "desc": "Switch controlled ship with NPC pilot.",
         "fanmade": true,
         "designer_info": [

@@ -5,7 +5,7 @@
       {
         "name":"Combat",
         "desc":"Combat ranks.",
-        "preview":"/static/img/preview/rank-9-combat.png",
+        "preview":"/static/img/preview/pilots-federation/rank-9-combat.png",
         "file":"pilots-federation-combat.json",
         "zipurl": [
             {
@@ -25,7 +25,7 @@
       {
         "name":"CQC",
         "desc":"CQC ranks.",
-        "preview":"/static/img/preview/rank-9-cqc.png",
+        "preview":"/static/img/preview/pilots-federation/rank-9-cqc.png",
         "file":"pilots-federation-cqc.json",
         "zipurl": [
             {
@@ -45,7 +45,7 @@
       {
         "name":"Explorer",
         "desc":"Explorer ranks.",
-        "preview":"/static/img/preview/rank-9-explorer.png",
+        "preview":"/static/img/preview/pilots-federation/rank-9-explorer.png",
         "file":"pilots-federation-explorer.json",
         "zipurl": [
             {
@@ -65,7 +65,7 @@
       {
         "name":"Trading",
         "desc":"Trading ranks.",
-        "preview":"/static/img/preview/rank-9-trading.png",
+        "preview":"/static/img/preview/pilots-federation/rank-9-trading.png",
         "file":"pilots-federation-trading.json",
         "zipurl": [
             {
@@ -86,7 +86,7 @@
     "types":[
       {
         "name": "Rank 1",
-        "preview":"/static/img/preview/rank-1.png",
+        "preview":"/static/img/preview/pilots-federation/rank-1.png",
         "desc": "The 1st rank handed out by Pilots Federation.",
         "fanmade": false,
         "designer_info": [
@@ -108,7 +108,7 @@
       },
       {
         "name": "Rank 2",
-        "preview":"/static/img/preview/rank-2.png",
+        "preview":"/static/img/preview/pilots-federation/rank-2.png",
         "desc": "The 2nd rank handed out by Pilots Federation.",
         "fanmade": false,
         "designer_info": [
@@ -130,7 +130,7 @@
       },
       {
         "name": "Rank 3",
-        "preview":"/static/img/preview/rank-3.png",
+        "preview":"/static/img/preview/pilots-federation/rank-3.png",
         "desc": "The 3rd rank handed out by Pilots Federation.",
         "fanmade": false,
         "designer_info": [
@@ -152,7 +152,7 @@
       },
       {
         "name": "Rank 4",
-        "preview":"/static/img/preview/rank-4.png",
+        "preview":"/static/img/preview/pilots-federation/rank-4.png",
         "desc": "The 4th rank handed out by Pilots Federation.",
         "fanmade": false,
         "designer_info": [
@@ -174,7 +174,7 @@
       },
       {
         "name": "Rank 5",
-        "preview":"/static/img/preview/rank-5.png",
+        "preview":"/static/img/preview/pilots-federation/rank-5.png",
         "desc": "The 5th rank handed out by Pilots Federation.",
         "fanmade": false,
         "designer_info": [
@@ -196,7 +196,7 @@
       },
       {
         "name": "Rank 6",
-        "preview":"/static/img/preview/rank-6.png",
+        "preview":"/static/img/preview/pilots-federation/rank-6.png",
         "desc": "The 6th rank handed out by Pilots Federation.",
         "fanmade": false,
         "designer_info": [
@@ -218,7 +218,7 @@
       },
       {
         "name": "Rank 7",
-        "preview":"/static/img/preview/rank-7.png",
+        "preview":"/static/img/preview/pilots-federation/rank-7.png",
         "desc": "The 7th rank handed out by Pilots Federation.",
         "fanmade": false,
         "designer_info": [
@@ -240,7 +240,7 @@
       },
       {
         "name": "Rank 8",
-        "preview":"/static/img/preview/rank-8.png",
+        "preview":"/static/img/preview/pilots-federation/rank-8.png",
         "desc": "The 8th rank handed out by Pilots Federation.",
         "fanmade": false,
         "designer_info": [
@@ -262,7 +262,7 @@
       },
       {
         "name": "Rank 9",
-        "preview":"/static/img/preview/rank-9.png",
+        "preview":"/static/img/preview/pilots-federation/rank-9.png",
         "desc": "The 9th rank handed out by Pilots Federation.",
         "fanmade": false,
         "designer_info": [

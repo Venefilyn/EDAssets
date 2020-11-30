@@ -26,7 +26,7 @@
     "types":[
       {
         "name": "Expanding",
-        "preview":"/static/img/preview/Expanding.png",
+        "preview":"/static/img/preview/powerplay/Expanding.png",
         "desc": "The Expanding icon.",
         "fanmade": true,
         "designer_info": [
@@ -48,7 +48,7 @@
       },
       {
         "name": "Fortifying",
-        "preview":"/static/img/preview/Fortifying.png",
+        "preview":"/static/img/preview/powerplay/Fortifying.png",
         "desc": "The Fortifying icon.",
         "fanmade": true,
         "designer_info": [
@@ -70,7 +70,7 @@
       },
       {
         "name": "Under Threat",
-        "preview":"/static/img/preview/Under-threat.png",
+        "preview":"/static/img/preview/powerplay/Under-threat.png",
         "desc": "The Under Threat icon.",
         "fanmade": true,
         "designer_info": [

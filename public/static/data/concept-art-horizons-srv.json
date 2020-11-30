@@ -8,7 +8,7 @@
 		"types": [
       {
         "name": "SRV",
-        "preview":"/static/img/preview/tn_benandrews_srv.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-srv/tn_benandrews_srv.jpg",
         "desc": "A render of the Surface Recon Vehicle",
         "fanmade": false,
         "designer_info": [
@@ -26,7 +26,7 @@
       },
 			{
         "name": "SRV Cabin Interior",
-        "preview":"/static/img/preview/tn_benandrews_srv_cabin_interior.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-srv/tn_benandrews_srv_cabin_interior.jpg",
         "desc": "A concept featuring the interior of the SRV. In this version the terrain map was projected on glass above the radar.",
         "fanmade": false,
         "designer_info": [
@@ -44,7 +44,7 @@
       },
 			{
         "name": "SRV Cabin",
-        "preview":"/static/img/preview/tn_benandrews_srvcabin.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-srv/tn_benandrews_srvcabin.jpg",
         "desc": "A concept featuring the cabin part of the SRV from multiple angles",
         "fanmade": false,
         "designer_info": [
@@ -62,7 +62,7 @@
       },
 			{
         "name": "SRV Seat",
-        "preview":"/static/img/preview/tn_benandrews_srvseat.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-srv/tn_benandrews_srvseat.jpg",
         "desc": "Concept art featuring the seat of the SRV from multiple angles",
         "fanmade": false,
         "designer_info": [
@@ -80,7 +80,7 @@
       },
 			{
         "name": "SRV Turret",
-        "preview":"/static/img/preview/tn_benandrews_srvturret.jpg",
+        "preview":"/static/img/preview/concept-art/concept-art-horizons/concept-art-horizons-srv/tn_benandrews_srvturret.jpg",
         "desc": "Concept art featuring the turret of the SRV",
         "fanmade": false,
         "designer_info": [

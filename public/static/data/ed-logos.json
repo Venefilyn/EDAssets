@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Elite Dangerous minimalistic",
-        "preview":"/static/img/preview/elite-dangerous-minimalistic.png",
+        "preview":"/static/img/preview/ed-logos/elite-dangerous-minimalistic.png",
         "desc": "The minimalistic Elite Dangerous logo.",
         "fanmade": false,
         "formats": [
@@ -20,7 +20,7 @@
       },
       {
         "name": "Elite Dangerous vector",
-        "preview":"/static/img/preview/elite-dangerous-clean.png",
+        "preview":"/static/img/preview/ed-logos/elite-dangerous-clean.png",
         "desc": "The Elite Dangerous logo in clean vector form.",
         "fanmade": true,
         "designer_info": [
@@ -42,7 +42,7 @@
       },
       {
         "name": "Elite Dangerous v4",
-        "preview":"/static/img/preview/elite-dangerous-logo-2018.png",
+        "preview":"/static/img/preview/ed-logos/elite-dangerous-logo-2018.png",
         "desc": "Displayed on the Elite Dangerous website.",
         "fanmade": false,
         "designer_info": [
@@ -60,7 +60,7 @@
       },
       {
         "name": "Elite Dangerous v3",
-        "preview":"/static/img/preview/elite-dangerous-logo_grey.png",
+        "preview":"/static/img/preview/ed-logos/elite-dangerous-logo_grey.png",
         "desc": "The Elite Dangerous logo.",
         "fanmade": false,
         "designer_info": [
@@ -78,7 +78,7 @@
       },
       {
         "name": "Elite Dangerous v2",
-        "preview":"/static/img/preview/elite-dangerous-logo.png",
+        "preview":"/static/img/preview/ed-logos/elite-dangerous-logo.png",
         "desc": "The Elite Dangerous v2 logo.",
         "fanmade": false,
         "designer_info": [
@@ -96,7 +96,7 @@
       },
       {
         "name": "Elite Dangerous v1",
-        "preview":"/static/img/preview/elite-dangerous-old-logo.png",
+        "preview":"/static/img/preview/ed-logos/elite-dangerous-old-logo.png",
         "desc": "The old Elite Dangerous logo.",
         "fanmade": false,
         "designer_info": [
@@ -114,7 +114,7 @@
       },
       {
         "name": "Elite Dangerous: Horizons",
-        "preview":"/static/img/preview/elite-dangerous-horizons-main.jpg",
+        "preview":"/static/img/preview/ed-logos/elite-dangerous-horizons-main.jpg",
         "desc": "High-res Elite Dangerous: Horizons logo with black background.",
         "fanmade": false,
         "designer_info": [
@@ -132,7 +132,7 @@
       },
       {
         "name": "Elite Dangerous: Horizons (text-only)",
-        "preview":"/static/img/preview/elite-dangerous-horizons-text-only.jpg",
+        "preview":"/static/img/preview/ed-logos/elite-dangerous-horizons-text-only.jpg",
         "desc": "High-res text-only Elite Dangerous: Horizons logo with black background.",
         "fanmade": false,
         "designer_info": [
@@ -150,7 +150,7 @@
       },
       {
         "name": "Elite Dangeorus vector",
-        "preview":"/static/img/preview/Elite-Dangerous-gray.png",
+        "preview":"/static/img/preview/ed-logos/Elite-Dangerous-gray.png",
         "desc": "Raw Elite Dangerous vector. Grey coloured.",
         "fanmade": false,
         "designer_info": [
@@ -172,7 +172,7 @@
       },
       {
         "name": "The Engineers vector",
-        "preview":"/static/img/preview/Engineers.png",
+        "preview":"/static/img/preview/ed-logos/Engineers.png",
         "desc": "Raw The Engineers vector.",
         "fanmade": false,
         "designer_info": [
@@ -194,7 +194,7 @@
       },
       {
         "name": "Frontier Developments Plc. vector",
-        "preview":"/static/img/preview/Frontier.png",
+        "preview":"/static/img/preview/ed-logos/Frontier.png",
         "desc": "Raw Frontier vector.",
         "fanmade": false,
         "designer_info": [
@@ -216,7 +216,7 @@
       },
       {
         "name": "Colonia Expansion Initiative",
-        "preview":"/static/img/preview/colonia-expansion-initiative.png",
+        "preview":"/static/img/preview/ed-logos/colonia-expansion-initiative.png",
         "desc": "Vector for the Colonia Expansion Initiative. New colonisation effort outside the bubble.",
         "fanmade": false,
         "designer_info": [

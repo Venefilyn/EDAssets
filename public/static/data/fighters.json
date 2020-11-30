@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Condor fighter",
-        "preview":"/static/img/preview/Condor_fighter_topdown.png",
+        "preview":"/static/img/preview/fighters/Condor_fighter_topdown.png",
         "desc": "Top down of Federal F63 Fighter",
         "fanmade": true,
         "designer_info": [
@@ -26,7 +26,7 @@
       },
       {
         "name": "Imperial fighter",
-        "preview":"/static/img/preview/Imperial_fighter_topdown.png",
+        "preview":"/static/img/preview/fighters/Imperial_fighter_topdown.png",
         "desc": "Top down of Imperial Gu-97 Fighter",
         "fanmade": true,
         "designer_info": [
@@ -48,7 +48,7 @@
       },
       {
         "name": "Taipan fighter",
-        "preview":"/static/img/preview/Taipan_fighter_topdown.png",
+        "preview":"/static/img/preview/fighters/Taipan_fighter_topdown.png",
         "desc": "Top down of the Taipan Fighter",
         "fanmade": true,
         "designer_info": [

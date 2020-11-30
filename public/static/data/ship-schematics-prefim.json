@@ -8,7 +8,7 @@
     "types":[
       {
         "name": "Adder",
-        "preview":"/static/img/preview/Adder_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Adder_schematic.png",
         "desc": "Schematic of the Adder. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -26,7 +26,7 @@
       },
       {
         "name": "Anaconda",
-        "preview":"/static/img/preview/Anaconda_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Anaconda_schematic.png",
         "desc": "Schematic of the Anaconda. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -44,7 +44,7 @@
       },
       {
         "name": "Asp Explorer",
-        "preview":"/static/img/preview/Asp_Explorer_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Asp_Explorer_schematic.png",
         "desc": "Schematic of the Asp Explorer. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -62,7 +62,7 @@
       },
       {
         "name": "Cobra Mk. III",
-        "preview":"/static/img/preview/CobraMkIII_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/CobraMkIII_schematic.png",
         "desc": "Schematic of the Cobra Mk. III. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -80,7 +80,7 @@
       },
       {
         "name": "Diamondback Explorer",
-        "preview":"/static/img/preview/Diamondbackxl_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Diamondbackxl_schematic.png",
         "desc": "Schematic of the Diamondback Explorer. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -98,7 +98,7 @@
       },
       {
         "name": "Diamondback Scout",
-        "preview":"/static/img/preview/Diamondbacks_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Diamondbacks_schematic.png",
         "desc": "Schematic of the Diamondback Scout. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -116,7 +116,7 @@
       },
       {
         "name": "Eagle Mk. II",
-        "preview":"/static/img/preview/EagleMkII_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/EagleMkII_schematic.png",
         "desc": "Schematic of the Eagle Mk. II. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -134,7 +134,7 @@
       },
       {
         "name": "Federal Dropship",
-        "preview":"/static/img/preview/Federal_Dropship_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Federal_Dropship_schematic.png",
         "desc": "Schematic of the Federal Dropship. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -152,7 +152,7 @@
       },
       {
         "name": "Fer-de-Lance",
-        "preview":"/static/img/preview/Fer-de-Lance_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Fer-de-Lance_schematic.png",
         "desc": "Schematic of the Fer-de-Lance. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -170,7 +170,7 @@
       },
       {
         "name": "Hauler",
-        "preview":"/static/img/preview/Hauler_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Hauler_schematic.png",
         "desc": "Schematic of the Hauler. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -188,7 +188,7 @@
       },
       {
         "name": "Imperial Clipper",
-        "preview":"/static/img/preview/Imperial_Clipper_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Imperial_Clipper_schematic.png",
         "desc": "Schematic of the Imperial Clipper. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -206,7 +206,7 @@
       },
       {
         "name": "Imperial Courier",
-        "preview":"/static/img/preview/Imperial_Courier_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Imperial_Courier_schematic.png",
         "desc": "Schematic of the Imperial Courier. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -224,7 +224,7 @@
       },
       {
         "name": "Orca",
-        "preview":"/static/img/preview/Orca_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Orca_schematic.png",
         "desc": "Schematic of the Orca. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -242,7 +242,7 @@
       },
       {
         "name": "Python",
-        "preview":"/static/img/preview/Python_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Python_schematic.png",
         "desc": "Schematic of the Python. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -260,7 +260,7 @@
       },
       {
         "name": "Sidewinder Mk. I",
-        "preview":"/static/img/preview/SidewinderMkI_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/SidewinderMkI_schematic.png",
         "desc": "Schematic of the Sidewinder Mk. I. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -278,7 +278,7 @@
       },
       {
         "name": "Type-6",
-        "preview":"/static/img/preview/Type-6_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Type-6_schematic.png",
         "desc": "Schematic of the Type-6. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -296,7 +296,7 @@
       },
       {
         "name": "Type-7",
-        "preview":"/static/img/preview/Type-7_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Type-7_schematic.png",
         "desc": "Schematic of the Type-7. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -314,7 +314,7 @@
       },
       {
         "name": "Type-9",
-        "preview":"/static/img/preview/Type-9_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Type-9_schematic.png",
         "desc": "Schematic of the Type-9. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -332,7 +332,7 @@
       },
       {
         "name": "Viper Mk. III",
-        "preview":"/static/img/preview/ViperMkIII_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/ViperMkIII_schematic.png",
         "desc": "Schematic of the Viper Mk. III. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [
@@ -350,7 +350,7 @@
       },
       {
         "name": "Vulture",
-        "preview":"/static/img/preview/Vulture_schematic.png",
+        "preview":"/static/img/preview/ship-schematics/prefim/Vulture_schematic.png",
         "desc": "Schematic of the Vulture. Dark blue = 1m",
         "fanmade": true,
         "designer_info": [

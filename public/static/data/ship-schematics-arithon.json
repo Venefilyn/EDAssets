@@ -8,7 +8,7 @@
         "types": [
             {
                 "name": "Adder",
-                "preview":"/static/img/preview/adder-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/adder-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -29,7 +29,7 @@
             },
             {
                 "name": "Anaconda",
-                "preview":"/static/img/preview/anaconda-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/anaconda-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -50,7 +50,7 @@
             },
             {
                 "name": "Asp Explorer",
-                "preview":"/static/img/preview/asp-explorer-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/asp-explorer-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -71,7 +71,7 @@
             },
             {
                 "name": "Asp Scout",
-                "preview":"/static/img/preview/asp-scout-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/asp-scout-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -92,7 +92,7 @@
             },
             {
                 "name": "Beluga Liner",
-                "preview":"/static/img/preview/beluga-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/beluga-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -113,7 +113,7 @@
             },
             {
                 "name": "Cobra Mk III",
-                "preview":"/static/img/preview/cobra-mk-3-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/cobra-mk-3-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -134,7 +134,7 @@
             },
             {
                 "name": "Cobra Mk IV",
-                "preview":"/static/img/preview/cobra-mk-4-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/cobra-mk-4-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -155,7 +155,7 @@
             },
             {
                 "name": "Diamondback Explorer",
-                "preview":"/static/img/preview/diamondback-explorer-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/diamondback-explorer-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -176,7 +176,7 @@
             },
             {
                 "name": "Diamondback Scout",
-                "preview":"/static/img/preview/diamondback-scout-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/diamondback-scout-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -197,7 +197,7 @@
             },
             {
                 "name": "Dolphin",
-                "preview":"/static/img/preview/dolphin-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/dolphin-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -218,7 +218,7 @@
             },
             {
                 "name": "Eagle Mk II",
-                "preview":"/static/img/preview/eagle-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/eagle-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -239,7 +239,7 @@
             },
             {
                 "name": "F63 Condor",
-                "preview":"/static/img/preview/f63-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/f63-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -260,7 +260,7 @@
             },
             {
                 "name": "Farragut Battle Cruiser",
-                "preview":"/static/img/preview/farragut-battle-cruiser-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/farragut-battle-cruiser-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -281,7 +281,7 @@
             },
             {
                 "name": "Federal Assault Ship",
-                "preview":"/static/img/preview/federal-assault-ship-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/federal-assault-ship-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -302,7 +302,7 @@
             },
             {
                 "name": "Federal Corvette",
-                "preview":"/static/img/preview/federal-corvette-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/federal-corvette-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -323,7 +323,7 @@
             },
             {
                 "name": "Federal Dropship",
-                "preview":"/static/img/preview/federal-dropship-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/federal-dropship-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -344,7 +344,7 @@
             },
             {
                 "name": "Federal Gunship",
-                "preview":"/static/img/preview/federal-gunship-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/federal-gunship-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -365,7 +365,7 @@
             },
             {
                 "name": "Fer de Lance",
-                "preview":"/static/img/preview/fer-de-lance-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/fer-de-lance-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -386,7 +386,7 @@
             },
             {
                 "name": "GU-97 Imperial Fighter",
-                "preview":"/static/img/preview/gu97-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/gu97-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -407,7 +407,7 @@
             },
             {
                 "name": "Hauler",
-                "preview":"/static/img/preview/hauler-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/hauler-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -428,7 +428,7 @@
             },
             {
                 "name": "Imperial Clipper",
-                "preview":"/static/img/preview/imperial-clipper-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/imperial-clipper-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -449,7 +449,7 @@
             },
             {
                 "name": "Imperial Courier",
-                "preview":"/static/img/preview/imperial-courier-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/imperial-courier-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -470,7 +470,7 @@
             },
             {
                 "name": "Imperial Cutter",
-                "preview":"/static/img/preview/imperial-cutter-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/imperial-cutter-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -491,7 +491,7 @@
             },
             {
                 "name": "Imperial Eagle",
-                "preview":"/static/img/preview/imperial-eagle-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/imperial-eagle-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -512,7 +512,7 @@
             },
             {
                 "name": "Keelback",
-                "preview":"/static/img/preview/keelback-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/keelback-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -533,7 +533,7 @@
             },
             {
                 "name": "Majestic Class Interdictor",
-                "preview":"/static/img/preview/majestic-interdictor-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/majestic-interdictor-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -554,7 +554,7 @@
             },
             {
                 "name": "Orca",
-                "preview":"/static/img/preview/orca-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/orca-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -575,7 +575,7 @@
             },
             {
                 "name": "Python",
-                "preview":"/static/img/preview/python-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/python-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -596,7 +596,7 @@
             },
             {
                 "name": "Scarab SRV",
-                "preview":"/static/img/preview/scarab-srv-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/scarab-srv-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -617,7 +617,7 @@
             },
             {
                 "name": "Sidewinder Mk I",
-                "preview":"/static/img/preview/sidewinder-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/sidewinder-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -638,7 +638,7 @@
             },
             {
                 "name": "Taipan",
-                "preview":"/static/img/preview/taipan-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/taipan-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -659,7 +659,7 @@
             },
             {
                 "name": "Type-6 Transporter",
-                "preview":"/static/img/preview/type6-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/type6-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -680,7 +680,7 @@
             },
             {
                 "name": "Type-7 Transporter",
-                "preview":"/static/img/preview/type7-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/type7-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -699,9 +699,30 @@
                     }
                 ]
             },
+          {
+            "name": "Type-9 Transporter",
+            "preview":"/static/img/preview/ship-schematics/arithon/type9-arithon.jpg",
+            "fanmade": true,
+            "designer_info": [
+              {
+                "name": "CMDR Arithon",
+                "url": "http://www.elite-dangerous-blog.co.uk"
+              }
+            ],
+            "formats": [
+              {
+                "format": "PNG",
+                "link":"/static/img/ship-schematics/arithon/type9.png"
+              },
+              {
+                "format": "SVG",
+                "link":"/static/img/ship-schematics/arithon/type9.svg"
+              }
+            ]
+          },
             {
                 "name": "Viper Mk III",
-                "preview":"/static/img/preview/viper-mk-3-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/viper-mk-3-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -722,7 +743,7 @@
             },
             {
                 "name": "Viper Mk IV",
-                "preview":"/static/img/preview/viper-mk-4-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/viper-mk-4-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {
@@ -743,7 +764,7 @@
             },
             {
                 "name": "Vulture",
-                "preview":"/static/img/preview/vulture-arithon.jpg",
+                "preview":"/static/img/preview/ship-schematics/arithon/vulture-arithon.jpg",
                 "fanmade": true,
                 "designer_info": [
                     {

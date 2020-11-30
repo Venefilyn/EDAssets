@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "Bank of Zaonce",
-        "preview":"/static/img/preview/Bank-of-Zaonce.png",
+        "preview":"/static/img/preview/companies/Bank-of-Zaonce.png",
         "desc": "The Bank of Zaonce icon.",
         "fanmade": true,
         "designer_info": [
@@ -26,7 +26,7 @@
       },
       {
         "name": "GalNet",
-        "preview":"/static/img/preview/GalNet.png",
+        "preview":"/static/img/preview/companies/GalNet.png",
         "desc": "The GalNet icon. Font used together with it is Century Gothic.",
         "fanmade": true,
         "designer_info": [
@@ -48,7 +48,7 @@
       },
       {
         "name": "Universal Cartographics",
-        "preview":"/static/img/preview/Universal-Cartographics.png",
+        "preview":"/static/img/preview/companies/Universal-Cartographics.png",
         "desc": "The Universal Cartographics icon. Font used is probably Wilma Base/Farcit A.",
         "fanmade": true,
         "designer_info": [

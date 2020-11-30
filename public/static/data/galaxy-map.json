@@ -12,7 +12,7 @@
     "types":[
       {
         "name": "Friends",
-        "preview":"/static/img/preview/Friends-galaxy-map.png",
+        "preview":"/static/img/preview/galaxy-map/Friends-galaxy-map.png",
         "desc": "The Friends icon.",
         "fanmade": true,
         "designer_info": [
@@ -34,7 +34,7 @@
       },
       {
         "name": "Map",
-        "preview":"/static/img/preview/Map-galaxy-map.png",
+        "preview":"/static/img/preview/galaxy-map/Map-galaxy-map.png",
         "desc": "The Map galaxy view icon. Also the route-to icon",
         "fanmade": true,
         "designer_info": [
@@ -56,7 +56,7 @@
       },
       {
         "name": "Marker",
-        "preview":"/static/img/preview/Marker-galaxy-map.png",
+        "preview":"/static/img/preview/galaxy-map/Marker-galaxy-map.png",
         "desc": "The Marker icon.",
         "fanmade": true,
         "designer_info": [
@@ -78,7 +78,7 @@
       },
       {
         "name": "Powerplay",
-        "preview":"/static/img/preview/Powerplay-galaxy-map.png",
+        "preview":"/static/img/preview/galaxy-map/Powerplay-galaxy-map.png",
         "desc": "The Powerplay icon.",
         "fanmade": true,
         "designer_info": [
@@ -100,7 +100,7 @@
       },
       {
         "name": "Realistic",
-        "preview":"/static/img/preview/Realistic-galaxy-map.png",
+        "preview":"/static/img/preview/galaxy-map/Realistic-galaxy-map.png",
         "desc": "The Realistic galaxy view icon.",
         "fanmade": true,
         "designer_info": [
@@ -122,7 +122,7 @@
       },
       {
         "name": "Selection",
-        "preview":"/static/img/preview/Selection-galaxy-map.png",
+        "preview":"/static/img/preview/galaxy-map/Selection-galaxy-map.png",
         "desc": "The Selection icon.",
         "fanmade": true,
         "designer_info": [
@@ -144,7 +144,7 @@
       },
       {
         "name": "Wings",
-        "preview":"/static/img/preview/Wings-galaxy-map.png",
+        "preview":"/static/img/preview/galaxy-map/Wings-galaxy-map.png",
         "desc": "The Wings icon.",
         "fanmade": true,
         "designer_info": [
@@ -166,7 +166,7 @@
       },
       {
         "name": "System map - Normal",
-        "preview":"/static/img/preview/normal_map.png",
+        "preview":"/static/img/preview/galaxy-map/normal_map.png",
         "desc": "To display the normal system map where planets are on a tree-grid system.",
         "fanmade": true,
         "designer_info": [
@@ -188,7 +188,7 @@
       },
       {
         "name": "System map - Orrery",
-        "preview":"/static/img/preview/orrery_map.png",
+        "preview":"/static/img/preview/galaxy-map/orrery_map.png",
         "desc": "To display the orrery system map where planets are displayed with their orbits.",
         "fanmade": true,
         "designer_info": [
@@ -210,7 +210,7 @@
       },
       {
         "name": "Planet icon",
-        "preview":"/static/img/preview/planet.png",
+        "preview":"/static/img/preview/galaxy-map/planet.png",
         "desc": "As shown in left panel for planets.",
         "fanmade": true,
         "designer_info": [

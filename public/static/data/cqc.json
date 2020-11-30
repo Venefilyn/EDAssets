@@ -4,7 +4,7 @@
     "types":[
       {
         "name": "CQC Championship",
-        "preview":"/static/img/preview/CQC-Championship.png",
+        "preview":"/static/img/preview/cqc/CQC-Championship.png",
         "desc": "The CQC Championship logo. Font used is Neuropol.",
         "fanmade": true,
         "designer_info": [
@@ -26,7 +26,7 @@
       },
       {
         "name": "Enemy flag",
-        "preview":"/static/img/preview/Enemy-flag.png",
+        "preview":"/static/img/preview/cqc/Enemy-flag.png",
         "desc": "Icon for the opponent's flag on sensors.",
         "fanmade": true,
         "designer_info": [
@@ -48,7 +48,7 @@
       },
       {
         "name": "Flag hologram",
-        "preview":"/static/img/preview/Flag-hologram.png",
+        "preview":"/static/img/preview/cqc/Flag-hologram.png",
         "desc": "Flag ring icon.",
         "fanmade": true,
         "designer_info": [
@@ -70,7 +70,7 @@
       },
       {
         "name": "Friendly base",
-        "preview":"/static/img/preview/Friendly-base.png",
+        "preview":"/static/img/preview/cqc/Friendly-base.png",
         "desc": "Icon on scanner for friendly flag ring.",
         "fanmade": true,
         "designer_info": [
@@ -92,7 +92,7 @@
       },
       {
         "name": "Friendly escort",
-        "preview":"/static/img/preview/Friendly-escort.png",
+        "preview":"/static/img/preview/cqc/Friendly-escort.png",
         "desc": "Icon on scanner for friendly pilot who has the flag.",
         "fanmade": true,
         "designer_info": [
@@ -114,7 +114,7 @@
       },
       {
         "name": "Objective",
-        "preview":"/static/img/preview/Objective.png",
+        "preview":"/static/img/preview/cqc/Objective.png",
         "desc": "Icon for objectives visible on hologram.",
         "fanmade": true,
         "designer_info": [
@@ -136,7 +136,7 @@
       },
       {
         "name": "Shield booster",
-        "preview":"/static/img/preview/Shield.png",
+        "preview":"/static/img/preview/cqc/Shield.png",
         "desc": "Shield booster powerup.",
         "fanmade": true,
         "designer_info": [
@@ -158,7 +158,7 @@
       },
       {
         "name": "Speed",
-        "preview":"/static/img/preview/Speed.png",
+        "preview":"/static/img/preview/cqc/Speed.png",
         "desc": "Speed powerup.",
         "fanmade": true,
         "designer_info": [
@@ -180,7 +180,7 @@
       },
       {
         "name": "Stealth mode",
-        "preview":"/static/img/preview/Stealth.png",
+        "preview":"/static/img/preview/cqc/Stealth.png",
         "desc": "Stealth mode powerup.",
         "fanmade": true,
         "designer_info": [
@@ -202,7 +202,7 @@
       },
       {
         "name": "Weapon damage",
-        "preview":"/static/img/preview/Weapons.png",
+        "preview":"/static/img/preview/cqc/Weapons.png",
         "desc": "Weapon damage powerup.",
         "fanmade": true,
         "designer_info": [

@@ -1,32 +1,22 @@
 {
   "name": "ed-assets",
-  "version": "2.0.0",
-  "description": "A website listing a vast amount of Elite Dangerous assets",
-  "author": "Sayak Mukhopadhyay <mukhopadhyaysayak@gmail.com>",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
-    "axios": "^0.18.1",
-    "vue": "^2.6.12",
-    "vue-router": "^3.4.9",
-    "vuetify": "^1.5.24",
-    "vuex": "^3.6.0"
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.12.1",
-    "@vue/cli-plugin-eslint": "^3.12.1",
-    "@vue/cli-service": "^4.5.9",
-    "@vue/eslint-config-standard": "^4.0.0",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.2.3",
-    "node-sass": "^4.14.1",
-    "sass-loader": "^7.3.1",
-    "vue-analytics": "^5.22.1",
-    "vue-template-compiler": "^2.6.12"
+    "@types/react": "^17.0.15",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7",
+    "typescript": "4.3.5"
   }
 }

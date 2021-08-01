@@ -1,0 +1,21 @@
+.smallText {
+	font-size: 1.25em;
+}
+
+.bigText {
+	font-size: 2em;
+}
+
+.link {
+	text-decoration: underline;
+}
+
+.hint {
+	color: rgb(71, 71, 71);
+}
+
+.center {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
